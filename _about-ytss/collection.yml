@@ -2,8 +2,8 @@ collections:
   about-ytss:
     output: true
     order:
-      - Staff Directory 2023/.keep
-      - Staff Directory 2023/subfolder-page.md
+      - Our People/.keep
+      - Our People/subfolder-page.md
       - School Advisory Committee.md
       - Vision, Mission, Motto, Values.md
       - Autonomous School.md
