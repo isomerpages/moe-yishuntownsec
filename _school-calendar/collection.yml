@@ -1,0 +1,4 @@
+collections:
+  school-calendar:
+    output: true
+    order: []
