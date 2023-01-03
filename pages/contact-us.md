@@ -33,4 +33,13 @@ contacts:
       - other: "For prospective parents and students with questions, please drop us an
           email indicated above. "
     title: "Prospective Parents&Students:"
+  - content:
+      - phone: ""
+      - email: ""
+      - other: 'You may wish to follow us on our <b>official</b> communications channels
+          run by YTSS Corporate Communications Team:<br>a) Instagram: <a
+          href="https://www.instagram.com/yishuntownsec/">@yishuntownsec</a><br>  b)
+          Telegram: <a
+          href="https://go.gov.sg/ytsstelegram">https://go.gov.sg/ytsstelegram</a>'
+    title: "Social Media:"
 ---
