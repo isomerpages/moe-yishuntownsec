@@ -2,6 +2,8 @@ collections:
   school-calendar:
     output: true
     order:
+      - Upcoming Events & Activities/Semester 1 Post Exam Activities (23 May to
+        27 May).md
       - Upcoming Events & Activities/YTSS 36th Speech Day Celebration.md
       - Upcoming Events & Activities/Sec 2 Parent Teacher Rapport Session, 11
         Mar 2022.md
