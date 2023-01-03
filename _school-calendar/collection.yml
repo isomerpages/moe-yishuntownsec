@@ -2,6 +2,8 @@ collections:
   school-calendar:
     output: true
     order:
+      - Upcoming Events & Activities/Sec 1 Parents Teacher Rapport Session, 11
+        Feb 2022.md
       - Upcoming Events & Activities/Sec 4&5 Parents Engagement, 28 Jan 2022.md
       - Upcoming Events & Activities/Sec 1 Parents Engagement, 6 Jan 2022.md
       - Upcoming Events & Activities/Release of GCE O Level 2021 Results.md
