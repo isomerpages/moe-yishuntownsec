@@ -2,6 +2,7 @@ collections:
   school-calendar:
     output: true
     order:
+      - Upcoming Events & Activities/Sec 1 Parents Engagement, 6 Jan 2022.md
       - Upcoming Events & Activities/Release of GCE O Level 2021 Results.md
       - Upcoming Events & Activities/.keep
       - YTSS Open House 2022/.keep
