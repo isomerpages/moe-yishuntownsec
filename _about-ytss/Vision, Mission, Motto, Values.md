@@ -34,3 +34,7 @@ We Will Excel!
 
 <img src="/images/Picture32.jpg" 
      style="width:25%">
+		 
+The school logo incorporate the letter Y which stands for Yishun and Youthfulness, embracing life with zeal to face the new challenges of the millenium. In line with YTSS' vision of a well-rounded education, the four arrows represent the development of the heart, body, mmind and soul while the circle symbolises the ultimate goal of a well-rounded pupil.
+
+The blue background represents a peaceful and harmonious school atmosphere. The yellow stands for the vibrancy of our endeavours.
