@@ -2,6 +2,7 @@ collections:
   school-calendar:
     output: true
     order:
+      - Calendar.md
       - Upcoming Events & Activities/Upcoming Events & Activities.md
       - Upcoming Events & Activities/Semester 1 Post Exam Activities (23 May to
         27 May).md
