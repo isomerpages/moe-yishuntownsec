@@ -1,8 +1,8 @@
 logo: /images/school logo-blue.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: About Ytss
     collection: about-ytss
+  - title: Calendar
+    collection: about-ytss
+  - title: Contact Us
+    url: /contact-us/
