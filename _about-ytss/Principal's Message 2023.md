@@ -23,4 +23,21 @@ _(There were plenty of questions asked by our student councilors,_ _ranging fro
 
 **Core dispositions and competencies, anchored by values**  
 
-We continue to deepen our endeavor to develop strong core dispositions and competencies such as reflective thinking, critical thinking, emotional regulation, intrinsic motivation in YTzens. These will be that anchored on values, sense of self-worth and identity. To develop students who could take an interest in STEAM (Science, Technology, Engineering, Aesthetics and Mathematics), a group of Secondary One students were selected to undergo a year-long Builder Springboard Programme. Here is a photograph of them engaging our SAC member Professor Lui Pao Chuen, on the possibilities of science and technology in the future
+We continue to deepen our endeavor to develop strong core dispositions and competencies such as reflective thinking, critical thinking, emotional regulation, intrinsic motivation in YTzens. These will be that anchored on values, sense of self-worth and identity. To develop students who could take an interest in STEAM (Science, Technology, Engineering, Aesthetics and Mathematics), a group of Secondary One students were selected to undergo a year-long Builder Springboard Programme. Here is a photograph of them engaging our SAC member Professor Lui Pao Chuen, on the possibilities of science and technology in the future.
+
+![](/images/2pm.jpg)
+_(Students asked Prof questions like “Are there aliens”, “Should we colonise Mars?”_ _Speak with any of the YTzens present to hear Prof’s views!)_
+
+**Engaged Staff, committed to learning**  
+
+To prepare students to seize prime opportunities, our staff are indispensable. They are the best guides and mentors for the YTzens. The school therefore aims to enhance their overall wellbeing and growth, so that they can be fulfilled and engaged. We will thus continue to grow them so that they can better grow your child.
+
+![](/images/3pm.jpg)
+_(Photo of our EAS on their learning journey to Chinatown. Our non-teaching staff form the backbone of the school in rendering support and service. YTSS also places a premium to engage and grow our non-teaching staff.)_  
+
+I have given you a glimpse on three important approaches we will undertake to prepare YTzens to seize prime opportunities in 2023. There are plentiful more exciting things we do in here at YTSS. You – parents, alumni, and friends – can and should be part of this endeavor. I welcome all of you to join us!
+
+Yours in learning,  
+
+Mr Ng Teo Heng   
+Principal
