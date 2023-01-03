@@ -31,3 +31,6 @@ Resilience we develop
 We Will Excel!
 
 ##### School Logo
+
+<img src="/images/Picture32.jpg" 
+     style="width:25%">
