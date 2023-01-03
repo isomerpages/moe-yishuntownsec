@@ -2,6 +2,8 @@ collections:
   school-calendar:
     output: true
     order:
+      - Upcoming Events & Activities/Total Defence Day Public Lecture, 14 Feb
+        2022.md
       - Upcoming Events & Activities/Sec 1 Parents Teacher Rapport Session, 11
         Feb 2022.md
       - Upcoming Events & Activities/Sec 4&5 Parents Engagement, 28 Jan 2022.md
