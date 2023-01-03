@@ -2,6 +2,7 @@ collections:
   about-ytss:
     output: true
     order:
+      - School Advisory Committee.md
       - Vision, Mission, Motto, Values.md
       - Autonomous School.md
       - Our Heritage.md
