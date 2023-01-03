@@ -2,10 +2,10 @@ collections:
   about-ytss:
     output: true
     order:
+      - example-subfolder/.keep
+      - example-subfolder/subfolder-page.md
       - School Advisory Committee.md
       - Vision, Mission, Motto, Values.md
       - Autonomous School.md
       - Our Heritage.md
       - The YT2026 Plan.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
