@@ -28,4 +28,4 @@ If you have any further questions or concerns, please drop us an email at [corp
 
 ### Principal Address
 
-![](/images/PTR.jpg)
+[![](/images/PTR.jpg)](/files/Sec%204%20and%205%20PTR_Principal%20Address.pdf)
