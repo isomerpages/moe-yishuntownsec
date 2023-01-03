@@ -2,6 +2,7 @@ collections:
   about-ytss:
     output: true
     order:
+      - Vision, Mission, Motto, Values.md
       - Autonomous School.md
       - Our Heritage.md
       - The YT2026 Plan.md
