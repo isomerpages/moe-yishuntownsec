@@ -2,5 +2,5 @@ collections:
   school-calendar:
     output: true
     order:
-      - YTSS Open House 2022/example-page.md
+      - YTSS Open House 2022/YTSS Open House 2022.md
       - YTSS Open House 2022/.keep
