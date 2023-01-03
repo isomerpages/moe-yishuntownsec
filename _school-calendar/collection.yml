@@ -2,6 +2,7 @@ collections:
   school-calendar:
     output: true
     order:
+      - Upcoming Events & Activities/.keep
       - YTSS Open House 2022/.keep
       - YTSS Open House 2022/YTSS Open House 2022.md
       - YTSS Open House 2022/DSA Application 2022.md
