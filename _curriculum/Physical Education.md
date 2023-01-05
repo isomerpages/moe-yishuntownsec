@@ -3,7 +3,7 @@ title: Physical Education
 permalink: /curriculum/physical-education/
 description: ""
 ---
-# **Physical Education**
+![](/images/20171027_082834.jpg)# **Physical Education**
 
 ![](/images/PE.jpg)
 
@@ -61,4 +61,3 @@ The philosophy of PE in YTSS is to encourage participation in a student-centred 
 
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Secondary One Dance</th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• The Dance Programme is catered to all Secondary 1 students during PE. It teaches students basic dance movements and simple dance choreography. At the end of the programme, selected groups will be given opportunities to perform at level/school-wide platforms.</td></tr></tbody></table>
-
