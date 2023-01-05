@@ -21,3 +21,6 @@ The department also believes that Mother Tongue language serves to impart person
 The YTSS Mother Tongue department believes that Mother Tongue education serves an important role in bringing the joy of learning and helping students understand their own culture and heritage. Each year, YTzens participate in various cultural experiences like traditional food appreciation, martial arts and learning about traditional medicine.
 
 It is also the belief of the department that we nurture every student to be proficient in the use of Mother Tongue Languages. The department also organises differentiated learner-centred activities, which aim to improve the students' language skills and mould them to be confident, independent and lifelong learners of the Mother Tongue Languages.
+
+
+### Mission & Vision
