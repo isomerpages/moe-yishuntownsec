@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Craft & Technology Department/Art Unit.md
       - Craft & Technology Department/Music Unit.md
       - Craft & Technology Department/Nutrition and Food Science Unit.md
       - Craft & Technology Department/.keep
