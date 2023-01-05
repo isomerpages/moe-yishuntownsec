@@ -62,3 +62,28 @@ Reading plays a very important part to develop students thinking skills. Student
 ![](/images/Book%20Review%20Exhibition%202019%20(V2).jpg)
 
 ![](/images/Book%20Review%20Exhibition%202019.jpg)
+
+
+**Reading Club** \- Reading lessons are structured in the SOW so that there is a time and space for students to discuss ideas and themes related to a given book. Through thought provoking questions and class discussions, teachers connect literature to the world we live in and extrapolate life lessons to make the texts more relevant to the students
+
+![](/images/12.png)
+
+**SCHOOL PUBLICATION (毅然优秀作品集， 出版2022年)**  
+
+Mother Tongue Languages Department published a compilation of students work, featuring good Chinese Language essays written by our YTzens. These essays are written pieces that students have worked on throughout the year and serve not only  as a form of encouragement to those who have written these essays but also as a means of motivating other students to continue writing well and have their essays featured in the compilation in the years to come and pick up useful phrases and tips while reading too !
+
+![](/images/1234.png)
+
+**Talent Development Programme**
+
+Students who have keen interest and aptitude towards Mother Tongue languages are given opportunities to showcase their talents in various platforms such as participation in various categories of languages and cultural related competitions at cluster and  national level.  Our students have achieved awards for Xin Lei Jiang (Chinese Creative Writing Competitions), Bilingual Youth Model United Nations Conference, Text Recital Competition (CL), Poetry Tamil Writing Competition,  Tamil Comics Story Telling Competition (TL) etc. These competitions provide students avenues to stretch our students potential in language capacity, boost their confidence and taking opportunities to learn from students of other schools.
+
+**Authentic Learning Experiences**
+
+Every year, the department embarked on rendering YTzens authentic learning experiences through Lenspeak and News Video Production projects. These projects aim to inject the element of fun and creativity into the learning of Mother Tongue languages by making our Teaching and Learning come “alive”.
+
+Guidance was given in the form of feedback on a regular basis where teachers adopted the conscientious use of the 4 levels of feedback, varied the type of feedback for respective students at different points of time to level up their projects systematically. Teachers ensured that guidance and feedback given catered to the students’ learning pace and needs, making their authentic learning experience not just doable but a rich and enjoyable process.
+
+For Lenspeak, students were introduced to the concept of telling a story through the lens (photographs) and words. Various writing skills were reinforced and students applied these skills to enhance the narration of their stories through the use of Similes, Metaphors and symbolism. Students also learnt how to present their thoughts and ideas in the form of photographs and the use of different angles to look at their surroundings.
+
+Through News Video Production, the department aims to develop in students various skills such as language skills, computer skills, organising, information processing, critical thinking, and teamwork via broadcasting. The project created a real-life context for learning through which students’ confidence, autonomy, and sense of responsibility were enhanced.
