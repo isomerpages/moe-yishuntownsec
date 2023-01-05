@@ -11,3 +11,16 @@ description: ""
 
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mission<br></th><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Excellence &amp; Passion for Mathematical Success</span><br></th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Vision<br></td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Nurturing YTzens to be Confident and Competent Problem Solvers</span></td></tr></tbody></table>
+
+
+
+
+### Department Overview
+
+The Mathematics Department firmly believes that a spirit of excellence and a passion for the learning and exploration of Mathematics will generate mathematical success. To develop this passion for the subject, activities are designed and conducted in and out of the classroom to spark enthusiasm and joy of learning in our YTzens.   
+
+In the classroom, a variety of tools such as Kahoot!, Geogebra, Desmo and other manipulatives are used to engage students of all abilities in the learning of Mathematics. The use of Ace-Learning and Student Learning Space (SLS) platforms enable students to explore and learn Mathematics at their own pace. Projects such as the Mathematical Modelling task helps to develop critical thinking and collaboration skills in our students. Math trails and workshops are conducted to enable students appreciate the application of Mathematics in the real-world. Students with a passion for the subject are also given the opportunity to challenge themselves and compete on various platforms, such as the Mathematical Olympiad, the Australian Mathematics Competition and the TI Graphing Calculator Competition. 
+
+  
+
+### Key Programs / Enrichment for students
