@@ -4,3 +4,13 @@ permalink: /curriculum/mother-tongue-languages/
 description: ""
 ---
 # **Mother Tongue Languages**
+
+![](/images/MT.jpg)
+
+### Philosophy
+
+Through the learning of Mother Tongue languages, students will gain insight into the history and culture of their ethnicity which will shape their self and cultural identity, heighten their self-awareness and give them a full appreciation of their life situation.
+
+The department also believes that Mother Tongue language serves to impart personal and societal values to the students. Through appreciation of texts rich in ethics and values, students learn to be upright and responsible individuals. Through discussions of current affairs, students learn to think critically and form their own opinions, at the same time, learn to tolerate and understand people from different walks of life. It will also sharpen their cognitive and life skills.
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#B0B0B0;border-color:#ffffff;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Desired outcomes:</th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• YTzens who are confident in communicating no need ideas as communicating includes ideas through speaking and writing of Mother Tongue</td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• YTzens who can think creatively, critically and reflectively</td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• YTzens with values and ethics that are crucial for them to tackle the challenges posed by the increasing globalised world and innovation-based economy</td></tr></tbody></table>
