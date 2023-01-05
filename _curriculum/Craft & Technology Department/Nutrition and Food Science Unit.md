@@ -25,3 +25,8 @@ Food and Consumer Education – For A Healthy You!
 **Mission**
 
 Through this discipline, we aim to empower students to be health-conscious and discerning consumer; enabling them to better manage lives for the present and the future.
+
+![](/images/fce%202.png)
+![](/images/fce%203.png)
+![](/images/fce%204.png)
+![](/images/fce%205.png)
