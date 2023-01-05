@@ -27,3 +27,17 @@ It is also the belief of the department that we nurture every student to be prof
 
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mission<br></th><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• To build a team of competent and passionate teachers<br>• To impart the love of learning and appreciation of our Mother Tongue languages and culture<br>• To develop confident and proficient users of Mother Tongue languages</th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Vision<br></td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">A community of passionate learners and proficient users who take pride in their cultural heritage</span></td></tr></tbody></table>
+
+
+
+### Key Programs / Enrichment for Students
+
+Through the provision of a rich curriculum, the Mother Tongue Department is committed to nurture every student to be proficient in the use of Mother Tongue languages, to appreciate and respect cultures associated with their Mother Tongue languages. The department stretches students through differentiated activities that are learner centred. These activities aim to improve the students’ language skills and mould them to be confident, independent and lifelong learners of the Mother Tongue languages.
+
+  
+
+**Mother Tongue Fortnight and Cultural Camp**
+
+  
+
+YTzens from Secondary One to Three were exposed to many meaningful activities, such as cultural-related workshops, talks by authors and news broadcasters, traditional food making and appreciation workshops, a movie and music appreciation workshop, poetry recital, skit or cross talk competition, book review exhibition and visits to the Malay Heritage Centre. Through these fun and innovative activities, YTzens have learnt to appreciate and gain deeper insight into their Mother Tongue Languages and culture.
