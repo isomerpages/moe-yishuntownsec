@@ -87,3 +87,6 @@ Guidance was given in the form of feedback on a regular basis where teachers ado
 For Lenspeak, students were introduced to the concept of telling a story through the lens (photographs) and words. Various writing skills were reinforced and students applied these skills to enhance the narration of their stories through the use of Similes, Metaphors and symbolism. Students also learnt how to present their thoughts and ideas in the form of photographs and the use of different angles to look at their surroundings.
 
 Through News Video Production, the department aims to develop in students various skills such as language skills, computer skills, organising, information processing, critical thinking, and teamwork via broadcasting. The project created a real-life context for learning through which students’ confidence, autonomy, and sense of responsibility were enhanced.
+
+
+### Picture Highlights - Mother Tongue Fortnight 2019
