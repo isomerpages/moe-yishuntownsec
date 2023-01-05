@@ -51,3 +51,4 @@ Art lessons are conducted in the Three Studio Structures:
 • Critique: Teachers and students discuss and reflect on students' artwork, often while it is still in process. Through Inquiry-based learning, the responses of the students will be elicited.
 
 ![](/images/aesthetics%20and%20craft%20and%20technology%20department%203.jpg)
+uploaded 1/6 images
