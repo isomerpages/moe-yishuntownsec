@@ -2,4 +2,5 @@ collections:
   curriculum:
     output: true
     order:
+      - Craft & Technology Department/.keep
       - Physical Education.md
