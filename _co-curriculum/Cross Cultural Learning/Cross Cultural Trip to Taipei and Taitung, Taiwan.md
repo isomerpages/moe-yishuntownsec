@@ -48,3 +48,5 @@ The Taiwan Immersion Programme had been a meaningful exposure for the Seco
 “台湾之旅教了我们很多，我不只学到许多生活常识，也学到许多科学知识和人生道理。去森林博物馆时我们得靠绳子爬山，而我的好友――思敏虽然失败了很多次，但她从不畏惧，勇敢地面对困难。在大家的帮助和她的坚持努力之下，她最终成功地完成了登山活动。我觉得她的精神可嘉，也让我有所感触。我觉得我从她身上学到了正确的价值观，也深刻了解到要以积极、乐观的心态面对困难。”    
 \-**吴思瑶 3E7**
 
+
+![](/images/Taiwan_Beginning_of_a_great_learning_journey.jpg)
