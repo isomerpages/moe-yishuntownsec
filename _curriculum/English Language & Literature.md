@@ -41,3 +41,16 @@ Through the varied pedagogy and learning experiences curated for our Secondary 1
 **Experimental Learning** 
 
 From 2018 onwards, the department will be embarking on dialogic pedagogy in which certain units within the curriculum will be taught through a process in which teacher and pupils critically experience language learning in the real world and actively reflect to create meaning for themselves. Students will engage in exciting discussions and critically assess issues that are relevant to their daily life.
+
+![](/images/WhatsApp%20Image%202018-10-12.jpeg)
+
+In 2018, our Secondary 3 cohort embarked on a learning journey to Unpackt, a zero waste grocery store where they learned more about waste management and leading a more environmentally conscious lifestyle.
+
+![](/images/WhatsApp%20Image%202018-10-12%20(1).jpeg)
+
+**Reading Program**  
+
+Reading forms the cornerstone of English literacy. Students are encouraged to read regularly through the activities in the Grapevine Reading Programme:
+
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Drop Everything and Read (DEAR)</span> <span style="color:#222;background-color:#EAEAEA">- Time is set aside during the morning assembly on odd weeks to get students in the habit of reading English materials.</span><br></th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Reading Programme</span> <span style="color:#222;background-color:#EAEAEA">- Reading lessons are structured in the timetables so that there is a time and space for students to discuss ideas and themes related to a given text. Through thought provoking questions and class discussions, teachers connect literature to the world we live in and extrapolate life lessons to make the texts more relevant to the students.</span></td></tr></tbody></table>
