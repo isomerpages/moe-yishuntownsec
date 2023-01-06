@@ -133,3 +133,7 @@ to become YTzens who are
 **CONFIDENT LEADERS,**    
 **ACTIVE CITIZENS,**   
 **GLOBAL THINKERS.**
+
+
+![](/images/sch%20val.jpg)
+![](/images/LT.jpg)
