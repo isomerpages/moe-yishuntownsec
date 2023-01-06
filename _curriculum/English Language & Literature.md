@@ -29,3 +29,5 @@ Creating authentic and real world situations for students to learn and engage wi
 As part of the English Language and Literature curriculum, our students participate in learning journeys, Good English Language (GEL) Week, Readers Theatre, English Language Reading Programme and sign up for our Talent Development Programme. In 2018, the department also organised our inaugural Get R.E.A.L Festival, to develop a greater love for languages and Literature. 
 
 Through the varied pedagogy and learning experiences curated for our Secondary 1 to 4 students, YTzens have the opportunity to explore the different facets of language learning and literature – reading, writing, speaking and listening. With the different skill sets students are exposed to, the English Language & Literature Department aims to help nurture YTzens of the future - confident leaders, active citizens and global thinkers who are proficient writers, confident speakers, critical thinkers and independent learners.
+
+### Mission & Vision
