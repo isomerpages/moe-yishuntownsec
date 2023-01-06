@@ -2,6 +2,8 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Student Development/Student Development (Social and Emotional Learning)
+        programmes.md
       - Student Development/Student Leadership Development.md
       - Student Development/.keep
       - Cross Cultural Learning/Cross Cultural Trip to Beijing, China.md
