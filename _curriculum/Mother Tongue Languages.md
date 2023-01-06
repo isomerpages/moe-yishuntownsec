@@ -90,3 +90,12 @@ Through News Video Production, the department aims to develop in students variou
 
 
 ### Picture Highlights - Mother Tongue Fortnight 2019
+
+![](/images/WhatsApp%20Image%202019-02-26(1).jpeg)
+uploaded 1/13
+
+
+### Picture Highlights - Book Review Exhibition 2019
+
+![](/images/12.png)
+uploaded 1/12 images
