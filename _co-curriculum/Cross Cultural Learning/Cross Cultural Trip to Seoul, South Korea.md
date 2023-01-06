@@ -32,3 +32,5 @@ I will not fight the war if I am the only source of support for my family and if
 
 
 ![](/images/South%20Korea%20Trip%20Photo%201.jpg)
+
+![](/images/South%20Korea%20Trip%20Photo%202.jpg)
