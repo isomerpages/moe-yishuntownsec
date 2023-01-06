@@ -54,3 +54,24 @@ Reading forms the cornerstone of English literacy. Students are encouraged to re
 
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Drop Everything and Read (DEAR)</span> <span style="color:#222;background-color:#EAEAEA">- Time is set aside during the morning assembly on odd weeks to get students in the habit of reading English materials.</span><br></th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Reading Programme</span> <span style="color:#222;background-color:#EAEAEA">- Reading lessons are structured in the timetables so that there is a time and space for students to discuss ideas and themes related to a given text. Through thought provoking questions and class discussions, teachers connect literature to the world we live in and extrapolate life lessons to make the texts more relevant to the students.</span></td></tr></tbody></table>
+
+
+**Good English Movement (GEL)**  
+  
+The Good English Movement (GEL) is a whole-school approach which aims to raise awareness of the importance in communicating in Standard English and to cultivate confident speakers in YTzens. The movement saw an overwhelming response and participation in a myriad of activities for students and staff, including the Instagram Challenge, poem-writing competition, speech presentations and Readers’ Theatre.
+
+  
+**Reader's Theatre**  
+ 
+The department aims to bring out the confident communicator in all YTzens. Adopting a student-centred approach, students learn about pronunciation, enunciation and voice projection through Reader’s Theatre. In Reader’s Theatre, students experiment with different ways to express emotions and to understand the importance of having appropriate vocal expressions because these can affect the impact of the story on the audience. 
+
+Before the dramatisation, students need to translate a narrative prose text to a Reader’s Theatre script. Given the different types of texts, students need to use the appropriate grammar, tone and register in their translations. Hence, Reader’s Theatre allows students to acquire both oral and written communication skills in an engaging manner.  
+
+  
+**Talent Development Programme**  
+
+Students who have demonstrated high competencies in speaking and writing are stretched under the departmental talent development programme. Selected students are exposed to community events and prestigious competitions that aim to hone their communication, critical and inventive thinking skills.
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#B0B0B0;border-color:#ffffff;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2">Notable competitions students participate include:</th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="2"><span style="color:#222;background-color:#EAEAEA">Chong Pang's Next Top Speaker</span></td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="2"><span style="color:#222;background-color:#EAEAEA">National Schools Literature Competition</span></td></tr></tbody></table>
+
+
