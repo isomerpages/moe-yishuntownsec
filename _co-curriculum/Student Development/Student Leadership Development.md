@@ -51,3 +51,33 @@ The 5 Practices of Exemplary Leadership model was developed 3 decades ago based 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#4F81BD;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Practices</th><th style="background-color:#4F81BD;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Description</th></tr></thead><tbody><tr><td style="background-color:#D0D8E8;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Model The Way</td><td style="background-color:#D0D8E8;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Our Student Leaders create standards of excellence and then set an example for others to follow. </td></tr><tr><td style="background-color:#E9EDF4;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Inspire A Shared Vision</td><td style="background-color:#E9EDF4;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Our Student Leaders passionately believe that they can make a difference and enlist others into their dreams.</td></tr><tr><td style="background-color:#D0D8E8;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Challenge The Process</td><td style="background-color:#D0D8E8;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Our Student Leaders experiment and take risks to improve the Organisation.</td></tr><tr><td style="background-color:#E9EDF4;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Enable Others To Act</td><td style="background-color:#E9EDF4;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Our Student Leaders foster collaboration and actively involves others.  </td></tr><tr><td style="background-color:#D0D8E8;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Encourage The Heart</td><td style="background-color:#D0D8E8;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Our Student Leaders celebrate achievements and recognize contributions that individuals make.</td></tr></tbody></table>
 
 \*Reference: [www.studentleadershipchallenge.com](http://www.studentleadershipchallenge.com/)
+
+
+
+
+
+
+**Process:**
+
+**Identification****:**
+
+The SLC has adopted several methods to identify Student Leaders among our Student Body in YTSS such as:
+
+1\.    Teacher Nomination   
+Nominations by Teachers are crucial in identifying Students who show Leadership potential through their participation in classes and Co-Curricular Activity (CCA).
+
+2\.    Peer Nomination    
+This is an avenue where the SLOs and Teachers-in-charge are able to gain personal feedback of the Students’ perspective and opinion to better identify potential Student Leaders that are well-regarded upon by his/her peers.
+
+3\.    Interview with SLO Teacher Advisors    
+Interviews are personally done by SLO Teacher Advisors to allow in-depth discussion with the nominated Students so as to better understand the views and opinions of these potential Student Leaders.
+
+**Multiple Pathways:**
+
+The Student Leadership Programme (SLP) has crafted multiple pathways for the Leadership development of our YTzens upon identification and confirmation as Student Leaders in YTSS mainly through:
+
+* Potential Leaders developing through Aspiring Leaders.
+* CCA appointed Leaders developing through Empowering Leaders.
+* Yishun Town Monitor Council (YTMC) leading up to YTMC Executive Committee.
+* Yishun Town Student Council (YTSC) leading up to the YTSC Executive Committee.
+* Others: Secondary One Orientation, Secondary Two Adventure Camp, Secondary Three Leadership Camp, Service Learning Projects, et cetera for all Students.
