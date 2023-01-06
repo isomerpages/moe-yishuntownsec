@@ -50,3 +50,8 @@ The school adopts the school-wide approach to implement ECG in the school. The E
 **For NA/NT students**    
 
 [https://www.ite.edu.sg/admission/ft/JIEN%20Admission%20Booklet%202019.pdf](https://www.ite.edu.sg/admission/ft/JIEN%20Admission%20Booklet%202019.pdf) - page not found
+
+
+![](/images/Sec%201%20–%20To%20Inspire%20Love%20For%20Learning%20–%20Learn4Fun,%20Learn4Life%20Mid-Year%20Programme.jpg)
+
+![](/images/Sec%202%20–%20Mini-Career%20Fair.jpg)
