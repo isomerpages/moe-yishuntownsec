@@ -34,3 +34,10 @@ Through the varied pedagogy and learning experiences curated for our Secondary 1
 
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mission<br></th><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#222">Every student will succeed in doing well in the English Language and Literature</span></th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Vision<br></td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Every student will be a confident and proficient user of the English Language</span></td></tr></tbody></table>
+
+
+### Key Programs / Enrichment for students 
+
+**Experimental Learning** 
+
+From 2018 onwards, the department will be embarking on dialogic pedagogy in which certain units within the curriculum will be taught through a process in which teacher and pupils critically experience language learning in the real world and actively reflect to create meaning for themselves. Students will engage in exciting discussions and critically assess issues that are relevant to their daily life.
