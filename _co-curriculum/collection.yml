@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Cross Cultural Learning/Cross Cultural Trip to Vietnam.md
       - "Cross Cultural Learning/Cross Cultural Trip to Kyoto, Japan: Sagano
         High School.md"
       - Cross Cultural Learning/.keep
