@@ -6,7 +6,6 @@ third_nav_title: Student Development
 ---
 # **Student Development (Social and Emotional Learning) programmes**
 
-### 
 
 The school implements strategies and programmes to provide support for the students in their social and emotional development. The support provided for students is customised to meet the needs of the different student segments.  
 
