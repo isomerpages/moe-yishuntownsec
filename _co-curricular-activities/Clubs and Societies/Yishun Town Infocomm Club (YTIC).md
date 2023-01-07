@@ -23,3 +23,6 @@ If every great dream begins with a dreamer, then every dreamer dreams because of
 ### Teachers-In-Charge
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 196px" class="tg"><colgroup><col style="width: 196px"></colgroup><thead><tr><th style="background-color:#ECECEC;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:serif !important;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:800;color:#333">Mr Rommel Choong</span></th></tr></thead><tbody><tr><td style="background-color:#ECECEC;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:serif !important;font-size:14px;font-style:italic;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:800;color:#333">Mr Danny Choi</span></td></tr><tr><td style="background-color:#ECECEC;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:800;color:#333">Mr Terence Ten</span></td></tr></tbody></table>
+
+
+### Student Leadership Committee 2021
