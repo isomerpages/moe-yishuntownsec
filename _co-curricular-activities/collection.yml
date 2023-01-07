@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Sports and Games/.keep
-      - Sports and Games/Sports & Games.md
       - Sports and Games/Yishun Town Basketball, Boys (YTBB).md
       - Sports and Games/Yishun Town Basketball, Girls (YTBG).md
       - Sports and Games/Yishun Town Air Weapons Club (YTAWC).md
