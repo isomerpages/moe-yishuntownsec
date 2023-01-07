@@ -26,3 +26,7 @@ On top of that, we contribute to the community during the Service Month by sprea
 
 
 ### Teachers-In-Charge
+
+
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#ECECEC;border-color:#000000;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Unit OC: Mr Nurul Hafiz Bin Shamsudin </span></th></tr></thead><tbody><tr><td style="background-color:#ECECEC;border-color:#000000;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Secondary 1 OC: Ms Estee Chua Ke Xin</span></td></tr><tr><td style="background-color:#ECECEC;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Secondary 2 OC: Ms Muthumeenakshi Gopalan</td></tr><tr><td style="background-color:#ECECEC;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Secondary 3 OC: </span>Ms Nur Atiqa Binte Mohamed Noor</td></tr></tbody></table>
