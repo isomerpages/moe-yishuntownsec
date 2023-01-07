@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Co Curricular Activities (CCA)/.keep
       - Beyond Classroom Week.md
       - Student Development/Discipline.md
       - Student Development/Talent Development.md
