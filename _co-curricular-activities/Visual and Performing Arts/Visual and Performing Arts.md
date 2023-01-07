@@ -7,11 +7,11 @@ third_nav_title: Visual and Performing Arts
 # **Visual and Performing Arts**
 
 ### CCAs
-* Chinese Dance, 
-* Wind Orchestra, 
-* Drama, 
-* Choir, 
-* Art Club
+* [Wind Orchestra](/co-curriculum/co-curricular-activities-cca/visual-n-performing-arts/yishun-town-wind-orchestra/) 
+* [Choir](/co-curriculum/co-curricular-activities-cca/visual-n-performing-arts/yishun-town-voices-and-chorale/)
+* [Chinese Dance](/co-curriculum/co-curricular-activities-cca/visual-n-performing-arts/yishun-town-chinese-dance/)
+* [Drama](/co-curriculum/co-curricular-activities-cca/visual-n-performing-arts/yishun-town-drama-club)
+* [Art Club](/co-curriculum/co-curricular-activities-cca/visual-n-performing-arts/yishun-town-art-club)
 
 ### Objective
   
