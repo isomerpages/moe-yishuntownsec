@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sports and Games/Yishun Town Ten Pin Bowling (YTTPB).md
       - Sports and Games/Yishun Town Basketball, Boys (YTBB).md
       - Sports and Games/.keep
       - Uniformed Groups/Yishun Town Boys Brigade Unit.md
