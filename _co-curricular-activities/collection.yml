@@ -2,7 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/Yishun Town Boys Brigade Unit.md
       - Uniformed Groups/Yishun Town Girl Guides Unit.md
       - Uniformed Groups/Yishun Town NPCC Unit.md
