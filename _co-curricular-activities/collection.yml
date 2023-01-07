@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Visual and Performing Arts/Yishun Town Art Club (YTAC).md
       - Visual and Performing Arts/.keep
       - Clubs and Societies/.keep
       - Clubs and Societies/Yishun Town Chess Club (YTCC).md
