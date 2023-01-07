@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Beyond Classroom Week.md
       - Student Development/Discipline.md
       - Student Development/Talent Development.md
       - Student Development/Student Development (Social and Emotional Learning)
