@@ -2,14 +2,14 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sports and Games/.keep
       - Sports and Games/Sports & Games.md
+      - Sports and Games/Yishun Town Basketball, Boys (YTBB).md
       - Sports and Games/Yishun Town Basketball, Girls (YTBG).md
       - Sports and Games/Yishun Town Air Weapons Club (YTAWC).md
       - Sports and Games/Yishun Town Table Tennis (YTTT).md
       - Sports and Games/Yishun Town Volleyball Team (YTVB).md
       - Sports and Games/Yishun Town Ten Pin Bowling (YTTPB).md
-      - Sports and Games/Yishun Town Basketball, Boys (YTBB).md
-      - Sports and Games/.keep
       - Uniformed Groups/Yishun Town Boys Brigade Unit.md
       - Uniformed Groups/Yishun Town Girl Guides Unit.md
       - Uniformed Groups/Yishun Town NPCC Unit.md
