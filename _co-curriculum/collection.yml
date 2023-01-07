@@ -2,9 +2,9 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Co Curricular Activities (CCA)/Visual and Performing Arts.md
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/Co Curricular Activities (CCA).md
+      - Co Curricular Activities (CCA)/Visual and Performing Arts.md
       - Co Curricular Activities (CCA)/Clubs & Societies.md
       - Co Curricular Activities (CCA)/Sports & Games.md
       - Co Curricular Activities (CCA)/Uniformed Groups.md
