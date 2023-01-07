@@ -4,3 +4,28 @@ permalink: /co-curriculum/co-curricular-activities-cca/visual-n-performing-arts/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
+# **Yishun Town Wind Orchestra (YTWO)**
+
+![](/images/14.jpeg)
+
+
+### CCA Overview
+
+Yishun Town Wind Orchestra (YTWO) has taken part in many different events and even performed her own inaugural concert, Seasons! – A Musical Journey in April 2018. Her members take pride and joy in showcasing their talents in intra-school events such as the Chinese New Year and the Speech Day celebrations. 
+
+The members have also grained experience participating in nationwide events such as the NPCC Annual Parade (NPAP), the day to honour the outstanding achievements of its units, and the National Day Parade (NDP). The members can look forward to a richer band experience, where they will master the musical skills and techniques in handling performances and be given the opportunity to also learn from experienced musicians from the Singapore Armed Forces and the Singapore Police Force Band.
+
+The Covid-19 pandemic has affected the way the Co-curricular Activity is run. Wind instruments were not allowed to be played until around mid-October 2020 and with a lot of restrictions imposed to curb the spread of Covid-19, YTWO was not able to participate in key events such as the 2020 NPAP and NDP 2020. The members have had to adapt to the safe management measures and adapted to the e-CCA sessions, where the conductors continue to monitor the members’ progress and standards via Google Classroom and online meetings.
+
+This year, YTWO will be participating in the Singapore Youth Festival Arts Presentation 2021, which has been modified to enable schools to participate based on the level of student readiness and in alignment with the prevailing SMM. The members are practicing conscientiously to prepare themselves well for the Arts Presentation and they also look forward to participating in this year’s NPAP and NDP events.
+
+### CCA Information
+
+
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 469px" class="tg"><colgroup><col style="width: 194px"><col style="width: 275px"></colgroup><thead><tr><th style="background-color:#ECECEC;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Training / Meeting venue</th><th style="background-color:#ECECEC;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Band Room<br></th></tr></thead><tbody><tr><td style="background-color:#ECECEC;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Training Day / Time</td><td style="background-color:#ECECEC;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Tuesdays, 3.30pm to 6pm<br>Fridays, 2pm to 6pm<br></td></tr><tr><td style="background-color:#ECECEC;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Coaches and Instructors</td><td style="background-color:#ECECEC;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Goh Kim Seng<br>Mdm Tham Siew Haw<br>Mr Thomas Chen</td></tr></tbody></table>
+
+
+### Teachers-In-Charge
+
+
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 209px" class="tg"><colgroup><col style="width: 209px"></colgroup><thead><tr><th style="background-color:#EEE;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mrs Haslinah Missel</th></tr></thead><tbody><tr><td style="background-color:#EEE;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#333">Mr Alan Chew</span></td></tr><tr><td style="background-color:#EEE;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#333">Ms Izyan Rozana</span> </td></tr><tr><td style="background-color:#EEE;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#333">Ms Hafiana</span></td></tr><tr><td style="background-color:#EEE;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#333">Mdm Kalai</span></td></tr></tbody></table>
