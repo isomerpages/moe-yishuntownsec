@@ -2,11 +2,11 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Clubs and Societies/Yishun Town Photography Club (YTPC).md
+      - Clubs and Societies/.keep
       - Clubs and Societies/Yishun Town Chess Club (YTCC).md
+      - Clubs and Societies/Yishun Town Photography Club (YTPC).md
       - Clubs and Societies/Yishun Town Environmental Science Club.md
       - Clubs and Societies/Yishun Town Infocomm Club (YTIC).md
-      - Clubs and Societies/.keep
       - Sports and Games/.keep
       - Sports and Games/Yishun Town Basketball, Boys (YTBB).md
       - Sports and Games/Yishun Town Basketball, Girls (YTBG).md
