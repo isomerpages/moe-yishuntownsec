@@ -2,4 +2,5 @@ collections:
   parents-links:
     output: true
     order:
+      - Parents Gateway.md
       - Principal’s EOY Speech 2021.md
