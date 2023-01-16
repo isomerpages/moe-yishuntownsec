@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - CCE/Character and Citizenship Education (CCE).md
       - CCE/Values in Action.md
       - CCE/Process Drama.md
       - CCE/Project School.md
