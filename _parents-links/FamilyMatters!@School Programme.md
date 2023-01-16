@@ -25,3 +25,4 @@ Parents, you and your family are cordially invited to participate in the FamilyM
 
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSxk5tR08vg18XbQbptwtBKHcHbycwju2mJHQP2AEDm1M2sx9mVCy3NIGnqReoZuuPeaRGLy67V28DE/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+(uploaded 8 images only)
