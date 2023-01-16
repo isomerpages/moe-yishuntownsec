@@ -22,4 +22,4 @@ For step-by-step guide to **Travel Declaration and Update of Particulars** on 
 
 To safeguard our students’ data, only parents who are registered in the official student records in the MOE database will be able to use the mobile app.   
   
-Should you need any clarifications or support on accessing Parents Gateway app, please contact the school at ytss@moe.edu.sg.
+Should you need any clarifications or support on accessing Parents Gateway app, please contact the school at [ytss@moe.edu.sg](mailto:ytss@moe.edu.sg).
