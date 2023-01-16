@@ -60,3 +60,6 @@ Students will also be engaged in other add-on programmes such as the 7 Habits of
 
 **L**  – Lessons   
 Students will learn values starting with Self and extending to the Family, School, Community, Nation and the World through our school’s uniquely tailored CCE Curriculum known as  **Values at Heart (V@H)** . Designed with students’ daily experiences as the context, the new V@H syllabus will make learning of values more meaningful and relevant.
+
+
+(content is blocked on original site)
