@@ -18,7 +18,7 @@ For assistance to download the Parents Gateway Mobile Application, you may refer
   
 Click [here](https://www.youtube.com/watch?v=EKpiTM5axNA) to view a video about Parents Gateway app.
 
-For step-by-step guide to **Travel Declaration and Update of Particulars** on Parents Gateway mobile app, please click [here](https://yishuntownsec.moe.edu.sg/qql/slot/u452/Parents%20Gateway/Parents%20Guide%20for%20PG%20Travel%20Declaration%20Update%20Particulars%20-%208%20May%2019.pdf).  
+For step-by-step guide to **Travel Declaration and Update of Particulars** on Parents Gateway mobile app, please click [here](/files/Parents%20Guide%20for%20PG%20Travel%20Declaration%20Update%20Particulars%20-%208%20May%2019.pdf).  
 
 To safeguard our students’ data, only parents who are registered in the official student records in the MOE database will be able to use the mobile app.   
   
