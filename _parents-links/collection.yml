@@ -1,0 +1,4 @@
+collections:
+  parents-links:
+    output: true
+    order: []
