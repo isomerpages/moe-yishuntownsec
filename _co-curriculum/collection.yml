@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - CCE/Process Drama.md
       - CCE/Project School.md
       - CCE/.keep
       - Co Curricular Activities (CCA)/.keep
