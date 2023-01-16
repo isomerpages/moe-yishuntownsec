@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - CCE/Project School.md
       - CCE/.keep
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/Co Curricular Activities (CCA).md
