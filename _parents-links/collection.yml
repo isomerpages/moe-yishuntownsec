@@ -1,4 +1,5 @@
 collections:
   parents-links:
     output: true
-    order: []
+    order:
+      - Principal’s EOY Speech 2021.md
