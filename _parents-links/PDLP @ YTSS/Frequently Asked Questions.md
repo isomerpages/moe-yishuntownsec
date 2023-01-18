@@ -4,6 +4,9 @@ permalink: /parents-links/pdlp-at-ytss/frequently-asked-questions/
 description: ""
 third_nav_title: PDLP @ YTSS
 ---
+# **Frequently Asked Questions**
+
+
 ### Device
 
  **Will there be digital versions for all textbooks? Will students be asked to buy only digital versions of textbooks?**    
