@@ -2,6 +2,7 @@ collections:
   parents-links:
     output: true
     order:
+      - Blended Learning @ YTSS/Blended Learning @ YTSS.md
       - Blended Learning @ YTSS/Home Based Learning Schedule.md
       - Blended Learning @ YTSS/Student Initiated Learning.md
       - Blended Learning @ YTSS/Role of Parents on HBL Day.md
