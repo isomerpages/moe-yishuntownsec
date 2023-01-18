@@ -2,6 +2,7 @@ collections:
   parents-links:
     output: true
     order:
+      - Parent Support Group (PSG).md
       - FamilyMatters!@School Programme.md
       - Parents Gateway.md
       - Principal’s EOY Speech 2021.md
