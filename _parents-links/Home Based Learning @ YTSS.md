@@ -37,3 +37,42 @@ Have fun as you keep learning, and stay safe! You’ve got this! You can access
 Should you have any concerns or questions, do reach out to us so that we can assist you.
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">For general queries </th><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Email: ytss@moe.edu.sg<br>Call our General Office at 6758 7219</th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">For assistance with SLS (password reset, unlocking of accounts as well as queries about lesson assignments)    </td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Please call our School-based Helpline at 6853 8435<br>Operating Hours: Monday to Friday (8.00 a.m. to 4 p.m.)    </td></tr></tbody></table>
+
+
+### Full Home-based Learning (HBL) from 19 May 2021 to 28 May 2021
+
+Dear Parents/Guardians,
+
+With the sharp increase in the number of community cases, including the spike in unlinked cases today, there is a need to reduce interactions and avoid the risk of large clusters. As such, the Ministry of Education (MOE) will be stepping up precautionary measures to safeguard the well-being of all students and staff.
+
+All primary, secondary, junior college (JC) and Millennia Institute (MI) students will shift to full Home-Based Learning (HBL) from 19 May 2021 (Wednesday) till end of the term on 28 May 2021 (Friday).
+
+Schools will remain open for students who require additional support. Preschools and student care centres will also remain open during this period to support parents who need to work. Parents working in essential services or who are unable to secure alternative care arrangements, may approach their children’s primary schools for assistance.
+
+During the full HBL phase, schools will provide instructions and support for students to access a range of both online and hardcopy HBL materials, so that learning continues uninterrupted. The Singapore Student Learning Space (SLS) platform will continue to be accessible to students. Students who require digital devices or internet access may contact  their schools for assistance. Teachers and school personnel will keep in regular contact with students and parents to provide support.  
+
+The mid-year GCE O- and A-Level Mother Tongue Language examinations will proceed as planned and with strict Safe Management Measures (SMMs) in place.
+
+Thank you. Together we can overcome this. Stay safe!
+
+### During School Operating Hours
+
+During school operating hours, students should contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments. 
+
+School-based Helpline: 6853 8435
+
+Mondays - Fridays: 8:00 am - 4:00 pm
+
+ For other matters, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
+
+### Non-School Operating Hours
+
+Students can only contact the SLS Helpdesk outside the school operating hours.
+
+SLS Helpdesk: 6702 6513
+
+Mondays - Fridays: 4:00 pm - 9:00 pm
+
+Saturdays: 9:00 am - 9:00 pm
+
+\*Closed on Sundays & Public Holidays
