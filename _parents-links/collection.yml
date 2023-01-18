@@ -2,6 +2,7 @@ collections:
   parents-links:
     output: true
     order:
+      - PDLP @ YTSS/Updates & Announcements.md
       - PDLP @ YTSS/.keep
       - PDLP @ YTSS/PDLP @ YTSS.md
       - PDLP @ YTSS/Resources.md
