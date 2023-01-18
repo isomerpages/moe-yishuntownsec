@@ -2,9 +2,9 @@ collections:
   parents-links:
     output: true
     order:
-      - PDLP @ YTSS/Frequently Asked Questions.md
-      - PDLP @ YTSS/PDLP @ YTSS.md
       - PDLP @ YTSS/.keep
+      - PDLP @ YTSS/PDLP @ YTSS.md
+      - PDLP @ YTSS/Frequently Asked Questions.md
       - Home Based Learning @ YTSS.md
       - Parents Notification.md
       - Parent Support Group (PSG).md
