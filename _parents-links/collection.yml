@@ -2,6 +2,7 @@ collections:
   parents-links:
     output: true
     order:
+      - Blended Learning @ YTSS/Resources for Parents.md
       - Blended Learning @ YTSS/.keep
       - PDLP @ YTSS/.keep
       - PDLP @ YTSS/PDLP @ YTSS.md
