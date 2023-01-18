@@ -15,6 +15,5 @@ Blended Learning can further strengthen our students’ ability to be self-direc
 ![](/images/Copy%20of%20Red%20Grid%20Minimalist%20Monotone%20Project%20Progress%20Timeline%20Infographic.png)
 
 
-**Blended Learning in Yishun Town Secondary** 
-
+**Blended Learning in Yishun Town Secondary**    
 In YTSS, Secondary 1 students will be the first to start their Blended Learning journey starting from Semester 2 2021. Their Blended Learning experience will encompass both Home-based Learning and what is covered in school during curriculum as well as the student-initiated learning component.
