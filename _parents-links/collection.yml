@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - PDLP @ YTSS/.keep
-      - PDLP @ YTSS.md
       - Home Based Learning @ YTSS.md
       - Parents Notification.md
       - Parent Support Group (PSG).md
