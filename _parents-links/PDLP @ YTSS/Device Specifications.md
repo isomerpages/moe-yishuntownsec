@@ -17,3 +17,5 @@ Basic Specifications:
 
 
 For more information on processor speed, connectivity and warranty & insurance, please download the following document:
+
+[PLD Bundle Specification.pdf](http://qql/slot/u452/PLD%20Bundle%20Specification.pdf) - PDF file not loading
