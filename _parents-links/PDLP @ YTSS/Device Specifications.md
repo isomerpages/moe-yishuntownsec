@@ -8,7 +8,8 @@ third_nav_title: PDLP @ YTSS
 
 Our school has adopted the following device as our Personal Learning Device (PLD): **Acer Chromebook Spin R753TN**
 
-![](/images/acer%201.png)
+<img src="/images/acer%201.png" 
+     style="width:50%">
 
 Basic Specifications:
 
