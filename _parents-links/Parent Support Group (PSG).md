@@ -121,3 +121,23 @@ Yishun Town Secondary School has embarked on the FamilyMatters!@School Programme
  
  
  <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ9MJbALIXzpJnq2iHG0qnxXmanCCQvgVGyik-AmoYcXGySgd75vHtXSbqEhoD_j8jLFjUQYxY0vPiK/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+ 
+ 
+ 
+ Positive Parenting Programme
+----------------------------
+
+  
+
+In order to support parents in building a healthy relationship with their child, our school embarks on the Positive Parenting Programme (**Triple P**) from this year. This programme is supported by Ministry of Social and Family Development and it is now used in 17 countries worldwide.
+
+**Triple P** helps our students’ parents:
+
+* Create a stable, supportive, harmonious family environment
+* Teach their children the skills they need to get along with others
+* Deal positively, consistently and decisively with problem behaviour should it raise
+* Encourage behaviour they like
+* Develop realistic expectations of their children and themselves
+* Take care of themselves as parents
+
+All Sec 1 & Sec 2 parents are eligible to participate in this programme.
