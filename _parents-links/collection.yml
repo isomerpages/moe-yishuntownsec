@@ -2,6 +2,7 @@ collections:
   parents-links:
     output: true
     order:
+      - PDLP @ YTSS/Device Specifications.md
       - PDLP @ YTSS/.keep
       - PDLP @ YTSS/PDLP @ YTSS.md
       - PDLP @ YTSS/Frequently Asked Questions.md
