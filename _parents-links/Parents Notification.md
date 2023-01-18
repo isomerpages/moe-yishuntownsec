@@ -55,3 +55,17 @@ Please note that there will be a briefing for Sec 1 parents on Blended Learning 
 The details are as follows:
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Date</th><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">27 May 2021, Thursday</th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Time</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">6.00 p.m. – 7.00 p.m.</td></tr></tbody></table>
+
+Please refer to the parents letter which has been sent out through Parents’ Gateway for more details.
+
+### Registration for PayNow
+
+26/11/2020
+
+Dear Parents/Guardians,
+
+With the increasing digitalisation of government services, MOE would like to encourage all parents to register their children’s bank account with PayNow using the children’s BC/NRIC number.  The activation of PayNow will facilitate the prompt disbursement of monies for the child, and avoid delays through the filling in and processing of forms or from physical visits to banks for the deposit of cheques.
+
+For a start, MOE will be using PayNow (BC/NRIC) as a means to disburse Edusave award monies starting from the upcoming Edusave award exercise in Dec 2020.
+
+To register for PayNow for your children with their BC/NRIC number, you can refer to the attached guide on PayNow or [visit the website of the Association of Banks in Singapore](https://go.gov.sg/abspaynow) for more information. Please approach your bank if you need further assistance to register for PayNow for your children.
