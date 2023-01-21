@@ -19,3 +19,23 @@ To minimize the waiting time for the purchase of school uniforms and textbooks f
 
 
 **Download:**  [Sec 1 Booklist.pdf](/files/Sec%201%20Booklist.pdf)
+
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**Purchase of Textbooks:**  
+
+For the purchase of textbooks, the options available by the supplier, POPULAR, are:  
+
+**Option 1: via online platform (by 27 Dec 2022, 12 noon)**  
+
+ At textbook.popular.com.sg, with
+
+> o Free home delivery for purchases above $150,
+> 
+> o Delivery charge of $10 for purchases $150 and below, or
+> 
+> o Self-collection by 30 Dec 2022 from bookshop in school. 
+
+A notification email will be sent when the package is ready for collection. Please book an appointment to minimize waiting time. **Login to [https://www.picktime.com/popularschool](https://www.picktime.com/popularschool) to select the date and time-slot or scan the QR Code** below to book an appointment. You will receive an email notification to confirm your appointment.
+
