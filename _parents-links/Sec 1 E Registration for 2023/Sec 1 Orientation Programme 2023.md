@@ -15,3 +15,5 @@ It is not unusual to hear some of these questions being asked on the first day o
 
 
 <img src="/images/IMG_1868.jpg" style="width:300px;height:180px;margin-left:15px;" align = "right">
+
+Prior to the beginning of classes, our Sec 1 YTzens will be given an overview of what life in secondary school is like, from academics to social activities such as Co-Curricular Activities, referred to as our Sec 1 Orientation Programme. Our programme is designed and run by our very own Student Councillors who have been working tirelessly to put together a programme to excite our new members of the YTSS family.
