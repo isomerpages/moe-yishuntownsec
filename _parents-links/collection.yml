@@ -2,6 +2,7 @@ collections:
   parents-links:
     output: true
     order:
+      - Sec 1 E Registration for 2023/Subject Based Banding.md
       - Sec 1 E Registration for 2023/Appeal for Transfer to YTSS.md
       - Sec 1 E Registration for 2023/Additional Resources.md
       - Sec 1 E Registration for 2023/.keep
