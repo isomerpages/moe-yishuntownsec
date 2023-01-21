@@ -58,3 +58,20 @@ School’s bookshop opening hours are as follow:
 **Option 3: via retail outlets**
 
 At POPULAR retail outlets for purchase of textbooks and stationeries, except items with school’s logo. For outlets location, refer to https://www.popular.com.sg/store-locator
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+
+**Purchase of School Uniforms:**
+
+For the purchase of school uniforms (including PE attire, ties and socks), the options available by the supplier, Kong Chong Pte Ltd, are:
+
+**Option 1: via online platform (by 27 Dec 2022, 12 noon)**
+
+* At [**http://www.euniforms.com.sg**](http://www.euniforms.com.sg/), with a delivery fee of $7.
+* Note: Due to high delivery volume during year-end festive season, the uniforms may be delivered by 8 January 2023.  
+* Your child / ward can wear his / her primary school uniform on the first week of school if the uniforms are not delivered yet.
+
+**Option 2: via school (from 27 Dec to 30 Dec 2022)**
+
+* At temporary stall set up at Rooms R1.1 and R1.2 located on the ground floor of Block F. Please book an appointment to minimize waiting time. Login to **[https://www.picktime.com/popularschool](https://www.picktime.com/popularschool) to select the date and time-slot or scan the QR Code** below to book an appointment. You will receive an email notification to confirm your  appointment.
