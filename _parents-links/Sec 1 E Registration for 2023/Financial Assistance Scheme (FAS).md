@@ -31,11 +31,30 @@ For the purchase of textbooks, the options available by the supplier, POPULAR, a
 
  At textbook.popular.com.sg, with
 
-> o Free home delivery for purchases above $150,
-> 
-> o Delivery charge of $10 for purchases $150 and below, or
-> 
-> o Self-collection by 30 Dec 2022 from bookshop in school. 
+* Free home delivery for purchases above $150,
+* Delivery charge of $10 for purchases $150 and below, or
+* Self-collection by 30 Dec 2022 from bookshop in school. 
 
 A notification email will be sent when the package is ready for collection. Please book an appointment to minimize waiting time. **Login to [https://www.picktime.com/popularschool](https://www.picktime.com/popularschool) to select the date and time-slot or scan the QR Code** below to book an appointment. You will receive an email notification to confirm your appointment.
 
+(QR code not available on original website)
+
+_Note: Due to high delivery volume during year-end festive season, the textbooks may be delivered by 8 Jan 2023. Your child / ward will only be required to use the textbooks from 9 Jan 2023._
+
+**Option 2: via school’s bookshop (from 27 Dec - 30 Dec 2022)**
+
+Please book an appointment to minimize waiting time. 
+
+**Login to [https://www.picktime.com/popularschool](https://www.picktime.com/popularschool) to select the date and time-slot or scan the QR Code below** to book an appointment. You will receive an email notification to confirm your appointment.
+
+(QR code not available on original website)
+
+School’s bookshop opening hours are as follow:
+
+27 – 30 Dec 2022 – 9am to 3pm
+
+(last appointment by 2.30pm)
+
+**Option 3: via retail outlets**
+
+At POPULAR retail outlets for purchase of textbooks and stationeries, except items with school’s logo. For outlets location, refer to https://www.popular.com.sg/store-locator
