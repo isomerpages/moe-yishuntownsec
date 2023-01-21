@@ -75,3 +75,41 @@ For the purchase of school uniforms (including PE attire, ties and socks), the o
 **Option 2: via school (from 27 Dec to 30 Dec 2022)**
 
 * At temporary stall set up at Rooms R1.1 and R1.2 located on the ground floor of Block F. Please book an appointment to minimize waiting time. Login to **[https://www.picktime.com/popularschool](https://www.picktime.com/popularschool) to select the date and time-slot or scan the QR Code** below to book an appointment. You will receive an email notification to confirm your  appointment.
+
+(QR code not available on original website)
+
+Opening hours are as follow:  
+
+27 – 30 Dec 2022 – 9am to 3pm
+
+(last appointment by 2.30pm)
+
+  
+
+**Option 3: via retail outlet**
+
+Retail outlet at Sembawang Shopping Centre. 
+
+The address and opening hours are:
+
+604 Sembawang Road #02-13 Singapore 758459
+
+Mondays to Saturdays – 11.30am to 8pm,
+
+Sundays – 11.30am to 6pm
+
+  
+You are advised to purchase the items early to avoid overcrowding at retail outlets toward the end of the year.
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**MOE FAS Students**  
+
+Applicants of MOE FAS will be notified by call when their applications are approved. Students are to collect their uniforms at the retail outlet and textbooks from the school’s bookshop. 
+
+**Others**
+
+Should you need any clarifications, you may contact:
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Uniform</th><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Kong Chong Pte Ltd</th><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6753 1489</th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Textbooks and Stationeries</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">POPULAR Bookstore</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6852 2190 (School Bookshop)<br>6259 3163 (Online Customer Service:<br>Mondays to Fridays, 10 am to 6 pm)<br>Email: <a href="mailto:yts@popularworld.com">yts@popularworld.com</a></td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">General Enquiry</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Yishun Town Sec School</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6758 7219<br><a href="mailto:ytss@moe.edu.sg">ytss@moe.edu.sg</a></td></tr></tbody></table>
+
