@@ -9,3 +9,5 @@ third_nav_title: 35th Speech Day Awards 2021
 The Academic Achiever Award recognises students in all streams who have done exceptionally well in the National Examinations and emerge as the top student in their respective streams.
 
 ![](/images/Awardees%20Academic%20Achievers%20Awards%20for%20website.jpg)
+
+[< The 35th Speech Day>](/achievements/35th-speech-day-awards-2021)
