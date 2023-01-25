@@ -22,3 +22,6 @@ With spirits soaring high, the day’s celebrations continued on the school grou
 _“Yishun Town Student Council organised a YT Carnival which featured games booths, a photo booth, free flow of popcorn and candy floss and a dunking machine for teachers. The carnival achieved its purpose of bringing everyone together to celebrate the school's anniversary and making memories together. A limited edition YTSS bear was designed as a momento for this special occasion. This carnival would not have been a success without the Student Council and the team of teachers who worked tirelessly to ensure its smooth operation. Thank you YTzens for joining in the celebrations! Happy 30th Anniversary YTSS!”_  
 
 _Ms Wee Yuting and Ms Ng Baoxian_
+
+
+(insert photo gallery)
