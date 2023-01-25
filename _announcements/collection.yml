@@ -1,4 +1,4 @@
 collections:
-  annoucements:
+  announcements:
     output: true
     order: []
