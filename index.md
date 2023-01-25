@@ -4,12 +4,13 @@ title: Yishun Town Secondary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: Yishun Town Secondary School
+      subtitle: A community of leaders | Active Citizens | YTZENS for the future | A
+        school of distinction | A global thinker
+      background: /images/YTSS.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -29,5 +30,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
