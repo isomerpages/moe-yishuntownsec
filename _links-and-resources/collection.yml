@@ -2,4 +2,5 @@ collections:
   links-and-resources:
     output: true
     order:
+      - School Timetable 2023.md
       - Links.md
