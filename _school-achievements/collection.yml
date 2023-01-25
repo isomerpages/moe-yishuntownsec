@@ -2,6 +2,7 @@ collections:
   school-achievements:
     output: true
     order:
+      - School Achievements.md
       - Student Achievements/Student Achievements.md
       - Student Achievements/Academic Achievements.md
       - Student Achievements/2016 'O' Level Achievements.md
