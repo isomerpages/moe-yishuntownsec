@@ -2,6 +2,7 @@ collections:
   school-achievements:
     output: true
     order:
+      - Celebrating 30th Anniversary/.keep
       - 35th Speech Day Awards 2021/YTSS 35th Speech Day Awards Ceremony 2021.md
       - 35th Speech Day Awards 2021/Tan Kim Chwee Award.md
       - 35th Speech Day Awards 2021/Academic Achiever Award.md
