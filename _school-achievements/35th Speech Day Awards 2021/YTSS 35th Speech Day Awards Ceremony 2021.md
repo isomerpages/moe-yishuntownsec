@@ -16,3 +16,15 @@ The details are:
 
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Guest-of-Honour:<br>Date:<br>Time:  <br>Venue:          </td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ms Sharon Yeo, Divisional Director, Ministry of Education<br>1st April 2021<br>1330 – 1530 hrs<br>Yishun Town Secondary School, School Hall</td></tr></thead></table>
+
+Join us via Zoom. Please access the webinar using the following link:  
+(For best viewing experience use a laptop)
+
+Link: [https://moe-singapore.zoom.us/j/81335949766](https://moe-singapore.zoom.us/j/81335949766)
+
+<img src="/images/QR%20Code.png" style="width:240px;height:240px;margin-left:15px;" align = "right">
+
+Join us via Zoom. Please access the webinar using the following link:  
+(For best viewing experience use a laptop)
+
+Link: [https://moe-singapore.zoom.us/j/81335949766](https://moe-singapore.zoom.us/j/81335949766)
