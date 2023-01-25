@@ -1,4 +1,5 @@
 collections:
   links-and-resources:
     output: true
-    order: []
+    order:
+      - Links.md
