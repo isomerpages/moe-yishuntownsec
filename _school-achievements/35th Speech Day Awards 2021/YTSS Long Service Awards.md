@@ -11,3 +11,9 @@ third_nav_title: 35th Speech Day Awards 2021
 ### MOE Long Service Award 2020
 
 ![](/images/Slide2.jpg)
+
+![](/images/Slide3.jpg)
+
+### MOE Special Appreciation Award
+
+![](/images/Slide4.jpg)
