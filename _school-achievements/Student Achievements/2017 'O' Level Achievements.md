@@ -6,6 +6,22 @@ third_nav_title: Student Achievements
 ---
 # **2017 'O' Level Achievements**
 
+### Cherize Zaidi
+
+![](/images/786%20Cherlize%20Zaidi%202017%20(V11)%20(29%20October%202019)%20(Poster%20Effect%205)%20(A).jpg)
+
+### Jodian Loh
+
+![](/images/786%20Jodian%20Loh%202017%20(V11)%20(29%20October%202019)%20(Postet%20Effect)%20(A).jpg)
+
+### Jordan Lau
+
+![](/images/786%20Jordan%20Lau%202017%20(V11)%20(29%20October%202019)%20(Poster%20Effect)%20(A).jpg)
+
+### Khoo Yu Xiang
+
+![](/images/786%20Khoo%20Yu%20Xiang%202017%20(V11)%20(29%20October%202019)%20(Poster%20Effect)%20(A).jpg)
+
 ### Leon Tan
 
 ![](/images/786%20Leon%20Tan%202017%20(V11)%20(29%20October%202019)%20(Poster%20Effect)%20(A).jpg)
