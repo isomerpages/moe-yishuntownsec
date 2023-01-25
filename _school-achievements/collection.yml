@@ -1,4 +1,5 @@
 collections:
   school-achievements:
     output: true
-    order: []
+    order:
+      - 35th Speech Day Awards 2021/.keep
