@@ -13,3 +13,5 @@ The Academic Award is presented to YTzens who have obtained excellent academic r
 ![](/images/Slide2%20(3).jpg)
 
 ![](/images/Slide3%20(3).jpg)
+
+[< The 35th Speech Day>](/achievements/35th-speech-day-awards-2021)
