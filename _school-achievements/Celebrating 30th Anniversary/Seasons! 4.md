@@ -22,3 +22,6 @@ _Nur Aqidah Nafeesah Drum Major, YTWO_
 
 
 __
+
+
+(insert photo gallery)
