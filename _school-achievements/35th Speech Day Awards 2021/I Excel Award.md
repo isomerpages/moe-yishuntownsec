@@ -28,3 +28,19 @@ The I-Excel Award distinguishes YTzens who have actively pursued a holistic educ
 ![](/images/Slide3%20(1).jpg)
 
 ![](/images/Slide4%20(1).jpg)
+
+![](/images/Slide5.jpg)
+
+![](/images/Slide6.jpg)
+
+![](/images/Slide7.jpg)
+
+![](/images/Slide8.jpg)
+
+![](/images/Slide9.jpg)
+
+![](/images/Slide10.jpg)
+
+![](/images/Slide11.jpg)
+
+![](/images/Slide12.jpg)
