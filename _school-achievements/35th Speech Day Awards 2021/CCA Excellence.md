@@ -12,4 +12,4 @@ YTzens do not only excel in ability, effort, attendance and leadership. In their
 
 ![](/images/Awardees%20CCA%20Excellence%20for%20website.jpg)
 
-  [< The 35th Speech Day>](/achievements/35th-speech-day-awards-2021)
+[< The 35th Speech Day>](/achievements/35th-speech-day-awards-2021)
