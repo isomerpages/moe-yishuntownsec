@@ -34,8 +34,7 @@ In YTSS, we use the Parents' Gateway (PG) application as our primary mode of com
 To help you and your child transition into secondary school, we would like to ask that you take some time to read through the information on Secondary 1 Registration on our webpage.
 
 
-Other Information
------------------
+### Other Information
 
 For ease of convenience, you may access the various pages of our Sec 1 E-Registration site by clicking on the following links:
 
