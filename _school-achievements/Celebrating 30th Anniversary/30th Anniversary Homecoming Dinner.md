@@ -18,3 +18,5 @@ _‘The event certainly brought a flavourful mix of pride in seeing our ex-stude
 _‘The 30th Homecoming dinner was filled with snapshot moments for me. Face-to-face encounters with former principals, colleagues and students, some of whom came with their children in tow – filled the moments with fun and deep emotions. It was a walk down memory lane when students recalled instances when advice was given to them to pick themselves up when the going seemed tough. Once again, I was reminded of how the teacher’s impact on a child is felt long after the child has walked out through the gates of the school.  As my students clamoured around me for photos, I gushed at the momentary celebrity-status they accorded me while acceding to their request. I hope this tradition of having a homecoming event can continue well into the future as YTSS becomes well-established. It is through opportunities like these that stakeholders of the school can build a lasting relationship between them and the school.’_ 
 
 **_Mdm Saudah Marwan, Lead Teacher_**
+
+(insert photo gallery)
