@@ -6,6 +6,8 @@ third_nav_title: Student Achievements
 ---
 # **2017 'O' Level Achievements**
 
+![](/images/YT%20Student%20Achievements%202017%20(V11A).jpg)
+
 ### Cherize Zaidi
 
 ![](/images/786%20Cherlize%20Zaidi%202017%20(V11)%20(29%20October%202019)%20(Poster%20Effect%205)%20(A).jpg)
