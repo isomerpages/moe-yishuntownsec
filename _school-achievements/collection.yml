@@ -2,6 +2,7 @@ collections:
   school-achievements:
     output: true
     order:
+      - Teachers Achievements.md
       - Celebrating 30th Anniversary/30th Anniversary Homecoming Dinner.md
       - Celebrating 30th Anniversary/30th Speech Day.md
       - Celebrating 30th Anniversary/National Day Celebrations.md
