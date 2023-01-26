@@ -18,3 +18,7 @@ description: ""
 ##### 4\. **Sale of School Uniforms and Textbooks for 2023 (Sec 2 - 5)**
 
 [Please click here.](/parents-links/sale-of-school-uniforms-n-textbooks-for-2023-sec-2-5)
+
+##### 5\. **Travel Declaration**
+
+A PG message has been sent to parents to make a travel declaration for their child if he/she intends to travel during the mid-year holiday.  For parents without access to PG, they can make the travel declaration for their child at [https://go.gov.sg/ytss-2022studjunetravel](https://go.gov.sg/ytss-2022studjunetravel)
