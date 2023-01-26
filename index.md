@@ -15,6 +15,6 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Announcements
-          description: Important highlight A is important
-          url: https://google.com
+          description: Click here
+          url: /announcements/
 ---
