@@ -34,3 +34,7 @@ A PG message has been sent to parents to make a travel declaration for their chi
 ##### 8\. **PDLP @ YTSS**
 
 [Please click here for more information.](https://yishuntownsec-moe-edu-sg-admin.cwp.sg/parents-links/pdlp-at-ytss)
+
+##### 9\. **Parents Gateway**
+
+Download Parents Gateway application and stay connected with the school for updates on school activities. Click [here](/parents-links/parents-gateway) to find out more.
