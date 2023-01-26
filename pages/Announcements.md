@@ -22,3 +22,7 @@ description: ""
 ##### 5\. **Travel Declaration**
 
 A PG message has been sent to parents to make a travel declaration for their child if he/she intends to travel during the mid-year holiday.  For parents without access to PG, they can make the travel declaration for their child at [https://go.gov.sg/ytss-2022studjunetravel](https://go.gov.sg/ytss-2022studjunetravel)
+
+##### 6\. **DSA 2022**
+
+[Click here for more information.](/school-calendar/ytss-e-open-day-and-dsa-information-2022)
