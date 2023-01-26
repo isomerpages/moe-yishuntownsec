@@ -26,3 +26,11 @@ A PG message has been sent to parents to make a travel declaration for their chi
 ##### 6\. **DSA 2022**
 
 [Click here for more information.](/school-calendar/ytss-e-open-day-and-dsa-information-2022)
+
+##### 7\. **2022 Timetable**
+
+[Please click here.](https://yishuntownsec-moe-edu-sg-admin.cwp.sg/links-n-resources/school-timetable)
+
+##### 8\. **PDLP @ YTSS**
+
+[Please click here for more information.](https://yishuntownsec-moe-edu-sg-admin.cwp.sg/parents-links/pdlp-at-ytss)
