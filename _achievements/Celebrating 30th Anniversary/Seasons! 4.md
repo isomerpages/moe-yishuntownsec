@@ -4,14 +4,13 @@ permalink: /achievements/celebrating-30th-anniversary/seasons-4/
 description: ""
 third_nav_title: Celebrating 30th Anniversary
 ---
-Seasons! 4
-==========
+# **Seasons! 4**
 
-_Seasons! 4 ‘As part of Yishun Town’s 30th anniversary celebration, the school held her biennial musical performance themed, ‘Our Hearts, Our Dreams.’ Seasons! made its debut in 2010 with the objective of providing members of the performing arts groups an alternative platform to showcase their talents during non-SYF years. 2016 marks a milestone in the history of YTSS and it is apt that we remember our journey. The theme represents the journey and aspirations of our students and staff over the years and how these aspirations have been realised in a multitude of ways. The overarching narrative of the musical centres around four friends, Yong Qiang, Michelle, Razali and Uma and the journey they took while studying in YTSS - journeys peppered with hopes, frustrations, anticipation, disappointment, ambitions and pain.  This is a journey that gets to the core of the complexity of human relationships. We sincerely hope that you enjoyed the concert and keep YTSS in “our hearts, our dreams”.’  
+_Seasons! 4 ‘As part of Yishun Town’s 30th anniversary celebration, the school held her biennial musical performance themed, ‘Our Hearts, Our Dreams.’ Seasons! made its debut in 2010 with the objective of providing members of the performing arts groups an alternative platform to showcase their talents during non-SYF years. 2016 marks a milestone in the history of YTSS and it is apt that we remember our journey. The theme represents the journey and aspirations of our students and staff over the years and how these aspirations have been realised in a multitude of ways. The overarching narrative of the musical centres around four friends, Yong Qiang, Michelle, Razali and Uma and the journey they took while studying in YTSS - journeys peppered with hopes, frustrations, anticipation, disappointment, ambitions and pain.&nbsp; This is a journey that gets to the core of the complexity of human relationships. We sincerely hope that you enjoyed the concert and keep YTSS in “our hearts, our dreams”.’  
   
 
- _Mr Alan Chew Chioh-Sian  
- Seasons!4 Vice- Chairman_
+&nbsp;_Mr Alan Chew Chioh-Sian  
+&nbsp;Seasons!4 Vice- Chairman_
 
 _
 
@@ -24,4 +23,5 @@ _Nur Aqidah Nafeesah Drum Major, YTWO_
 __
 
 
-(insert photo gallery)
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT0yqFIdn-v-q8mREgvsiIMBDiMOV5E56to5SYPAJIoDl7VPI7mRReElnZ8OooZhMiVjx_jrAjO5fOe/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+
