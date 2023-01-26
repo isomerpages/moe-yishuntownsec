@@ -7,6 +7,6 @@ description: ""
   
 Click the posters below or scan the QR code to nominate
 
-[![](/images/pat.png)](https://yishuntownsec-moe-edu-sg-admin.cwp.sg/qql/slot/u625/pat.png)
+[![](/images/pat.png)](https://form.gov.sg/6327d8dc5f152f001265ae55) - form not available
 
-[![](/images/oyea.png)](https://yishuntownsec-moe-edu-sg-admin.cwp.sg/qql/slot/u625/oyea.png)
+[![](/images/oyea.png)](https://form.gov.sg/632822e0410f8c0012492429) - form not available
