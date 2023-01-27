@@ -17,4 +17,7 @@ sections:
         - title: Announcements
           description: Click here
           url: /announcements/
+        - title: Link & Resources
+          description: Click here
+          url: /links-n-resources/school-timetable-2023/
 ---
