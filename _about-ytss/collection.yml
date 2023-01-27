@@ -2,6 +2,7 @@ collections:
   about-ytss:
     output: true
     order:
+      - Principal's Message 2023/Principal's Termly Addresses.md
       - Principal's Message 2023/Principal's Message 2022.md
       - Principal's Message 2023/Principal's Message 2023.md
       - Principal's Message 2023/.keep
