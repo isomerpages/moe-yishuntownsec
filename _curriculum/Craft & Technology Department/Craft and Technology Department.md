@@ -56,11 +56,11 @@ To develop students into a:
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1.     Health <br>        Ambassador</th><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Advocate nutrition and health for self, family and the community.</th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2.     Discerning<br>        Consumer</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Appreciate how a variety of food is used in food management and take into consideration the issue of food security, which includes food safety and sustainable food consumption.</td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3.     Food Innovator</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Apply scientific principles during food preparation and cooking.</td></tr></tbody></table>
 
-**NFS Vision  
-**Every student, an advocate of nutrition, health and food sustainability.
+**NFS Vision**     
+Every student, an advocate of nutrition, health and food sustainability.
 
-**NFS Mission  
-**To empower students with knowledge and skills to make informed decisions concerning food and nutrition.
+**NFS Mission**     
+To empower students with knowledge and skills to make informed decisions concerning food and nutrition.
 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWqoGw6u58hAFwm7m5MY7T5BLwyNmnQ0NhAr-L0bMMQhDGlgUGjv1r1MAksUJqxRT0dji3JcUC7n-F/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
