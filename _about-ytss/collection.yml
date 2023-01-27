@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Principal's Message 2023/.keep
-      - Principal's Message 2023.md
       - Our People/Steering Committee.md
       - Our People/.keep
       - Our People/Staff Directory 2023.md
