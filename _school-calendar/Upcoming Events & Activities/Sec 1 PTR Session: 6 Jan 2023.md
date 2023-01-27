@@ -4,30 +4,19 @@ permalink: /school-calendar/upcoming-events-n-activities/sec-1-ptr-session-6-jan
 description: ""
 third_nav_title: Upcoming Events & Activities
 ---
+# **Sec 1 PTR Session: 6 Jan 2023**
 
-# **Sec 2 Parent Teacher Rapport Session, 11 Mar 2022**
-
-Yishun Town Secondary School will be holding our Sec 2 Parents’ Engagement Session this Friday, 11 March 2022.  
   
 
-The session will be helmed by our Principal, Mr Ng Teo Heng and Year Master, Mr Ng Wei Kwang. It will be an informative session which will also give you a preview to the different subject combinations that will potentially be offered to your chid/ward at the end of Sec 2. This will be followed by an interaction session with your child/ward's Form Teachers.
+### Updates from Sec 1 PTR Session
 
-The details for the session are as follows:
-
-**Topic:** Sec 2 Parent Engagement Session
-
-**Time:** March 11, 2022, 5.00 p.m. - 7.00 p.m.
-
-Details for the Zoom session have been sent to you via Parents Gateway.
-
-To facilitate the Q&A session, you may wish to send us any questions you may have about the school and our programmes via Slido: [www.slido.com](www.slido.com) (Enter code #196441)
-
-We look forward to meeting everyone virtually then.  
-
-If you have any further questions or concerns, please drop us an email at [corpcomms@ytss.edu.sg](mailto:corpcomms@ytss.edu.sg)
-
-# **Sec 2 Parent-Teacher Rapport Session Slides**
-
-[Principal's Address](https://yishuntownsec.moe.edu.sg/qql/slot/u625/PTR/2022%20PTR/Sec%202%20PTR2022_Principal%20Address.pptx)  -file in pptx format
+Dear Parents and Guardians,  
   
-[YM Address](https://yishuntownsec.moe.edu.sg/qql/slot/u625/PTR/2022%20PTR/Sec%202%20PTR%202022_YM%20Address.pptx) - file in pptx format
+Thank you for taking the time to attend our CCA Bazaar and our Sec 1 PTR Session. We hope that you have found it meaningful and that you were able to clarify any doubts that you may have with your child's form teacher.  
+  
+For parents who missed our Secondary 1 PTR session, you may wish to download our main deck of slides for your information.  
+  
+Slides:  
+[01\_2023 Sec 1 PTR\_Principal Address\_Final.pdf](/files/01_2023%20Sec%201%20PTR_Principal%20Address_Final.pdf)  
+  
+Should you have any queries, you may contact Mrs Lynn Ong (Secondary 1 Year Master) at 6852 2126 or Mr Chua Wei Qiang (Secondary 1 Assistant Year Master) at 68538440.
