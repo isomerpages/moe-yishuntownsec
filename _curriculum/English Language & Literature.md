@@ -79,6 +79,3 @@ Students who have demonstrated high competencies in speaking and writing are str
 
 ### Picture Highlights
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQKAtQydTA6tsXpK_wV_KBPowzsE7CQ3aQt6BAXNIbv2pasNedePYcvuUogV-lZrVwT9ziXRvkQwayI/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-
-uploaded 5/9 images
