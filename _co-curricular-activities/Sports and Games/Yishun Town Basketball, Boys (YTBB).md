@@ -50,5 +50,3 @@ YTSS Basketball Boys (YTBB) encourages young individuals to step out of their co
 ### CCA Gallery
 
 
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMq9oBEH4rmHkRQ_fczCWZmY4QDwpaAaTebBOpQ6Hw-TrTire4rrJnhjHl4PixRZN3T1WFZC-_yVZf/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
