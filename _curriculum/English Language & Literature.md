@@ -3,17 +3,17 @@ title: English Language & Literature
 permalink: /curriculum/english-language-n-literature/
 description: ""
 ---
-# **English Language & Literature**
+# **English Language &amp; Literature**
 
 ![](/images/ENG.jpg)
 
 ### Philosophy
 
-The English Language & Literature Department believes that language is the basis of all communication and the primary instrument of thought in all situations, both formal and informal.  
+The English Language &amp; Literature Department believes that language is the basis of all communication and the primary instrument of thought in all situations, both formal and informal.  
 
-Activities such as Readers Theatre, EL Reading Programme, Talent Development Programmes and the Good English Language (GEL) Movement are conducted throughout the course of the year for Secondary One to Four YTzens to create opportunities to creatively express themselves. Our programmes encourage YTzens to read widely, speak confidently and write fiercely. 
+Activities such as Readers Theatre, EL Reading Programme, Talent Development Programmes and the Good English Language (GEL) Movement are conducted throughout the course of the year for Secondary One to Four YTzens to create opportunities to creatively express themselves. Our programmes encourage YTzens to read widely, speak confidently and write fiercely.&nbsp;
 
-Through the various activities organised in-house as well as participating in external competitions, the English Language & Literature Department aims to help nurture YTzens of the future - confident leaders, active citizens and global thinkers who are proficient writers, confident speakers, critical thinkers and independent learners.The English Language & Literature Department believes that language is the basis of all communication and the primary instrument of thought in all situations, both formal and informal.  
+Through the various activities organised in-house as well as participating in external competitions, the English Language &amp; Literature Department aims to help nurture YTzens of the future - confident leaders, active citizens and global thinkers who are proficient writers, confident speakers, critical thinkers and independent learners.The English Language &amp; Literature Department believes that language is the basis of all communication and the primary instrument of thought in all situations, both formal and informal.  
 
 ### Picture Highlights
 
@@ -24,21 +24,21 @@ uploaded 1/12 images
 
 ### Department Overview
 
-Creating authentic and real world situations for students to learn and engage with language is one of the main focuses of the English Language and Literature Department as we believe that when students are able to experience and appreciate first-hand the subject matter that they are taught in the class, they will be able to find the joy in the learning. 
+Creating authentic and real world situations for students to learn and engage with language is one of the main focuses of the English Language and Literature Department as we believe that when students are able to experience and appreciate first-hand the subject matter that they are taught in the class, they will be able to find the joy in the learning.&nbsp;
 
-As part of the English Language and Literature curriculum, our students participate in learning journeys, Good English Language (GEL) Week, Readers Theatre, English Language Reading Programme and sign up for our Talent Development Programme. In 2018, the department also organised our inaugural Get R.E.A.L Festival, to develop a greater love for languages and Literature. 
+As part of the English Language and Literature curriculum, our students participate in learning journeys, Good English Language (GEL) Week, Readers Theatre, English Language Reading Programme and sign up for our Talent Development Programme. In 2018, the department also organised our inaugural Get R.E.A.L Festival, to develop a greater love for languages and Literature.&nbsp;
 
-Through the varied pedagogy and learning experiences curated for our Secondary 1 to 4 students, YTzens have the opportunity to explore the different facets of language learning and literature – reading, writing, speaking and listening. With the different skill sets students are exposed to, the English Language & Literature Department aims to help nurture YTzens of the future - confident leaders, active citizens and global thinkers who are proficient writers, confident speakers, critical thinkers and independent learners.
+Through the varied pedagogy and learning experiences curated for our Secondary 1 to 4 students, YTzens have the opportunity to explore the different facets of language learning and literature – reading, writing, speaking and listening. With the different skill sets students are exposed to, the English Language &amp; Literature Department aims to help nurture YTzens of the future - confident leaders, active citizens and global thinkers who are proficient writers, confident speakers, critical thinkers and independent learners.
 
-### Mission & Vision
-
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mission<br></th><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#222">Every student will succeed in doing well in the English Language and Literature</span></th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Vision<br></td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Every student will be a confident and proficient user of the English Language</span></td></tr></tbody></table>
+### Mission &amp; Vision
 
 
-### Key Programs / Enrichment for students 
+<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mission<br></th><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#222">Every student will succeed in doing well in the English Language and Literature</span></th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Vision<br></td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Every student will be a confident and proficient user of the English Language</span></td></tr></tbody></table>
 
-**Experimental Learning** 
+
+### Key Programs / Enrichment for students&nbsp;
+
+**Experimental Learning**&nbsp;
 
 From 2018 onwards, the department will be embarking on dialogic pedagogy in which certain units within the curriculum will be taught through a process in which teacher and pupils critically experience language learning in the real world and actively reflect to create meaning for themselves. Students will engage in exciting discussions and critically assess issues that are relevant to their daily life.
 
@@ -53,7 +53,7 @@ In 2018, our Secondary 3 cohort embarked on a learning journey to Unpackt, a zer
 Reading forms the cornerstone of English literacy. Students are encouraged to read regularly through the activities in the Grapevine Reading Programme:
 
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Drop Everything and Read (DEAR)</span> <span style="color:#222;background-color:#EAEAEA">- Time is set aside during the morning assembly on odd weeks to get students in the habit of reading English materials.</span><br></th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Reading Programme</span> <span style="color:#222;background-color:#EAEAEA">- Reading lessons are structured in the timetables so that there is a time and space for students to discuss ideas and themes related to a given text. Through thought provoking questions and class discussions, teachers connect literature to the world we live in and extrapolate life lessons to make the texts more relevant to the students.</span></td></tr></tbody></table>
+<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Drop Everything and Read (DEAR)</span> <span style="color:#222;background-color:#EAEAEA">- Time is set aside during the morning assembly on odd weeks to get students in the habit of reading English materials.</span><br></th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Reading Programme</span> <span style="color:#222;background-color:#EAEAEA">- Reading lessons are structured in the timetables so that there is a time and space for students to discuss ideas and themes related to a given text. Through thought provoking questions and class discussions, teachers connect literature to the world we live in and extrapolate life lessons to make the texts more relevant to the students.</span></td></tr></tbody></table>
 
 
 **Good English Movement (GEL)**  
@@ -72,6 +72,13 @@ Before the dramatisation, students need to translate a narrative prose text to a
 
 Students who have demonstrated high competencies in speaking and writing are stretched under the departmental talent development programme. Selected students are exposed to community events and prestigious competitions that aim to hone their communication, critical and inventive thinking skills.
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#B0B0B0;border-color:#ffffff;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2">Notable competitions students participate include:</th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="2"><span style="color:#222;background-color:#EAEAEA">Chong Pang's Next Top Speaker</span></td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="2"><span style="color:#222;background-color:#EAEAEA">National Schools Literature Competition</span></td></tr></tbody></table>
+<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th colspan="2" style="background-color:#B0B0B0;border-color:#ffffff;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Notable competitions students participate include:</th></tr></thead><tbody><tr><td colspan="2" style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Chong Pang's Next Top Speaker</span></td></tr><tr><td colspan="2" style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">National Schools Literature Competition</span></td></tr></tbody></table>
 
 
+
+
+### Picture Highlights
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQKAtQydTA6tsXpK_wV_KBPowzsE7CQ3aQt6BAXNIbv2pasNedePYcvuUogV-lZrVwT9ziXRvkQwayI/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+uploaded 5/9 images
