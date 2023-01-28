@@ -4,13 +4,13 @@ permalink: /co-curriculum/cross-cultural-learning/cross-cultural-trip-to-taipei-
 description: ""
 third_nav_title: Cross Cultural Learning
 ---
-# **Cross-Cultural Trip to Taipei and Taitung, Taiwan**
+# **Cross-Cultural&nbsp;Trip to&nbsp;Taipei and Taitung,&nbsp;Taiwan**
 
-A group of Secondary 2 YTzens travelled to Taiwan from 29 October to 5 November 2014 to learn more about the language, arts and creativity of Taiwan.  YTzens presented their thoughts and feelings through differentiated performance tasks which improved their understanding and appreciation of the Chinese language.
+A group of Secondary 2 YTzens travelled to Taiwan from&nbsp;29 October to 5 November&nbsp;2014 to learn more about the language, arts and creativity of Taiwan. &nbsp;YTzens presented their thoughts and feelings through differentiated performance tasks which improved their understanding and appreciation of the Chinese language.
 
-The programme included visits to various famous sights in Taiwan, including CKS Memorial Hall, Taipei Palace Museum, Toucheng Farm, Pi Si Li Ang Cultural Centre, Forest Museum.
+The programme included visits to various famous sights in&nbsp;Taiwan, including CKS Memorial Hall, Taipei Palace Museum, Toucheng Farm, Pi Si Li Ang Cultural Centre, Forest Museum.
 
-During the trip, the group also had the opportunity to interact with Taiwanese students from Junyi School and gained a better understanding of the education system in Taiwan. On top of this, they met the graduates from Yishun Town Secondary School, who are studying in Taiwan University, and had an enriching conversation with them about the University and courses it offered. In addition, they were guided on a tour around Taiwan University by Singaporean scholars studying there.
+During the trip, the group also had the opportunity to interact with&nbsp;Taiwanese students from Junyi School and gained a better understanding of the education system in Taiwan. On top of this, they met the graduates from Yishun Town Secondary School, who are studying in Taiwan University, and had an enriching conversation with them about the University and courses it offered. In addition, they were guided on a tour around Taiwan University by Singaporean scholars studying there.
 
 One of the objectives of the trip was to let students appreciate the Chinese language and culture in Taiwan. Thus students visited the well-known Eslite bookstore in Taipei and purchased books which they liked. They also visited the nationally acclaimed Palace Museum and had an in-depth tea appreciation session in Wistaria Tea House.
 
@@ -18,9 +18,9 @@ Another highlight of the trip was Toucheng Farm in Yilan. Through this visit, YT
 
 In addition, YTzens had the opportunity to enjoy the beautiful and unspoilt nature in the last paradise of Taiwan – Taitung. In Taitung, they visited artists’ workshops and interacted with the artists. They also visited Pi Si Li Ang Cultural Centre, where they enjoyed a percussion performance by the young and talented aborigines. They also visited Taitung Forest Museum, where they actually climbed their way through the museum and tried outdoor cooking with coal.
 
-The Taiwan Immersion Programme had been a meaningful exposure for the Secondary 2 YTzens, prompting them to think more for the nature, and to be grateful for what they enjoy back in Singapore. Through the trip, the students also gained maturity and learned to be more independent.
+The&nbsp;Taiwan&nbsp;Immersion Programme&nbsp;had been a meaningful exposure&nbsp;for&nbsp;the&nbsp;Secondary&nbsp;2&nbsp;YTzens, prompting them to think more&nbsp;for the nature, and to be grateful for what they enjoy back in Singapore. Through the trip, the students also gained maturity and learned to be more independent.
 
-“Through this trip, I’ve learnt a lot of knowledge which was not taught during lesson. Taiwanese are very friendly and cheerful, they always smiled, giving me a sense of ‘home’. Through the various activities, I learnt to appreciate the beauty of Taiwan through different perspectives. For example, at Toucheng farm, I learnt the importance of nature and why we should protect it. Taiwan’s culture is really different from ours and the more I get to know Taiwan, the more I love this place.”   
+“Through this trip,&nbsp;I’ve learnt a lot of knowledge which was not taught during lesson. Taiwanese are very friendly and cheerful, they always smiled, giving me a sense of ‘home’. Through the various activities, I learnt to appreciate the beauty of Taiwan through different perspectives. For example, at Toucheng farm, I learnt the importance of nature and why we should protect it. Taiwan’s culture is really different from ours and the more I get to know Taiwan, the more I love this place.”   
 \-Tan Min Yi 2E5
 
 “The Taiwan cross-cultural trip taught us a lot, including language, values and scientific knowledge. When we were at the Forest Museum, we had to climb the rocks using ropes. Although my friend, Simone, failed repeatedly, she didn’t give up and faced the challenge bravely. Through the help of friends and her own perseverance, she managed to complete all activities. I think that her attitude was commendable and I learned a lot from her.”   
@@ -43,11 +43,11 @@ The Taiwan Immersion Programme had been a meaningful exposure for the Seco
 这次台湾之旅对有参与的中二生而言，是十分有意义与价值的。通过这次旅程，他们学习了很多宝贵的知识和价值观。他们不只变得更独立，而且还学会了惜福知足。
 
 “通过这次的台湾之旅，我学到了许多课堂上学不到的东西，珍贵又独特。台湾人特别热情，常常笑呵呵的，他们的亲切让我感到宾至如归。在许多活动中，我有机会以不同的方式和角度，去感受台湾的美、大自然的美。像在头城农场，我就学会了自然界的重要性，还有我们得保护它，保护整个地球。台湾的人文文化和新加坡真的有很大的不同，而每了解一分，似乎就更喜欢台湾一分。”   
-\-**陈敏怡 3E5**
+\-**陈敏怡&nbsp;3E5**
 
 “台湾之旅教了我们很多，我不只学到许多生活常识，也学到许多科学知识和人生道理。去森林博物馆时我们得靠绳子爬山，而我的好友――思敏虽然失败了很多次，但她从不畏惧，勇敢地面对困难。在大家的帮助和她的坚持努力之下，她最终成功地完成了登山活动。我觉得她的精神可嘉，也让我有所感触。我觉得我从她身上学到了正确的价值观，也深刻了解到要以积极、乐观的心态面对困难。”    
-\-**吴思瑶 3E7**
+\-**吴思瑶&nbsp;3E7**
 
 
-![](/images/Taiwan_Beginning_of_a_great_learning_journey.jpg)
-uploaded 1/10
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQNVJ_MybQ4J9mqIM0hBsSR6ujlxBRjIvV-3jfJ6JwYGhXIEET9_YEbGloH3RNvOkTdr6u2oXvhumLn/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+uploaded 5/10
