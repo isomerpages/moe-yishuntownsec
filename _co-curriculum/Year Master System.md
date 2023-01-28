@@ -3,7 +3,6 @@ title: Year Master System
 permalink: /co-curriculum/year-master-system/
 description: ""
 ---
-
 # **Year Master System**
 
 The Year Master (YM) system provides a horizontal integration of the curriculum and co-curricular programmes in each of the levels to ensure students’ holistic development and overall well-being. It ensures an all-round development for students during their four to five years in school and complements the HOD system, which focuses largely on the vertical progression of the curriculum. 
