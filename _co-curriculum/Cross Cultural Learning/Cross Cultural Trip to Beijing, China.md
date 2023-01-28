@@ -6,7 +6,7 @@ third_nav_title: Cross Cultural Learning
 ---
 # **Cross-Cultural Trip to Beijing, China**
 
-To broaden the perspectives of YTzens, YTSS organised a China immersion programme to Beijing and Tianjin from 9th to 16th November 2014. Throughout this trip, students were given ample learning opportunities to develop them into leaders who are more confident, as well as thinkers who are able to think innovatively and critically while dealing with global issues.
+To broaden the perspectives of YTzens, YTSS organised a China immersion programme to Beijing and Tianjin from 9th&nbsp;to 16th&nbsp;November 2014. Throughout this trip, students were given ample learning opportunities to develop them into leaders who are more confident, as well as thinkers who are able to think innovatively and critically while dealing with global issues.
 
 Students were culturally immersed in a country poised to become the next global superpower, discovering for themselves the dragon of the orient through exploring the following learning themes: Arts and Architecture, Collaboration, Education and Tourism. These themes have allowed students to investigate issues crucial to a country’s development and to think of how Singapore can leverage the success of China in certain aspects by doing detailed comparisons and conducting in-depth research.
 
@@ -33,5 +33,5 @@ _We had to wake up very early to witness the flag raising ceremony at Tian An Me
 _I am glad to be able to experience 2 days of school immersion programme at Beijing Shangdi Experimental School. It was a great experience as their studying environment and teaching methods are very different from Singapore. The students are also very participative and attentive during lessons and it make me realise that I should be much more serious in class too!_    
 **_Lua Anqi from 3N2_**
 
-![](/images/Authentic%20Chinese%20Hotpot.jpg)
-uploaded 1/9 images
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSE9pFNbhfWr38FeCLXgKJHA8DnR7leqJY5POsf2vM2KegaNVobb9UuTxUCul8ipjJZMVD35Rgp1LUG/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+uploaded 5/9 images
