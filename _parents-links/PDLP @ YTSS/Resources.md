@@ -8,13 +8,6 @@ third_nav_title: PDLP @ YTSS
 
 For more information, please download the various resources.
 
-[](/files/Financial%20Assistance%20for%20PLD.pdf)
-[](/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)
-[](/files/Cyberwellness.pdf)
-[](/files/PLD%20Bundle%20Specification.pdf)
-[](/files/PDLP%20Application%20Form%20for%20Subsidy.pdf)
-[](/files/2023%20PLD%20Initiative%20Briefing%20Slides.pdf)
-
 
 
 
