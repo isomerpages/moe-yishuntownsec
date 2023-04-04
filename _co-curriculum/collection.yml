@@ -1,0 +1,35 @@
+collections:
+  co-curriculum:
+    output: true
+    order:
+      - Year Master System.md
+      - CCE/Character and Citizenship Education (CCE).md
+      - CCE/Values in Action.md
+      - CCE/Process Drama.md
+      - CCE/Project School.md
+      - CCE/.keep
+      - Co Curricular Activities (CCA)/.keep
+      - Co Curricular Activities (CCA)/Co Curricular Activities (CCA).md
+      - Co Curricular Activities (CCA)/Visual and Performing Arts.md
+      - Co Curricular Activities (CCA)/Clubs & Societies.md
+      - Co Curricular Activities (CCA)/Sports & Games.md
+      - Co Curricular Activities (CCA)/Uniformed Groups.md
+      - Beyond Classroom Week.md
+      - Student Development/Discipline.md
+      - Student Development/Talent Development.md
+      - Student Development/Student Development (Social and Emotional Learning)
+        programmes.md
+      - Student Development/Student Leadership Development.md
+      - Student Development/.keep
+      - Cross Cultural Learning/Cross Cultural Trip to Beijing, China.md
+      - Cross Cultural Learning/Cross Cultural Trip to Chiangrai, North of
+        Thailand.md
+      - Cross Cultural Learning/Cross Cultural Trip to Taipei and Taitung,
+        Taiwan.md
+      - Cross Cultural Learning/Cross Cultural Trip to Seoul, South Korea.md
+      - Cross Cultural Learning/Cross Cultural Trip to Vietnam.md
+      - "Cross Cultural Learning/Cross Cultural Trip to Kyoto, Japan: Sagano
+        High School.md"
+      - Cross Cultural Learning/.keep
+      - Sexuality Education Programme.md
+      - Education and Career Guidance (ECG).md

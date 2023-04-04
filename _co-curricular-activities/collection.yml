@@ -1,0 +1,27 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - Visual and Performing Arts/Yishun Town Wind Orchestra (YTWO).md
+      - Visual and Performing Arts/Yishun Town Voices and Chorale (YTVC).md
+      - Visual and Performing Arts/Yishun Town Chinese Dance (YTCD).md
+      - Visual and Performing Arts/Yishun Town Drama Club (YTDC).md
+      - Visual and Performing Arts/Yishun Town Art Club (YTAC).md
+      - Visual and Performing Arts/.keep
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Yishun Town Chess Club (YTCC).md
+      - Clubs and Societies/Yishun Town Photography Club (YTPC).md
+      - Clubs and Societies/Yishun Town Environmental Science Club.md
+      - Clubs and Societies/Yishun Town Infocomm Club (YTIC).md
+      - Sports and Games/.keep
+      - Sports and Games/Yishun Town Basketball, Boys (YTBB).md
+      - Sports and Games/Yishun Town Basketball, Girls (YTBG).md
+      - Sports and Games/Shooting (Air Weapons Club).md
+      - Sports and Games/Yishun Town Table Tennis (YTTT).md
+      - Sports and Games/Yishun Town Volleyball Team (YTVB).md
+      - Sports and Games/Yishun Town Ten Pin Bowling (YTTPB).md
+      - Uniformed Groups/Yishun Town Boys Brigade Unit.md
+      - Uniformed Groups/Yishun Town Girl Guides Unit.md
+      - Uniformed Groups/Yishun Town NPCC Unit.md
+      - Uniformed Groups/Yishun Town NCDCC Unit.md
+      - Uniformed Groups/.keep

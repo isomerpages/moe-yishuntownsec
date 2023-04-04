@@ -1,0 +1,35 @@
+---
+title: "Sec 1 PTR Session: 6 Jan 2023"
+permalink: /school-calendar/upcoming-events-n-activities/sec-1-ptr-session-6-jan-2023/
+description: ""
+third_nav_title: Upcoming Events & Activities
+---
+# **Sec 1 PTR Session: 6 Jan 2023**
+
+  
+
+### Updates from Sec 1 PTR Session
+
+Dear Parents and Guardians,  
+  
+Thank you for taking the time to attend our CCA Bazaar and our Sec 1 PTR Session. We hope that you have found it meaningful and that you were able to clarify any doubts that you may have with your child's form teacher.  
+  
+For parents who missed our Secondary 1 PTR session, you may wish to download our main deck of slides for your information.  
+  
+Slides:  
+[01\_2023 Sec 1 PTR\_Principal Address\_Final.pdf](/files/01_2023%20Sec%201%20PTR_Principal%20Address_Final.pdf)  
+  
+Should you have any queries, you may contact Mrs Lynn Ong (Secondary 1 Year Master) at 6852 2126 or Mr Chua Wei Qiang (Secondary 1 Assistant Year Master) at 68538440.
+
+* * *
+
+### Sec 1 PTR Session: 6 January 2023
+
+The Secondary 1 PTR Session aims to communicate with parents on important school information and programmes pertaining to the Secondary 1. It also provides an opportunity for parents to hold dialogue with the Form Teachers, share information pertaining to your child and discuss any concerns.  
+
+ You are strongly encouraged to join us for PTR Session on **5 January, Friday.**  Parents / Guardians are also invited to join your child / ward for the CCA Bazaar.
+ 
+ 
+ <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Time</th><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Event</th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2.15 – 4.15pm</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">CCA Bazaar</td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4.15 – 4.30pm</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Sec 1 Orientation Video Montage</td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4.30 – 4.45pm</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Entrance of Sec 1 Cohort</td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4.45 – 5.10pm</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Performances by Band, Choir and Chinese Dance</td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5.10 – 5.40pm</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Principal’s Address</td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5.40 – 5.55pm</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Year Master’s Address</td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">6.00 – 7.00pm</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Interaction with Form Teachers</td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">7.00 pm</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">End of Session</td></tr></tbody></table>
+ 
+ Should you have any queries, you may contact Mrs Lynn Ong (Secondary 1 Year Master) at 6852 2126 or Mr Chua Wei Qiang (Secondary 1 Assistant Year Master) at 68538440.
