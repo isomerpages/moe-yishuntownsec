@@ -4,4 +4,4 @@ permalink: /school-calendar/calendar/
 description: ""
 ---
 # **Calendar**
-add google calendar
+<iframe scrolling="no" frameborder="0" height="600" width="800" style="border: 0" src="https://calendar.google.com/calendar/embed?src=c_epvqcvd637dt9kdr4t14gdqgu4%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
