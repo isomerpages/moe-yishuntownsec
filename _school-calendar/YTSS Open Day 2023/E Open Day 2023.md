@@ -37,4 +37,4 @@ We welcome you to join us and begin your journey to discover what your future wi
 
 For more information on the DSA application process, criteria and timeline, you may wish to download the following files for your perusal. 
 
-``
+[2023 DSA-Sec Briefing Slides](/files/2023%20dsa-sec%20briefing%20slides.pdf)
