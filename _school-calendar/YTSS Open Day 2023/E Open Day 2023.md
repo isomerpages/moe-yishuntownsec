@@ -22,11 +22,10 @@ We encourage you to join us virtually and discover our wonderful world of YTSS �
 
 ##### Details of YTSS E-Open Day 2023
 
-Date: 15 May 2023 (Monday)    
-Time: 4 p.m. – 5.30 p.m.  
-Webinar Link: [https://go.gov.sg/ytssopenday2023](https://go.gov.sg/ytssopenday2023)
-
-Webinar Password: YTSS2023
+* Date: 15 May 2023 (Monday)    
+* Time: 4 p.m. – 5.30 p.m.  
+* Webinar Link: [https://go.gov.sg/ytssopenday2023](https://go.gov.sg/ytssopenday2023)
+* Webinar Password: YTSS2023
 
 
 During the session, there will be an address by our Principal and sharing on DSA application. We will also invite selected YTzens to give a sharing of their school experiences and host a Question & Answer segment to answer any queries you may have about our school. 
