@@ -4,10 +4,10 @@ permalink: /school-calendar/ytss-open-day-2023/permalink/
 description: ""
 third_nav_title: YTSS Open Day 2023
 ---
-**YTSS Open Day 2023**
+# **YTSS Open Day 2023**
 
 
-**Welcome to Yishun Town Secondary School’s (YTSS) E-Open Day 2023**
+### **Welcome to Yishun Town Secondary School’s (YTSS) E-Open Day 2023**
 
 We are delighted to have you here with us. Here at YTSS, we believe in the spirit of excellence, the belief that every child can and will EXCEL.
 
