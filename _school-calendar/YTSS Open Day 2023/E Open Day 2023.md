@@ -18,12 +18,11 @@ Whether you are talented in the Arts or Sciences, or have a keen eye or photogra
 
 We encourage you to join us virtually and discover our wonderful world of YTSS – what makes our school feel like home to so many of our YTzens, and we welcome you to join our family of friends right here in YTSS and discover how you can excel!
 
-``
 
 ##### Details of YTSS E-Open Day 2023
 
-* Date: 15 May 2023 (Monday)    
-* Time: 4 p.m. – 5.30 p.m.  
+* Date: 15 May 2023 (Monday)
+* Time: 4 p.m. – 5.30 p.m. 
 * Webinar Link: [https://go.gov.sg/ytssopenday2023](https://go.gov.sg/ytssopenday2023)
 * Webinar Password: YTSS2023
 
