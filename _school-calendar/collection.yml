@@ -2,6 +2,7 @@ collections:
   school-calendar:
     output: true
     order:
+      - YTSS Open Day 2023/E Open House 2023.md
       - YTSS Open Day 2023/.keep
       - Calendar.md
       - Upcoming Events & Activities/.keep
