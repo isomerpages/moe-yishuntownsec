@@ -24,7 +24,7 @@ We encourage you to join us virtually and discover our wonderful world of YTSS â
 
 Date: 15 May 2023 (Monday)    
 Time: 4 p.m. â€“ 5.30 p.m.  
-Webinar Link: https://go.gov.sg/ytssopenday2023
+Webinar Link: [https://go.gov.sg/ytssopenday2023](https://go.gov.sg/ytssopenday2023)
 
 Webinar Password: YTSS2023
 
