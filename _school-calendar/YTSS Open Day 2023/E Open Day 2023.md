@@ -4,6 +4,7 @@ permalink: /school-calendar/ytss-open-day-2023/permalink/
 description: ""
 third_nav_title: YTSS Open Day 2023
 ---
+![ytss e-open day 2023](/images/ytss%20e-open%20day%202023.jpeg)
 # YTSS Open Day 2023
 
 
