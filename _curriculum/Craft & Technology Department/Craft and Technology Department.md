@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Craft & Technology Department
 ---
 # **Craft and Technology Department**
-
-![](/images/CNTD.jpg)
+![](/images/c_t%20department.jpg)
 
 ## Mission and Vision
 
