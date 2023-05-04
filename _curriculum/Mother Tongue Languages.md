@@ -4,8 +4,7 @@ permalink: /curriculum/mother-tongue-languages/
 description: ""
 ---
 # **Mother Tongue Languages**
-
-![](/images/MT.jpg)
+![](/images/mother%20tongue%20language%20department.jpg)
 
 ### Philosophy
 

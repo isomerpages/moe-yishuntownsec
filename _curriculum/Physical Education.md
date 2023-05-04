@@ -4,8 +4,7 @@ permalink: /curriculum/physical-education/
 description: ""
 ---
 # **Physical Education**
-
-![](/images/PE.jpg)
+![](/images/physical%20education%20department.jpg)
 
 ### Department Overview
 
@@ -16,7 +15,7 @@ The Physical Education Department believes in nurturing physically educated YTze
 
 
 
-**Mission & Vision**
+**Mission &amp; Vision**
 
 
 
