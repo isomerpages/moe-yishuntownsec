@@ -4,13 +4,11 @@ permalink: /curriculum/humanities/
 description: ""
 ---
 # **Humanities**
-
-![](/images/HUMANS.jpg)
-
+![](/images/humanities%20department.jpg)
 
 ### Department Overview
 
-Anchoring on the department’s core belief that Humanities is the window to the soul of humanity, we aim to develop a community of passionate learners of the Humanities who are critical thinkers and responsible global citizens. 
+Anchoring on the department’s core belief that Humanities is the window to the soul of humanity, we aim to develop a community of passionate learners of the Humanities who are critical thinkers and responsible global citizens.&nbsp;
 
 The department consciously bring about the exploration process in Humanities through learning through inquiry. By exploring the interaction processes between people and their environment, and the past, present and future, we hope to ignite the passion for the Humanities and allow our YTzens to acquire skills, values and knowledge and also explore, appreciate and understand human experiences and the world. Besides impacting skills and knowledge, it is also the belief of the department that the Humanities education in YTSS plays an important role in educating YTzens to be responsible and concerned citizens who understand the various issues, constraints and challenges that Singapore faces and are prepared to contribute and participate actively and sensibly in the community and society.
 
@@ -37,7 +35,7 @@ The S2ED Framework will provide the guiding approaches and principles to the tea
 
 The four to five years’ learning process in Humanities is facilitated through the multitudes of carefully- planned experiences. It is a journey of discovery via experiential learning, inquiry process, research and investigations which further develop the talent of YTzens, ignite their passion in the discipline of Humanities and instil an appreciation of the relevance of History, Geography and Social Studies in real-life contexts.
 
-### Mission and Vision 
+### Mission and Vision&nbsp;
 
  _A Community of Passionate Learners of the Humanities who are Critical Thinkers and Responsible Global Citizens_
 
@@ -53,16 +51,16 @@ The four to five years’ learning process in Humanities is facilitated through 
 
 The Humanities subjects explore the interaction processes between people and their environment; the past and the present. Integral to this exploration process is learning through inquiry, a common pedagogy in all new humanities syllabuses. The department believes in making the Humanities come alive through authentic learning experiences and learning journeys, to spark curiosity and interest in our students for Humanities subjects. The department also continue with the implementation of Geographical and Historical Investigation at the Lower Secondary level and Upper Secondary Social Studies Issue Investigation and Geographical Fieldwork.
 
-### Geographical Investigation 
+### Geographical Investigation&nbsp;
 
 In the Geographical Investigations, students have to engage in authentic real life experiences and interactions in Singapore, analyse the data obtained and form clear conclusions. For the Secondary 1, the Geography Unit brought the students to the Khoo Teck Puat Hospital Yishun Pond to engage in water testing. As for the Secondary 2 , the Geography Unit witnessed the final stages of weeks-long preparation for the Geographical Investigation of Yishun estate by Secondary Two students from both the Express and Normal Academic streams. Students implemented interviewing skills learnt and developed in the classrooms, and displayed commendable objectivity in ensuring that they collected data from Yishun residents regarding their favourite places. Popular sites such as the Golden Village Cinema building, the MRT station, Yishun Hill and the HDB blocks within Palm Springs Estate were explored by the students, under supervision of all the Geography teachers. Data collected through questionnaire surveys, annotated photographs and observations were then analysed and presented in the form of reports and reflections. Upper secondary students also got a chance to do tourism related fieldwork by interviewing tourists at Chinatown and understanding geographical features at East Coast Park.
 
-### Historical Investigation 
+### Historical Investigation&nbsp;
 
 In Historical Investigations, students explore a range of authentic sources to glean perspectives of the lives of people in the past and infer on life old Singapore. Students also navigate through various historical sites in Singapore and encounter authentic learning experiences which help them connect with their learning. For the Secondary Ones, the Humanities Department innovated from the original Historical Investigation project and came up with a Singapore River Trail for the Secondary Ones. Leveraging on linking the past with the present, the student went on a learning journey at the Singapore River to answer the inquiry question “Is the Singapore River a river of life?” For the Secondary Two Historical Investigation inquiry, the students took on the challenge of answering the inquiry question on “Did the Japanese Occupation bring changes to the lives of teenagers?” by leveraging on technology and ICT, the students first learnt about how the Japanese Occupation changed the lives of the people and shaped their views towards Singapore. They then dug deeper into the experiences of teenagers during the Japanese Occupation and how their lives changed during that period. This was achieved through individual independent research on oral history by listening to first-hand accounts from war survivors and looking at other primary and secondary sources like reports, photographs and official documents to make valid interpretations and inferences. The students then come together as groups to identify and locate the relevant information needed for the inquiry question. This culminated into their final product which is a creative video on their re-enactment of their conclusion.
 
   
 
-### Secondary Three Social Studies Issue Investigation 
+### Secondary Three Social Studies Issue Investigation&nbsp;
 
 The Upper Secondary SS Issue Investigation is a form of learning underpinned by inquiry which are: question-driven and evidence-based, and involves reflection and knowledge construction. The department focused on using ICT as a scaffold form of instruction for the students to encourage independent and self directed learning. Active teaching and Learning are done through the use of ICT tools and students are expected to collate and present their findings through the use of ICT.
