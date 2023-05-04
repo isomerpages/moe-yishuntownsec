@@ -4,7 +4,6 @@ permalink: /curriculum/mathematics/
 description: ""
 ---
 # **Mathematics**
-
 ![](/images/mathematics%20department.jpg)
 
 ### Mission &amp; Vision
