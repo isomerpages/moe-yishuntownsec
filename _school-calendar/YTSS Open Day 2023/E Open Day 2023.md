@@ -37,6 +37,4 @@ We welcome you to join us and begin your journey to discover what your future wi
 
 For more information on the DSA application process, criteria and timeline, you may wish to download the following files for your perusal. 
 
-
-[DSA criteria and workflow 2023](/files/dsa%20criteria%20and%20workflow%202023_.pdf)
-
+[DSA Criteria & Workflow (Final)](/files/dsa%20criteria%20&%20workflow%202023%20(final).pdf)
