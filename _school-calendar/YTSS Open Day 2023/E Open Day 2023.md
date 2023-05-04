@@ -37,4 +37,6 @@ We welcome you to join us and begin your journey to discover what your future wi
 
 For more information on the DSA application process, criteria and timeline, you may wish to download the following files for your perusal. 
 
-[DSA Talent Offered for  2023](/files/dsa%20talent%20offered%20for%20%202023_for%2024%20apr.pdf)
+
+[DSA criteria and workflow 2023](/files/dsa%20criteria%20and%20workflow%202023_.pdf)
+
