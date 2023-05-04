@@ -4,8 +4,7 @@ permalink: /curriculum/english-language-n-literature/
 description: ""
 ---
 # **English Language &amp; Literature**
-
-![](/images/ENG.jpg)
+![](/images/english%20department.jpg)
 
 ### Philosophy
 
