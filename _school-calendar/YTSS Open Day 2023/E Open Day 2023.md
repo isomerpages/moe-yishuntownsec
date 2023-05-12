@@ -37,7 +37,7 @@ We welcome you to join us and begin your journey to discover what your future wi
 
 Download our Burning Bright Yearbook & 2023 CCA and Academic Prospectus to find out more on the ways in which our students are embracing prime opportunities to excel at YTSS! 
 
-| [CCA Prospectus 2023](https://drive.google.com/drive/folders/1xng5jiYmgK-woJihgKkM5vsz15OyxIN1) | [Academic Prospectus](https://drive.google.com/drive/folders/1xng5jiYmgK-woJihgKkM5vsz15OyxIN1)| [Burning Bright Yearbook](https://drive.google.com/drive/folders/1xng5jiYmgK-woJihgKkM5vsz15OyxIN1) |
+| [CCA Prospectus 2023](https://drive.google.com/drive/folders/1xng5jiYmgK-woJihgKkM5vsz15OyxIN1) | [Academic Prospectus 2023](https://drive.google.com/drive/folders/1xng5jiYmgK-woJihgKkM5vsz15OyxIN1)| [Burning Bright Yearbook](https://drive.google.com/drive/folders/1xng5jiYmgK-woJihgKkM5vsz15OyxIN1) |
 | -------- | -------- | -------- |
 | ![](/images/cca%20prospectus%20cover%20picture.png)    | ![](/images/academic%20prospectus%20cover%20picture.png)   | ![](/images/burning%20bright%20yearbook%20cover%20pict.png)   |
 
