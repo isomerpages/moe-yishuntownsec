@@ -33,6 +33,17 @@ During the session, there will be an address by our Principal and sharing on DSA
 At Yishun Town, we are dedicated to nurturing students into future-ready leaders of character and distinction. Our school aims to activate our students’ intrinsic motivation, help them uncover and articulate their strengths and support them to carve out a future of their own. We believe that good character is the foundation of a person. In our achievements, we focused on having good values, and in particular, our school values of integrity, respect, gratitude and resilience.
 We welcome you to join us and begin your journey to discover what your future will be like at YTSS!
 
+### Embracing Prime Opportunities @ YTSS 
+
+Download our Burning Bright Yearbook & 2023 CCA and Academic Prospectus to find out more on the ways in which our students are embracing prime opportunities to excel at YTSS! 
+
+| [CCA Prospectus 2023](https://drive.google.com/drive/folders/1xng5jiYmgK-woJihgKkM5vsz15OyxIN1) | [Academic Prospectus](https://drive.google.com/drive/folders/1xng5jiYmgK-woJihgKkM5vsz15OyxIN1)| [Burning Bright Yearbook](https://drive.google.com/drive/folders/1xng5jiYmgK-woJihgKkM5vsz15OyxIN1) |
+| -------- | -------- | -------- |
+| ![](/images/cca%20prospectus%20cover%20picture.png)    | ![](/images/academic%20prospectus%20cover%20picture.png)   | ![](/images/burning%20bright%20yearbook%20cover%20pict.png)   |
+
+
+
+
 ### DSA Application 2023
 
 For more information on the DSA application process, criteria and timeline, you may wish to download the following files for your perusal. 
