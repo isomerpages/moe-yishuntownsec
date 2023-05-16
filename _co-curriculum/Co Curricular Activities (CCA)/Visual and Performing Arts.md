@@ -17,4 +17,4 @@ third_nav_title: Co Curricular Activities (CCA)
   
 The Visual and Performing Arts (VPA) aims to provide opportunities for students to develop a lifelong passion for the arts. VPA CCA also nurture students’ creative expression, enrich social, cultural and historical awareness, and build character.
 
-![](/images/visual%20cca.png)
+![](/images/visual.png)
