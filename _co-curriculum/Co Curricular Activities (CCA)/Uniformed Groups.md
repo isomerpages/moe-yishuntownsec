@@ -4,7 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-cca/uniformed-groups/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
 # **Uniformed Groups**
 
 ### CCA
@@ -18,5 +17,4 @@ third_nav_title: Co Curricular Activities (CCA)
 
 Uniformed Group  activities aim to make good citizens of students by inculcating in them self-reliance, resilience, discipline and a spirit of service to others
 
-
-
+![](/images/uniformed%20groups.png)
