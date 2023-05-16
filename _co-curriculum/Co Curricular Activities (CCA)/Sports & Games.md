@@ -19,4 +19,4 @@ third_nav_title: Co Curricular Activities (CCA)
   
 Physical Sports aim to develop robustness, fair play and team spirit in students.
 
-[Sports CCA Prospectus 2023](https://issuu.com/ictmytss/docs/sports_cca_prospectus_2023)
+![Sports & Games](/images/sportsngames.png)
