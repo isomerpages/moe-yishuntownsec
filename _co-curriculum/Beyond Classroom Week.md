@@ -22,13 +22,13 @@ disciplines. The level also had a class-bonding activity where the students step
 through a cohort-based study skills motivation workshop.
 
 
-**Sec 3 2019**
+**Sec 3 2022**
 
 The Secondary Three YTzens built self-confidence and resilience and forged stronger bonds with their teachers and classmates at the Secondary Three Camp during Beyond Classroom Week. They completed activities such as rafting, hiking, skating, human foosball and the low elements challenge. The cohort also showcased their talents at the level’s Talent Showcase and students got to appreciate their schoolmates’
 performances.
 
 
-**Sec 4 and 5 2019**
+**Sec 4 and 5 2022**
 
 One key highlight of our Sparklets’ experience in 2022 was Beyond Classroom Week. The Year Masters took the Sparklets’ feedback and led the spirit of innovation by designing a Beyond Classroom Week that was unique and
 different from previous years. The Sparklets experienced primarily an adventure-based outdoor learning programme to strengthen their class spirit and motivation. The Year Masters strongly believed in creating a strong culture of care amongst the cohort as they forged ahead to excel in their national examinations.
