@@ -18,9 +18,12 @@ third_nav_title: Co Curricular Activities (CCA)
 The Visual and Performing Arts (VPA) aims to provide opportunities for students to develop a lifelong passion for the arts. VPA CCA also nurture students’ creative expression, enrich social, cultural and historical awareness, and build character.
 
 
-| S/N | CCA | Training Details | TIC |
+| S/N | CCA | Training Details | Teachers-In-Charge |
 | -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     | Text     |
-
+| 1   | Art Club    | Tues: 3.30 p.m. - 5.30 p.m. Friday: 2.30 p.m. - 5 p.m.    | Mrs Candy Tong, Ms Nordiyana Omar, Mdm Aisyah Abdul Khalim
+     |
+| 2   | Text     | Text     | Text     |
+| 3   | Text     | Text     | Text     |
+| 4   | Text     | Text     | Text     |
 
 
