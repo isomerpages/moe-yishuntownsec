@@ -4,7 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-cca/sports-n-games/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
 # **Sports & Games**
 
 ### CCA
@@ -19,3 +18,5 @@ third_nav_title: Co Curricular Activities (CCA)
 ### Objective
   
 Physical Sports aim to develop robustness, fair play and team spirit in students.
+
+![Sport & Games](/images/sportsngamesii.png)

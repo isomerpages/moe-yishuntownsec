@@ -4,7 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-cca/clubs-n-societies/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
 # **Clubs & Societies**
 
 ### CCA
@@ -18,3 +17,5 @@ third_nav_title: Co Curricular Activities (CCA)
 ### Objective
 
 Clubs and Societies (CS) allow students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based. Students are honed in information, communication and technical skills as they strive to grow their mastery of the specialised areas.
+
+![](/images/clubs%20&%20societies%20cca.png)

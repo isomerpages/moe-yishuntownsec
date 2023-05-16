@@ -8,20 +8,27 @@ description: ""
 ![](/images/web2.jpg)
 
 
-**Sec 1 2019**
+**Sec 1 2022**
 
-Beyond Classroom week for the Secondary One students started off with preparations for sandcastle building at East Coast Park and concluded with the Humanities Alive! program. The other highlights of the BC Week for our youngest YTzens included a Maths Trail at Garden by the Bay and a visit to the National Gallery, Singapore. Be it within the territory of the school or in the heart of Singapore, our students certainly had many enjoyable moments bonding and getting to know their new friends and teachers.
+For Beyond Classroom Week, the Secondary One cohort had their first day camp in three years since their primary school days. It was
+a welcomed experience and the cohort enjoyed outdoor experiences which included kayaking in Sentosa, bowling at Kallang and a learning
+journey to Bukit Chandu. They also tried outdoor cooking, a low elements activity and teambuilding games in school. The cohort thoroughly enjoyed the experience and bonded well.
 
-**Sec 2 2019**
 
-The main highlights of the Beyond Classroom Week for the Secondary 2 were the Heritage Trail at Labrador Park and the 3D 2N at Sembawang Camp Challenge Adventure Training site. Every student had an enriching and exciting time learning about the history and geographical significance of the park. At the camp site, students took part in many new and challenging activities such as high ropes course, dragon boating and the Sembawang Park Orienteering Challenge. It was a wonderful platform for self-discovery, learning about their individual strengths and weaknesses all while bonding with their cohort mates. It was indeed a week to be remembered. 
+**Sec 2 2022**
 
-  
+The Secondary Two cohort went through a unique YTSS Beyond Classroom Week with activities organised by the different departments which aimed to bring joy in learning and stimulate and enhance YTzens’ interest in the various subject
+disciplines. The level also had a class-bonding activity where the students stepped out of their comfort zone and developed their social-emotional competencies and leadership skills. In addition, the students also got to reflect on how they should play the part in their future planning and decision-making. They also had the opportunity to put their learning in practice
+through a cohort-based study skills motivation workshop.
 
-**Sec 3 2019**
 
-This year, the Secondary 3 students roughed it out in a 4 Day 3 Nights Outdoor Adventure Camp held at Pulau Ubin and Sembawang Camp Challenge. The camp served as a platform for them to know their new classmates and to bond with them through various activities like open sea kayaking, orienteering and outdoor cooking. Students had the opportunity to overcome their fear of heights through numerous high elements activities. The cohort had grown closer by the end of the camp and hope to cherish the memories made and new friendships forged for a long time to come!
+**Sec 3 2022**
 
-**Sec 4 and 5 2019**
+The Secondary Three YTzens built self-confidence and resilience and forged stronger bonds with their teachers and classmates at the Secondary Three Camp during Beyond Classroom Week. They completed activities such as rafting, hiking, skating, human foosball and the low elements challenge. The cohort also showcased their talents at the level’s Talent Showcase and students got to appreciate their schoolmates’
+performances.
 
-This year’s graduating cohort kickstarted their Beyond Classroom (BC) Week by spending a day with staff and students from Nanyang Polytechnic, gathering valuable information about the wide range of courses they offer. A series of motivational workshops and learning journeys were organised to help our YTzens understand the growth mindset, gain study skills and discover their individual strengths and interests. 4NA and 4NT YTzens ended their BC week with a 3D2N camp at the MOE Outdoor Adventure Learning Centre at Jalan Bahtera.
+
+**Sec 4 and 5 2022**
+
+One key highlight of our Sparklets’ experience in 2022 was Beyond Classroom Week. The Year Masters took the Sparklets’ feedback and led the spirit of innovation by designing a Beyond Classroom Week that was unique and
+different from previous years. The Sparklets experienced primarily an adventure-based outdoor learning programme to strengthen their class spirit and motivation. The Year Masters strongly believed in creating a strong culture of care amongst the cohort as they forged ahead to excel in their national examinations.

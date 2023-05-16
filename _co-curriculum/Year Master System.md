@@ -3,7 +3,6 @@ title: Year Master System
 permalink: /co-curriculum/year-master-system/
 description: ""
 ---
-
 # **Year Master System**
 
 The Year Master (YM) system provides a horizontal integration of the curriculum and co-curricular programmes in each of the levels to ensure students’ holistic development and overall well-being. It ensures an all-round development for students during their four to five years in school and complements the HOD system, which focuses largely on the vertical progression of the curriculum. 
@@ -12,20 +11,16 @@ The main objectives of the YM system are to provide a well-balanced education fo
 
 
 
-### 2021 Year Masters
+### 2023 Year Masters
 
 Sec 1 :    
-Mr Ng Wei Kwang, Ms Tan Siew Yan
-
+Ms Koh Lee Leng Lynn, Mr Chua Weiqiang 
 
 Sec 2 :     
-Mdm Ruziana Bte Zakaria, Mr Alan Chew Chioh-Sian  
-
+Mr Woo Lee Yen, Ms Ng Bao Xian
 
 Sec 3 :     
-Mrs Lynn Ong, Mr Muhammad Tirmidzi Bin Abdul Ghani, Ms Nafisah Bte Alias  
-
-  
+Mr Ng Wei Kwang, Ms Tan Siew Yan, Mdm Wong Hsu Hui
 
 Sec 4/5 :    
-Mr Woo Lee Yen , Ms Huang Yiyan Emily, Mrs Candy Tong
+Mdm Ruziana Bte Zakaria, Mr Nanda S/O Meenachi Sundram, Mr Alan Chew Chioh-Sian
