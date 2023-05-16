@@ -19,4 +19,4 @@ third_nav_title: Co Curricular Activities (CCA)
   
 Physical Sports aim to develop robustness, fair play and team spirit in students.
 
-![Sports & Games](/images/sportsngames.png)
+![Sport & Games](/images/sportsngamesii.png)
