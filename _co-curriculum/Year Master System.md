@@ -20,8 +20,7 @@ Sec 2 : 
 Mr Woo Lee Yen, Ms Ng Bao Xian
 
 Sec 3 :     
-Mr Ng Wei Kwang, Mdm Wong Hsu Hui, Ms Tan Siew Yan 
+Mr Ng Wei Kwang, Ms Tan Siew Yan, Mdm Wong Hsu Hui
 
 Sec 4/5 :    
 Mdm Ruziana Bte Zakaria, Mr Nanda S/O Meenachi Sundram, Mr Alan Chew Chioh-Sian
-
