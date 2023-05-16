@@ -25,5 +25,3 @@ The Visual and Performing Arts (VPA) aims to provide opportunities for students 
 | 2   | Text     | Text     | Text     |
 | 3   | Text     | Text     | Text     |
 | 4   | Text     | Text     | Text     |
-
-
