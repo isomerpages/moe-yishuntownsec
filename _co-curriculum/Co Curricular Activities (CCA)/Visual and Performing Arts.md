@@ -22,11 +22,7 @@ The Visual and Performing Arts (VPA) aims to provide opportunities for students 
 | -------- | -------- | -------- | -------- |
 | 1   | Art Club    | Tues: 3.30 p.m. - 5.30 p.m. Friday: 2.30 p.m. - 5 p.m.    | Mrs Candy Tong
 Ms Nordiyana Omar
-Mdm Aisyah Abdul Khalim
-     |
+Mdm Aisyah Abdul Khalim |
 | 2   | Text     | Text     | Text     |
 | 3   | Text     | Text     | Text     |
 | 4   | Text     | Text     | Text     |
-
-
-
