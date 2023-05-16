@@ -23,5 +23,6 @@ Sec 3 : 
 Mr Ng Wei Kwang, Mdm Wong Hsu Hui, Ms Tan Siew Yan 
 
 Sec 4/5 :    
-Mdm Ruziana Bte Zakaria, Mr Nanda S/O Meenachi Sundram, Mr Alan Chew 
+Mdm Ruziana Bte Zakaria, Mr Nanda S/O Meenachi Sundram, Mr Alan Chew Chioh-Sian
+
 
