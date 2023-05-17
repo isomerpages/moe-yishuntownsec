@@ -8,8 +8,7 @@ third_nav_title: YTSS Open Day 2023
 
 Thank you to those who have attended our E-Open Day session on 15 May 2023! We hope you have found it to be a meaningful and fruitful session where you were able to learn more about our school and the suite of prime opportunities it can offer to your child/ward! 
 
-For those who were unable to attend the E-Open Day, you may download our E-Open Day slides for your reading pleasure. 
-[E-Open Day 2023 Slides](https://drive.google.com/drive/folders/1qYf4We9WMiv5-1P0Gn53uwpe9RXkjp8d?usp=sharing)
+For those who were unable to attend the E-Open Day, you may download our [E-Open Day 2023 Slides](https://drive.google.com/drive/folders/1qYf4We9WMiv5-1P0Gn53uwpe9RXkjp8d?usp=sharing) for your reading pleasure. 
 
 # YTSS Open Day 2023
 
