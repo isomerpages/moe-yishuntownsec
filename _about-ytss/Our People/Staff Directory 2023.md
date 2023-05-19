@@ -6,7 +6,6 @@ description: ""
 ---
 # **Staff Directory 2023**
 
-need to double check the content
 
 ### Secondary 1
 
