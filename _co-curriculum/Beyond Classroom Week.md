@@ -32,4 +32,4 @@ A special co-curricular programme, the Beyond Classroom Week Programme, is part 
 * Education & Career Education activities 
 
 ![](/images/sec%204%20&%205%20level%20bonding.jpeg)
-* Level bonding activities 
+* Level bonding activities
