@@ -27,9 +27,10 @@ Student leadership development in YTSS aims to nurturing YTzens to become a *Con
 
 #### **Understanding the YTSS Student Leadership Framework**
 
-**Rationale:**
+***All students***
+* Secondary 1 Leadership Training Workshop
 
-The Student Leadership Committee (SLC) strongly believes in a quote once said by John F. Kennedy, “Leadership and learning are indispensable to one another.”&nbsp; The alignment of our Leadership training programmes is to the “5 Practices of Exemplary Leadership” is critical in the development of our Students to become Confident Leaders.
+***Student Council***
 
 **Strategies:**
 
