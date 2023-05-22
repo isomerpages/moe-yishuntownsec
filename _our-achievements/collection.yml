@@ -1,5 +1,5 @@
 collections:
-  achievements:
+  our-achievements:
     output: true
     order:
       - School Achievements.md
