@@ -7,8 +7,8 @@ links:
     sublinks: []
   - title: CURRICULUM
     collection: curriculum
-  - title: CALENDAR & EVENTS
-    collection: school-calendar
+  - title: Calendar Events
+    collection: calendar-events
   - title: PUBLICATION & MEDIA
     url: /publicationmedia
     sublinks: []
