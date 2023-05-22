@@ -1,5 +1,5 @@
 collections:
-  about-y-t-s-s:
+  about-ytss:
     output: true
     order:
       - Our Partners/.keep
