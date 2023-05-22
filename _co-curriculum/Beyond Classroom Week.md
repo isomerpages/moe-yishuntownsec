@@ -17,9 +17,14 @@ A special co-curricular programme, the Beyond Classroom Week Programme, is part 
 * Active Learning Series
 
 ***Secondary 2***
-
+![](/images/photo%202.JPG)
+* Enrichment activities 
+* Active Learning Series
 
 ***Secondary 3***
-
+![](/images/sec%203%20bc%20week.JPG)
+* Outdoor Adventure Camp
+* Enrichment activities 
+* Active Learning Series
 
 ***Secondary 4 & 5***
