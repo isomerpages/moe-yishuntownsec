@@ -1,14 +1,20 @@
 logo: /images/school logo-blue.png
 links:
-  - title: About Us
+  - title: ABOUT US
     collection: about-us
-  - title: Calendar
-    collection: school-calendar
-  - title: Curriculum
+  - title: PROGRAMMES
+    url: /programmes
+    sublinks: []
+  - title: CURRICULUM
     collection: curriculum
+  - title: CALENDAR & EVENTS
+    collection: school-calendar
+  - title: PUBLICATION & MEDIA
+    url: /publicationmedia
+    sublinks: []
+  - title: FOR PARENTS
+    collection: parents-links
   - title: Co-Curriculum
     collection: co-curriculum
-  - title: Parents Links
-    collection: parents-links
   - title: Our Achievements
     collection: our-achievements
