@@ -2,7 +2,6 @@ collections:
   our-achievements:
     output: true
     order:
-      - VMMV.md
       - Student Achievements/.keep
       - Student Achievements/Student Achievements.md
       - Student Achievements/Academic Achievements.md
