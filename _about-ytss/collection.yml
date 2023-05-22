@@ -2,9 +2,9 @@ collections:
   about-ytss:
     output: true
     order:
-      - Our Partners/Parent Support Group.md
-      - Our Partners/School Advisory Committee.md
       - Our Partners/.keep
+      - Our Partners/School Advisory Committee.md
+      - Our Partners/Parent Support Group.md
       - Principal's Message 2023/.keep
       - Principal's Message 2023/Principal's Message 2023.md
       - Principal's Message 2023/Principal's Message 2022.md
