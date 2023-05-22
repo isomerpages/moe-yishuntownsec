@@ -1,5 +1,5 @@
 collections:
-  school-calendar:
+  calendar-events:
     output: true
     order:
       - Calendar.md
