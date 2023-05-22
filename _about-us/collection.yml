@@ -2,19 +2,19 @@ collections:
   about-us:
     output: true
     order:
-      - VMMV.md
-      - Our Partners/.keep
-      - Our Partners/School Advisory Committee.md
-      - Our Partners/Parent Support Group.md
-      - Our Partners/Yishun Town Alumni.md
       - Principal's Message 2023/.keep
       - Principal's Message 2023/Principal's Message 2023.md
       - Principal's Message 2023/Principal's Message 2022.md
       - Principal's Message 2023/Principal's Termly Addresses.md
-      - Our People/Steering Committee.md
       - Our People/.keep
+      - Our People/Steering Committee.md
       - Our People/Staff Directory 2023.md
-      - Vision, Mission, Motto, Values.md
-      - Autonomous School.md
+      - Our Partners/.keep
+      - Our Partners/School Advisory Committee.md
+      - Our Partners/Parent Support Group.md
+      - Our Partners/Yishun Town Alumni.md
+      - VMMV.md
       - Our Heritage.md
+      - Vision, Mission, Motto, Values.md
       - The YT2026 Plan.md
+      - Autonomous School.md
