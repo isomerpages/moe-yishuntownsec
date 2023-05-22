@@ -31,6 +31,12 @@ Student leadership development in YTSS aims to nurturing YTzens to become a *Con
 * Secondary 1 Leadership Training Workshop
 
 ***Student Council***
+* Planning and Execution of daily duties routine School operations and School Events (e.g. Secondary 1 Orientation, Dress for A Good Cause Day, and Teachers’ Day Celebrations)
+* Secondary 2 Aspiring Leaders Programme
+* Student/Youth Leadership Convention 
+* Student Council Investitures
+* Involve in implementation of school processes, e.g. YT Operation Clean
+* Self-initiated School-Improvement Projects
 
 **Strategies:**
 
