@@ -18,15 +18,6 @@ Student leadership development in YTSS aims to nurturing YTzens to become a *Con
 4.	Partnering with the wider community for meaningful activities for the Student Leaders
 
 ### **Multiple Pathways for Leadership**
-![](/images/sl%20infographic.png)
-
-
-
-![](/images/Star.jpg)
-
-
-#### **Understanding the YTSS Student Leadership Framework**
-
 ***All students***
 * Secondary 1 Leadership Training Workshop
 
@@ -37,6 +28,20 @@ Student leadership development in YTSS aims to nurturing YTzens to become a *Con
 * Student Council Investitures
 * Involve in implementation of school processes, e.g. YT Operation Clean
 * Self-initiated School-Improvement Projects
+
+***Monitor Council***
+* Peacemaker Conference
+* Conflict Resolution Workshops
+* YTMC Class-based Projects
+* YTMC Leadership Workshop
+* Involve in implementation of school processes, e.g. YT Operation Clean
+
+***Empowering Leaders***
+* Leadership Development Programme
+* Planning and execution of School Events and activities (Leadership platforms through service to School)
+
+***Others***
+* Class/Group ICs at Secondary 3 Leadership Camp
 
 **Strategies:**
 
