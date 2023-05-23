@@ -2,11 +2,11 @@ collections:
   programmes:
     output: true
     order:
+      - PDLP/.keep
+      - PDLP/PDLP @ YTSS.md
       - PDLP/Device Specifications.md
-      - PDLP/Resources.md
       - PDLP/Updates & Announcements.md
       - PDLP/Frequently Asked Questions.md
-      - PDLP/PDLP @ YTSS.md
-      - PDLP/.keep
+      - PDLP/Resources.md
       - Parents Gateway.md
       - Beyond Classroom Week.md
