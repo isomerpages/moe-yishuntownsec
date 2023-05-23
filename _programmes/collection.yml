@@ -2,8 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Blended Learning @ YTSS.md
-      - Education and Career Guidance (ECG).md
       - Beyond Classroom Week.md
       - PDLP/.keep
       - PDLP/PDLP @ YTSS.md
@@ -11,3 +9,5 @@ collections:
       - PDLP/Updates & Announcements.md
       - PDLP/Frequently Asked Questions.md
       - PDLP/Resources.md
+      - Blended Learning @ YTSS.md
+      - Education and Career Guidance (ECG).md
