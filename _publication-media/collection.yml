@@ -1,4 +1,4 @@
 collections:
-  publicationmedia:
+  publication-media:
     output: true
     order: []
