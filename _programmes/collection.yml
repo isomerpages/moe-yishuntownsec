@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - PDLP/Device Specifications.md
       - PDLP/Resources.md
       - PDLP/Updates & Announcements.md
       - PDLP/Frequently Asked Questions.md
