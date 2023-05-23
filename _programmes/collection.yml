@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - PDLP/Updates & Announcements.md
       - PDLP/Frequently Asked Questions.md
       - PDLP/PDLP @ YTSS.md
       - PDLP/.keep
