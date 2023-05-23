@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Achievements/.keep
       - Principal's Message 2023/.keep
       - Principal's Message 2023/Principal's Message 2023.md
       - Principal's Message 2023/Principal's Message 2022.md
@@ -14,6 +13,7 @@ collections:
       - Our Partners/School Advisory Committee.md
       - Our Partners/Parent Support Group.md
       - Our Partners/Yishun Town Alumni.md
+      - Our Achievements/.keep
       - VMMV.md
       - Our Heritage.md
       - The YT2026 Plan.md
