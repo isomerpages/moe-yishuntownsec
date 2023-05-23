@@ -11,6 +11,12 @@ links:
         url: /pdlp
       - title: ECG
         url: /ecg
+      - title: YT Nova
+        url: /YTNova
+      - title: Student Leadership
+        url: /student_leadership
+      - title: Cross Cultural Learning
+        url: /cross_cultural
   - title: CURRICULUM
     collection: curriculum
   - title: Calendar Events
