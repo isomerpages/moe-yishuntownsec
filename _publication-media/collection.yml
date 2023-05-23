@@ -1,4 +1,5 @@
 collections:
   publication-media:
     output: true
-    order: []
+    order:
+      - Yearbook 2023.md
