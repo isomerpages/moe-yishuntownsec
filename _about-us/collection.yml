@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - YTSS Rules & Consequences.md
       - Principal's Message 2023/.keep
       - Principal's Message 2023/Principal's Message 2023.md
       - Principal's Message 2023/Principal's Message 2022.md
