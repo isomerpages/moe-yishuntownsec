@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - CCA/.keep
       - English Language & Literature.md
       - Mother Tongue Languages.md
       - Mathematics.md
@@ -15,7 +14,8 @@ collections:
       - Craft & Technology Department/Music Unit.md
       - Craft & Technology Department/Nutrition and Food Science Unit.md
       - Physical Education.md
+      - CCE/.keep
       - CCE/Sexuality Education Programme.md
       - CCE/Values in Action.md
       - CCE/Character and Citizenship Education (CCE).md
-      - CCE/.keep
+      - CCA/.keep
