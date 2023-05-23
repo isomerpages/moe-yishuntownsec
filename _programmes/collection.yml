@@ -2,6 +2,8 @@ collections:
   programmes:
     output: true
     order:
+      - Cross Cultural Learning/Cross Cultural Trip to Taipei and Taitung,
+        Taiwan.md
       - Cross Cultural Learning/Cross Cultural Trip to Chiangrai, North of
         Thailand.md
       - Cross Cultural Learning/Cross Cultural Trip to Beijing, China.md
