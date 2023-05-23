@@ -1,5 +1,4 @@
 collections:
   publicationmedia:
     output: true
-    order:
-      - Prospectus.md
+    order: []
