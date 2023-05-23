@@ -2,7 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Year Master System.md
       - CCE/Process Drama.md
       - CCE/Project School.md
       - CCE/.keep
