@@ -21,7 +21,7 @@ links:
     collection: curriculum
   - title: CALENDAR EVENTS
     collection: calendar-events
-  - title: PUBLICATION & MEDIA
+  - title: PUBLICATION  MEDIA
     url: /publicationmedia
     sublinks:
       - title: Prospectus
