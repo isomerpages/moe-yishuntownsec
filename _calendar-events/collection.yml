@@ -2,7 +2,7 @@ collections:
   calendar-events:
     output: true
     order:
-      - Calendar.md
+      - School Calendar.md
       - Upcoming Events & Activities/.keep
       - Upcoming Events & Activities/Upcoming Events & Activities.md
       - "Upcoming Events & Activities/Sec 1 and 3 Camp Briefing : 19 Jan 2023.md"
