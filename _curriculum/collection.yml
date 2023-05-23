@@ -2,16 +2,16 @@ collections:
   curriculum:
     output: true
     order:
-      - CCE/.keep
       - English Language & Literature.md
       - Mother Tongue Languages.md
       - Mathematics.md
       - Science.md
       - Humanities.md
+      - Craft & Technology Department/.keep
       - Craft & Technology Department/Craft and Technology Department.md
       - Craft & Technology Department/Design & Technology Unit.md
       - Craft & Technology Department/Art Unit.md
       - Craft & Technology Department/Music Unit.md
       - Craft & Technology Department/Nutrition and Food Science Unit.md
-      - Craft & Technology Department/.keep
       - Physical Education.md
+      - CCE/.keep
