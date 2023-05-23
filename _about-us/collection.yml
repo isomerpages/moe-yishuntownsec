@@ -1,0 +1,23 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message 2023/.keep
+      - Principal's Message 2023/Principal's Message 2023.md
+      - Principal's Message 2023/Principal's Message 2022.md
+      - Principal's Message 2023/Principal's Termly Addresses.md
+      - Our People/.keep
+      - Our People/Steering Committee.md
+      - Our People/Staff Directory 2023.md
+      - Our Partners/.keep
+      - Our Partners/School Advisory Committee.md
+      - Our Partners/Parent Support Group.md
+      - Our Partners/Yishun Town Alumni.md
+      - Our Achievements/.keep
+      - Our Achievements/Student Achievements.md
+      - Our Achievements/Teachers Achievements.md
+      - Our Achievements/School Achievements.md
+      - VMMV.md
+      - Our Heritage.md
+      - The YT2026 Plan.md
+      - YTSS Rules & Consequences.md

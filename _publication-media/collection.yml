@@ -1,0 +1,5 @@
+collections:
+  publication-media:
+    output: true
+    order:
+      - Prospectus.md

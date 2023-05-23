@@ -1,0 +1,24 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Beyond Classroom Week.md
+      - PDLP/.keep
+      - PDLP/PDLP @ YTSS.md
+      - PDLP/Device Specifications.md
+      - PDLP/Updates & Announcements.md
+      - PDLP/Frequently Asked Questions.md
+      - PDLP/Resources.md
+      - Blended Learning @ YTSS.md
+      - Education and Career Guidance (ECG).md
+      - Student Leadership Development.md
+      - Cross Cultural Learning/.keep
+      - "Cross Cultural Learning/Cross Cultural Trip to Kyoto, Japan: Sagano
+        High School.md"
+      - Cross Cultural Learning/Cross Cultural Trip to Vietnam.md
+      - Cross Cultural Learning/Cross Cultural Trip to Seoul, South Korea.md
+      - Cross Cultural Learning/Cross Cultural Trip to Taipei and Taitung,
+        Taiwan.md
+      - Cross Cultural Learning/Cross Cultural Trip to Chiangrai, North of
+        Thailand.md
+      - Cross Cultural Learning/Cross Cultural Trip to Beijing, China.md

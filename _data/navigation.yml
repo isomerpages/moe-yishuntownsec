@@ -1,14 +1,35 @@
 logo: /images/school logo-blue.png
 links:
-  - title: About Ytss
-    collection: about-ytss
-  - title: Calendar
-    collection: school-calendar
-  - title: Curriculum
+  - title: ABOUT US
+    collection: about-us
+  - title: PROGRAMMES
+    url: /programmes
+    sublinks:
+      - title: Beyond Classroom
+        url: /beyond_classroom
+      - title: PDLP
+        url: /pdlp
+      - title: ECG
+        url: /ecg
+      - title: YT Nova
+        url: /YTNova
+      - title: Student Leadership
+        url: /student_leadership
+      - title: Cross Cultural Learning
+        url: /cross_cultural
+  - title: CURRICULUM
     collection: curriculum
-  - title: Co-Curriculum
-    collection: co-curriculum
-  - title: Parents Links
-    collection: parents-links
-  - title: Achievements
-    collection: achievements
+  - title: CALENDAR EVENTS
+    collection: calendar-events
+  - title: PUBLICATION  MEDIA
+    url: /publicationmedia
+    sublinks:
+      - title: Prospectus
+        url: /Prospectus
+  - title: For Parents
+    collection: for-parents
+  - title: PARTNERSHIP
+    collection: partnership
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
