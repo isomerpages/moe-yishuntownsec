@@ -1,5 +1,5 @@
 collections:
-  parents-links:
+  for-parents:
     output: true
     order:
       - Parents Gateway.md
