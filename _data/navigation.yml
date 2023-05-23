@@ -23,7 +23,9 @@ links:
     collection: calendar-events
   - title: PUBLICATION & MEDIA
     url: /publicationmedia
-    sublinks: []
+    sublinks:
+      - title: Prospectus
+        url: /Prospectus
   - title: FOR PARENTS
     collection: parents-links
   - title: PARTNERSHIP
