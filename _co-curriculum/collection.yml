@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - CCE/Process Drama.md
-      - CCE/Project School.md
       - CCE/.keep
       - Student Development/.keep
