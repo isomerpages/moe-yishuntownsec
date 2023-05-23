@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Sexuality Education Programme.md
       - CCA/.keep
       - English Language & Literature.md
       - Mother Tongue Languages.md
