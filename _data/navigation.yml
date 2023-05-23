@@ -26,7 +26,12 @@ links:
     sublinks: []
   - title: FOR PARENTS
     collection: parents-links
+  - title: PARTNERSHIP
+    collection: partnership
   - title: Co-Curriculum
     collection: co-curriculum
   - title: Our Achievements
     collection: our-achievements
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
