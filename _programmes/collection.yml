@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Beyond Classroom Week.md
       - PDLP/.keep
       - PDLP/PDLP @ YTSS.md
       - PDLP/Device Specifications.md
@@ -9,4 +10,3 @@ collections:
       - PDLP/Frequently Asked Questions.md
       - PDLP/Resources.md
       - Parents Gateway.md
-      - Beyond Classroom Week.md
