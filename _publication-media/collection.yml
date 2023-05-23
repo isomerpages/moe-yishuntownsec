@@ -2,4 +2,4 @@ collections:
   publication-media:
     output: true
     order:
-      - Yearbook.md
+      - Academic Prospectus.md
