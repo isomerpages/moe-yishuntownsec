@@ -67,7 +67,7 @@ Reading plays a very important part to develop students thinking skills. Student
 
 ![](/images/12.png)
 
-**SCHOOL PUBLICATION (毅然优秀作品集，&nbsp;出版2022年)**&nbsp;&nbsp;
+**SCHOOL PUBLICATION (毅意优秀作品集，&nbsp;出版2022年)**&nbsp;&nbsp;
 
 Mother Tongue Languages Department published a compilation of students work, featuring good Chinese Language essays written by our YTzens. These essays are written pieces that students have worked on throughout the year and serve not only&nbsp; as a form of encouragement to those who have written these essays but also as a means of motivating other students to continue writing well and have their essays featured in the compilation in the years to come and pick up useful phrases and tips while reading too !
 
