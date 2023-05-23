@@ -4,7 +4,6 @@ collections:
     order:
       - PDLP/PDLP @ YTSS.md
       - PDLP/.keep
-      - Frequently Asked Questions.md
       - Device Specifications.md
       - Resources.md
       - Updates & Announcements.md
