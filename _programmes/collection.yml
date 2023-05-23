@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - PDLP @ YTSS.md
       - Parents Gateway.md
       - Beyond Classroom Week.md
