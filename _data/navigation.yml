@@ -30,8 +30,6 @@ links:
     collection: for-parents
   - title: PARTNERSHIP
     collection: partnership
-  - title: Our Achievements
-    collection: our-achievements
   - title: Menu Title
     url: /permalink
     sublinks: []
