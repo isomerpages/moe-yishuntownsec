@@ -4,7 +4,13 @@ links:
     collection: about-us
   - title: PROGRAMMES
     url: /programmes
-    sublinks: []
+    sublinks:
+      - title: Beyond Classroom
+        url: /beyond_classroom
+      - title: PDLP
+        url: /pdlp
+      - title: ECG
+        url: /ecg
   - title: CURRICULUM
     collection: curriculum
   - title: Calendar Events
