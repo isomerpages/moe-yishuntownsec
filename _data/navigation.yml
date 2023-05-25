@@ -21,11 +21,8 @@ links:
     collection: curriculum
   - title: CALENDAR EVENTS
     collection: calendar-events
-  - title: PUBLICATION  MEDIA
-    url: /publicationmedia
-    sublinks:
-      - title: Prospectus
-        url: /Prospectus
+  - title: Publication Media
+    collection: publication-media
   - title: For Parents
     collection: for-parents
   - title: PARTNERSHIP
