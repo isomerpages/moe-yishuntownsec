@@ -2,4 +2,5 @@ collections:
   publication-media:
     output: true
     order:
+      - Co Curricular Prospectus 2023.md
       - Academic Yearbook 2023.md
