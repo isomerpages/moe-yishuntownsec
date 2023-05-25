@@ -22,10 +22,10 @@ links:
   - title: CALENDAR EVENTS
     collection: calendar-events
   - title: PUBLICATION  MEDIA
-    url: /publicationmedia
+    url: /publication-media/
     sublinks:
       - title: Prospectus
-        url: /Prospectus
+        url: /publication-media/prospectus/
   - title: For Parents
     collection: for-parents
   - title: PARTNERSHIP
