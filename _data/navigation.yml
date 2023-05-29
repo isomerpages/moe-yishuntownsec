@@ -27,6 +27,12 @@ links:
     collection: for-parents
   - title: PARTNERSHIP
     collection: partnership
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
+  - title: PUBLICATION
+    url: \Publication
+    sublinks:
+      - title: Academic Yearbook 2023
+        url: https://online.fliphtml5.com/fomwr/bepf/#p=1
+      - title: Co Curricular Prospectus 2023
+        url: https://online.fliphtml5.com/fomwr/watz/
+      - title: Burning Bright Yearbook 2022
+        url: https://online.fliphtml5.com/fomwr/ctfv/
