@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Yishun Town Secondary School
-      background: /images/landing page new.gif
+      background: /images/landingpagenew.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
