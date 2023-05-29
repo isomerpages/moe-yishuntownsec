@@ -8,8 +8,6 @@ notification: ""
 sections:
   - hero:
       title: Yishun Town Secondary School
-      subtitle: A Community of Leaders | Active Citizens | YTZENS for the Future | A
-        School of Distinction | A Global Thinker
       background: /images/YTSS.gif
       button: Contact Us
       url: /contact-us/
