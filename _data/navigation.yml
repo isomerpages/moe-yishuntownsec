@@ -19,14 +19,18 @@ links:
         url: /cross_cultural
   - title: CURRICULUM
     collection: curriculum
+  - title: PUBLICATION MEDIA
+    url: \Publication
+    sublinks:
+      - title: Academic Yearbook 2023
+        url: https://online.fliphtml5.com/fomwr/bepf/#p=1
+      - title: Co Curricular Prospectus 2023
+        url: https://online.fliphtml5.com/fomwr/watz/
+      - title: Burning Bright Yearbook 2022
+        url: https://online.fliphtml5.com/fomwr/ctfv/
   - title: CALENDAR EVENTS
     collection: calendar-events
-  - title: Publication Media
-    collection: publication-media
   - title: For Parents
     collection: for-parents
   - title: PARTNERSHIP
     collection: partnership
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
