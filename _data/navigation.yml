@@ -6,15 +6,15 @@ links:
     url: /programmes
     sublinks:
       - title: Beyond Classroom
-        url: /beyond_classroom
+        url: https://yishuntownsec.moe.edu.sg/co-curriculum/beyond-classroom-week/
       - title: PDLP
         url: /pdlp
       - title: ECG
-        url: /ecg
+        url: /co-curriculum/education-and-career-guidance-ecg/
       - title: YT Nova
         url: /YTNova
       - title: Student Leadership
-        url: /student_leadership
+        url: /co-curriculum/student-development/student-leadership-development/
       - title: Cross Cultural Learning
         url: /cross_cultural
   - title: CURRICULUM
