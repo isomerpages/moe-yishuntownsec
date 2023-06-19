@@ -78,6 +78,8 @@ MOE will be rolling out a series of engagement sessions titled “A World Beyond
 
 ![](/images/psg%20update%201.png)
 
+In addition, MOE have collated the highlights from the session into a [video](https://www.youtube.com/watch?v=3H5dAmRbgP4). We seek your support to share the video and schedule of upcoming “A World Beyond School” sessions with other parents in our PSG and networks.
+
 ### Contact Information
 Mailing Address:
 Parent Support Group    
