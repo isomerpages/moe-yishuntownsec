@@ -47,52 +47,16 @@ To be a dynamic, fully-engaged and expanding community of parents committed to m
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">NO</th><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">NAME</th><th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">POSITION</th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Surekah Kumari Sachdev</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Chairman</td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Brenda Chee</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Vice-chairman</td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Veeraian Chetiyar Praba</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Vice-chairman<br>Sec 3 Level Coordiantor</td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mr Tan Boon Huat</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Secretary</td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Chloe Qi Aiyun</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Treasurer<br>Sec 4 Level Coordiantor</td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">6</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Jasbir Kaur</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Sec 2 Level Coordiantor</td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">7</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Irene Wong Han Chan</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Event Manager</td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">8</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Annie Leow</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Event Manager</td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">9</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mr Rajvinder Singh</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Member</td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">10</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Neo Chiew Theng</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Member</td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">11</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mr Ang Teck Seng</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Member</td></tr><tr><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">12</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Vaka Aram Jyothi</td><td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Member</td></tr></tbody></table>
 
-**Our BELIEF**
+### Our HIGHLIGHTED ACTIVITIES
+1.	Interaction with Sec 1 parents during CCA Bazaar
+2.	Engagement Sessions with Principal and teachers
+3.	Celebrate CNY, Speech Day and NDP with school
+4.	Participate in YT Fiesta 
+5.	Prepare traditional games and snacks for students to celebrate Racial Harmony Day
+6.	Support Sec 4&amp;5 students during subject day and night study sessions
+7.	Organize bonding activities and coffee talks for PSG members
 
-Together we can make a difference as we pursue a common goal of making Yishun Town Secondary School a premier heartland school in Yishun.
-
-1.  Hosting of Sec 1 parents and recruitment of new PSG members
-2.  Supporting School Programmes such as Beyond Classroom Week &nbsp;and Combined School’s Sports Day
-3.  Organising bonding activities and coffee talks for PSG members
-4.  Organising the Mid Autumn Festival celebration for students and their families
-5.  Attending/facilitating family education workshops
-
-Parents in Education (PiE Website):&nbsp;[http://parents-in-education.moe.gov.sg](http://parents-in-education.moe.gov.sg/)
-
-  
-
-**FamilyMatters!@School Programme**
-
-**A Programme Specially for Parents and Students of Yishun Town Secondary School**
-
-Yishun Town Secondary School has embarked on the FamilyMatters!@School Programme (formally known as School Family Education Programme) since April 2011. This programme, supported by the Ministry of Social and Family Development, is part of the school’s proactive effort to empower parents and students with the knowledge and skills to enrich and strengthen family life through the implementation of workshops, seminars and family bonding activities for the parents and students.&nbsp;
-
-**The FamilyMatters!@School Programme includes:**
-
-* Workshops and seminars for parents on topics such as effective parenting, social and emotional development of children and teenagers, managing work-life demands and building strong marriages;
-* Programmes for students that impart values and build characters;
-* Family bonding activities.
-
-&nbsp;**The FamilyMatters!@School Programme aims to:**
-
-* Equip parents with the skills and knowledge to enrich and strengthen their family life; and foster better parent-child understanding and relationship to become more effective mentors and coaches;
-* Empower students with life skills; skills to build healthy relationships with their peers and family; and/or imbue positive values and attributes towards family, relationships and life in general.
-
-&nbsp;Parents, you and your family are cordially invited to participate in the FamilyMatters!@School Programme! We look forward to you and your family’s participation.
- 
- 
- <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSiJ1JH7p2w3LEZyFChSyLZL_pCzIdiE1TN_qc4SEzGkhZRBP-0x1iCq2jTm2Pkp2J07bZCSYkGm0E2/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
- uploaded 5 images only
- 
- 
- 
- <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ9MJbALIXzpJnq2iHG0qnxXmanCCQvgVGyik-AmoYcXGySgd75vHtXSbqEhoD_j8jLFjUQYxY0vPiK/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
- 
- 
- 
 ###  Positive Parenting Programme
-
-  
 
 In order to support parents in building a healthy relationship with their child, our school embarks on the Positive Parenting Programme (**Triple P**) from this year. This programme is supported by Ministry of Social and Family Development and it is now used in 17 countries worldwide.
 
@@ -100,14 +64,19 @@ In order to support parents in building a healthy relationship with their child,
 
 * Create a stable, supportive, harmonious family environment
 * Teach their children the skills they need to get along with others
-* Deal positively, consistently and decisively with problem behaviour should it raise
+* Deal positively, consistently and decisively with problem behaviour should it arise
 * Encourage behaviour they like
 * Develop realistic expectations of their children and themselves
 * Take care of themselves as parents
 
-All Sec 1 &amp; Sec 2 parents are eligible to participate in this programme.
+All Sec 1 to Sec 5 parents are eligible to participate in this programme. The information is sent out via Parent Gateway at certain points of every year. 
 
+### Our PHOTOS
 
+###  Other useful information for parents
+MOE will be rolling out a series of engagement sessions titled “A World Beyond School”. These sessions comprise dialogues and conversations where parents, educators and students can gain insights on the diverse work realities and be enriched by learning experiences beyond schools. We have attached the schedule of upcoming sessions, and details of each session will be shared on MOE platforms closer to the dates. 
+
+![](/images/psg%20update%201.png)
 
 ### Contact Information
 Mailing Address:
