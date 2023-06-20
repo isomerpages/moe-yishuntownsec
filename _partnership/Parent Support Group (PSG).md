@@ -85,8 +85,25 @@ CNY Celebration
 
 ![](/images/cny%20celebration%202.jpeg)
 
+![](/images/cny%20celebration%203.jpeg)
 
+![](/images/cny%20celebration%204.jpeg)
 
+PSG EXCO Members' Meet Up Session in June
+![](/images/psg%20exco%20member's%20meetup%20in%20june.jpeg)
+
+NDP Celebration
+![](/images/ndp%20celebration%20in%20august.jpeg)
+
+Supporting Sec 4&5 Night Study 
+![](/images/support%20the%20sec4&5%20night%20study.jpeg)
+
+![](/images/support%20the%20sec4&5%20night%20study%202.jpeg)
+
+![](/images/support%20the%20sec4&5%20night%20study%203.jpeg)
+
+End Of Year PSG Meet Up Session in Nov
+![](/images/eoy%20psg%20meetup%20session%20in%20nov.jpeg)
 
 ###  Other useful information for parents
 MOE will be rolling out a series of engagement sessions titled “A World Beyond School”. These sessions comprise dialogues and conversations where parents, educators and students can gain insights on the diverse work realities and be enriched by learning experiences beyond schools. We have attached the schedule of upcoming sessions, and details of each session will be shared on MOE platforms closer to the dates. 
