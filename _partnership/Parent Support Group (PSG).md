@@ -89,6 +89,13 @@ CNY Celebration
 
 ![](/images/cny%20celebration%204.jpeg)
 
+YT Fiesta
+![](/images/yt%20fiesta%201.jpeg)
+
+![](/images/yt%20fiesta%202.jpeg)
+
+![](/images/yt%20fiesta%203.jpeg)
+
 PSG EXCO Members' Meet Up Session in June
 ![](/images/psg%20exco%20member's%20meetup%20in%20june.jpeg)
 
