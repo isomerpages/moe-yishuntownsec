@@ -8,7 +8,7 @@ links:
       - title: Beyond Classroom
         url: https://yishuntownsec.moe.edu.sg/co-curriculum/beyond-classroom-week/
       - title: PDLP
-        url: /pdlp
+        url: /parents-links/pdlp-at-ytss/
       - title: ECG
         url: /co-curriculum/education-and-career-guidance-ecg/
       - title: YT Nova
@@ -16,7 +16,7 @@ links:
       - title: Student Leadership
         url: /co-curriculum/student-development/student-leadership-development/
       - title: Cross Cultural Learning
-        url: /cross_cultural
+        url: /Cross Cultural Learning
   - title: CURRICULUM
     collection: curriculum
   - title: PUBLICATION MEDIA
@@ -32,5 +32,3 @@ links:
     collection: calendar-events
   - title: For Parents
     collection: for-parents
-  - title: PARTNERSHIP
-    collection: partnership
