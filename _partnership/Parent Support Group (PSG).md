@@ -71,6 +71,22 @@ In order to support parents in building a healthy relationship with their child,
 All Sec 1 to Sec 5 parents are eligible to participate in this programme. The information is sent out via Parent Gateway at certain points of every year. 
 
 ### Our PHOTOS
+37th Speech Day Celebration
+![](/images/37th%20speech%20day%201.jpeg)
+
+![](/images/37th%20speech%20day%202.jpeg)
+
+![](/images/37th%20speech%20day%203.jpeg)
+
+![](/images/37th%20speech%20day%204.jpeg)
+
+CNY Celebration
+![](/images/cny%20celebration%201.jpeg)
+
+![](/images/cny%20celebration%202.jpeg)
+
+
+
 
 ###  Other useful information for parents
 MOE will be rolling out a series of engagement sessions titled “A World Beyond School”. These sessions comprise dialogues and conversations where parents, educators and students can gain insights on the diverse work realities and be enriched by learning experiences beyond schools. We have attached the schedule of upcoming sessions, and details of each session will be shared on MOE platforms closer to the dates. 
