@@ -2,9 +2,9 @@ collections:
   calendar-events:
     output: true
     order:
-      - Time Table/Curriculum TimeTable.md
-      - Time Table/.keep
       - School Calendar.md
+      - Time Table/.keep
+      - Time Table/Curriculum TimeTable.md
       - Upcoming Events & Activities/.keep
       - Upcoming Events & Activities/Upcoming Events & Activities.md
       - "Upcoming Events & Activities/Sec 1 and 3 Camp Briefing : 19 Jan 2023.md"
