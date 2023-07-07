@@ -2,6 +2,7 @@ collections:
   calendar-events:
     output: true
     order:
+      - School Timetable.md
       - School Calendar.md
       - Upcoming Events & Activities/.keep
       - Upcoming Events & Activities/Upcoming Events & Activities.md
