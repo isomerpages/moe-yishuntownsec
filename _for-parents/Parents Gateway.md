@@ -16,7 +16,7 @@ For assistance to download the Parents Gateway Mobile Application, you may refer
 2/ [FAQs](/files/PG%20FAQs%20for%20Parents%2031112018%20(For%20Circulation).pdf) on Parents Gateway for Parents; and  
 2/ For those who are new to SingPass - Guide to [register for a SingPass](/files/Registering%20for%20SingPass%2031102018%20(For%20Circulation).pdf) account.  
   
-Click [here](https://www.youtube.com/watch?v=EKpiTM5axNA) to view a video about Parents Gateway app.
+Click [here](https://www.youtube.com/watch?v=EKpiTM5axNA) to view a video about Parents Gateway app..
 
 For step-by-step guide to **Travel Declaration and Update of Particulars** on Parents Gateway mobile app, please click [here](/files/Parents%20Guide%20for%20PG%20Travel%20Declaration%20Update%20Particulars%20-%208%20May%2019.pdf).  
 
