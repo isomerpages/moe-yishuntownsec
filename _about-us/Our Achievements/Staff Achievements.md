@@ -5,8 +5,14 @@ description: ""
 third_nav_title: Our Achievements
 ---
 # **Teachers Achievements**
+### 2022
+* Ms Shereen Naaz Charles Syariff, Ms Tan Siew Yan, Ms Izyan Rozana Bte Mohd Nejib, Ms Ng Bak Tien, Mr Tong Lye Huat, Mr Tong Yong Kang Patrick **(MOE Service Excellence Award)**
+* Mr Danny Choi Tsz Wai (**Academy Awards for Professional Development**)
+* Mrs Lynn Ong, Ms Goh Chai Peng (**Recipient of the 2022 Singapore National Day Awards, The Long Service Medal**)
+* Mr Soh Soon Huat **(Recipient of the 2022 Singapore National Day Awards, The Commendation Medal)**
 
-  
+### 2021
+*    Mr Chew Chee Yong, Ms Huang Yiyan Emily, Mr Khairil Bahtiar Khairuddin, Ms Shereen Naaz Charles Syariff, Ms Esther Wong Ting Wei, Mr Seow Wei-zhng Eugene **(MOE Service Excellence Award)**
 
 ### 2020
 
