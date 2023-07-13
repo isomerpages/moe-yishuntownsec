@@ -20,7 +20,7 @@ contacts:
   - content:
       - phone: ""
       - email: ytss@moe.edu.sg
-      - other: "For any feedback and enquiries, please drop us an email. "
+      - other: For any feedback and enquiries, please drop us an email.
     title: "Email:"
   - content:
       - phone: +65 6755 9112
@@ -30,16 +30,14 @@ contacts:
   - content:
       - phone: ""
       - email: corpcomms@ytss.edu.sg
-      - other: "For prospective parents and students with questions, please drop us an
-          email indicated above. "
+      - other: For prospective parents and students with questions, please drop us an
+          email indicated above.
     title: "Prospective Parents&Students:"
   - content:
       - phone: ""
       - email: ""
       - other: 'You may wish to follow us on our <b>official</b> communications channels
-          run by YTSS Corporate Communications Team:<br>a) Instagram: <a
-          href="https://www.instagram.com/yishuntownsec/">@yishuntownsec</a><br>  b)
-          Telegram: <a
-          href="https://go.gov.sg/ytsstelegram">https://go.gov.sg/ytsstelegram</a>'
+          run by YTSS Corporate Communications Team:<br> Instagram: <a
+          href="https://www.instagram.com/yishuntownsec/">@yishuntownsec</a><br>'
     title: "Social Media:"
 ---
