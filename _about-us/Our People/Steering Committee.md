@@ -23,7 +23,7 @@ third_nav_title: Our People
 |  | Mr Ng Wei Kwang | Head of Department (Humanities), Sec 3 Year Master 
 |  | Ms Emily Huang | Head of Department (Physical Education) 
 |  | Ms Nordiyana Bte Omar |  Head of Department (Craft & Technology, InfoCom & Technology)
-|  | Mrs Lynn Ong | Head of Department (Character & Citizenship Education)
+|  | Mrs Lynn Ong | Head of Department (Character & Citizenship Education, Sec 1 Year Master)
 |  | Mdm Ruziana Bte Zakaria | Head of Department  (Sec 4 Year Master)
 |  | Mr Woo Lee Yen | Head of Department (Sec 2 Year Master)
 |  | Mdm Zhang Jinjuan | Lead Teacher (Chinese Language)
@@ -35,12 +35,7 @@ third_nav_title: Our People
 |   | Mr Soh Soon Huat | Subject Head (Co-Curricular Activities) 
 |   | Mr R Yuvindran | Subject Head (Character & Citizenship Education)
 |  | Mr Chua Weiqiang | Subject Head (Educational Support, Sec 1 Asst Year Master) 
+|  | Mr Alan Chew | Subject Head (Education & Career Guidance, Sec 4 Asst Year Master)
 |  | Ms Nur Nafisah Bte Alias | Subject Head (Acting) (Lower Secondary Science)
 |  | Mr Koh Yi Fan | Subject Head (C'g) (InfoCom & Technology)
-|  | Ms Wai Wee Lian | Administrative Manager 
-
-
-
-
-
-
+|  | Ms Wai Wee Lian | Administrative Manager
