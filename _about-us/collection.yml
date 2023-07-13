@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Principal's Message 2023/.keep
-      - Principal's Message 2023/Principal's Message 2023.md
-      - Principal's Message 2023/Principal's Message 2022.md
+      - Principal's Message/.keep
+      - Principal's Message/Principal's Message 2023.md
+      - Principal's Message/Principal's Message 2022.md
       - Our People/.keep
       - Our People/Steering Committee.md
       - Our People/Staff Directory 2023.md
