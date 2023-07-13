@@ -42,7 +42,7 @@ description: ""
 | | Ms Srinivasan Suganthi | Mother Tongue Languages
 |2E| Ms Sarala Devi d/o Prakashen Pillay| English Language & Literature 
 | | Mdm Loh Siew Chian | Mother Tongue Languages
-| |  Ms Nur Sarah Safari | English Language & Literature
+| |  Ms Nursarah Safari | English Language & Literature
 |2F| Mdm Annurhana Bte Abdul Latif | Science
 | | Mr Toh Weixiang | Science
 |2G| Ms Nurul Asmida Binte Ithnin | Mother Tongue Languages
