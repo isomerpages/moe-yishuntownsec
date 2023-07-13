@@ -37,5 +37,5 @@ third_nav_title: Our People
 |  | Mr Chua Weiqiang | Subject Head (Educational Support, Sec 1 Asst Year Master) 
 |  | Mr Alan Chew | Subject Head (Education & Career Guidance, Sec 4 Asst Year Master)
 |  | Ms Nur Nafisah Bte Alias | Subject Head (Acting) (Lower Secondary Science)
-|  | Mr Koh Yi Fan | Subject Head (C'g) (InfoCom & Technology)
+|  | Mr Koh Yi Fan | Subject Head (Covering) (InfoCom & Technology)
 |  | Ms Wai Wee Lian | Administrative Manager
