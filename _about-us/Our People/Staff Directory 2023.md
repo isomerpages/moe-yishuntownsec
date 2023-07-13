@@ -39,6 +39,7 @@ description: ""
 | | Mdm Li Lan | Mother Tongue Languages
 | 2D| Mrs Lynette Lui | English Language & Literature
 | | Mr Nurul Hafiz Bin Shamsudin |Mother Tongue Languages 
+| | Ms Srinivasan Suganthi | Mother Tongue Languages
 |2E| Ms Sarala Devi d/o Prakashen Pillay| English Language & Literature 
 | | Mdm Loh Siew Chian | Mother Tongue Languages
 | |  Ms Nur Sarah Safari | English Language & Literature
@@ -46,6 +47,7 @@ description: ""
 | | Mr Toh Weixiang | Science
 |2G| Ms Nurul Asmida Binte Ithnin | Mother Tongue Languages
 | | Mr Anthony Yap Chee Ping | Craft & Technology
+| | Ms Vaidhiyanadhan Deepalakshmi | Mother Tongue Languages 
 
 ### Secondary 3
 
@@ -86,5 +88,4 @@ description: ""
 |4/7| Mdm Mageswari d/o Salverraju | Mother Tongue Languages
 |5/1|  Mr Lim Teck Chye | Mother Tongue Languages
 | | Mr Soh Soon Huat | Physical Education
-| | Mdm Silver Kumari d/o Kandasamy | Mother Tongue Languages 
-
+| | Mdm Silver Kumari d/o Kandasamy | Mother Tongue Languages
