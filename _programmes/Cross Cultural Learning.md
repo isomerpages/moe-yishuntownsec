@@ -33,7 +33,3 @@ description: ""
 |2018| Fukien Secondary School, Hong Kong
 | | Sagano High School, Japan
 | | Seisho High School, Japan
-
-
-
-
