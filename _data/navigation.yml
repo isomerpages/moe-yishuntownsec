@@ -28,8 +28,6 @@ links:
         url: https://online.fliphtml5.com/fomwr/ctfv/
       - title: Photos
         url: https://www.flickr.com/photos/195336127@N08/albums/with/72177720306324998
-      - title: Submenu Title
-        url: /permalink
   - title: SCHOOL CALENDAR
     collection: calendar-events
   - title: For Parents
