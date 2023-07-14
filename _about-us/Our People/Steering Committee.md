@@ -4,17 +4,11 @@ permalink: /about-ytss/our-people/steering-committee/
 description: ""
 third_nav_title: Our People
 ---
-# School Leaders
-
 | | Name of Member | Designation |
 | -------- | -------- | -------- |
 |  |Mr Ng Teo Heng    | Principal     |
 |  |Mr Loong Chieh Yung | Vice-Principal
 |  | Mdm Kathleen Ch'ng | Vice-Principal
-
-# Key Personnel
-| | Name of Member | Designation |
-| -------- | -------- | -------- |
 |  | Ms Kong Chui Lin Rebecca | Dean, Academic Studies, Head of Department (Science)
 |  | Ms Goh Chai Peng | Dean, Student All-Round Development
 |  | Muhammad Tirmidzi Bin Abdul Ghani | School Staff Developer 
