@@ -5,6 +5,8 @@ links:
   - title: PROGRAMMES
     url: /programmes
     sublinks:
+      - title: Cross Cultural Learning
+        url: /Cross Cultural Learning
       - title: Beyond Classroom
         url: https://yishuntownsec.moe.edu.sg/co-curriculum/beyond-classroom-week/
       - title: PDLP
@@ -13,8 +15,6 @@ links:
         url: /co-curriculum/education-and-career-guidance-ecg/
       - title: Student Leadership
         url: /co-curriculum/student-development/student-leadership-development/
-      - title: Cross Cultural Learning
-        url: /Cross Cultural Learning
   - title: CURRICULUM
     collection: curriculum
   - title: PUBLICATIONS & MEDIA
