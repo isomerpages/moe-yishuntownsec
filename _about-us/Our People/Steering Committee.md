@@ -6,7 +6,6 @@ third_nav_title: Our People
 ---
 # School Leaders
 
-
 | | Name of Member | Designation |
 | -------- | -------- | -------- |
 |  |Mr Ng Teo Heng    | Principal     |
