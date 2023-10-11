@@ -1,5 +1,4 @@
 collections:
   publication-media:
     output: true
-    order:
-      - Burning Bright Yearbook 2022.md
+    order: []
