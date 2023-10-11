@@ -1,7 +1,4 @@
 collections:
   publication-media:
     output: true
-    order:
-      - Academic Yearbook 2023.md
-      - Co Curricular Prospectus 2023.md
-      - Burning Bright Yearbook 2022.md
+    order: []
