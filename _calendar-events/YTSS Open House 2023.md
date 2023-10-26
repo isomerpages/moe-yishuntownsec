@@ -16,4 +16,3 @@ Download our Burning Bright Yearbook & 2023 CCA and Academic Prospectus to find 
 | [Academic Prospectus](https://drive.google.com/drive/folders/1tqMcCv0SbiQpHUGUK8CcD2Xj_8pWUs1Z)| [CCA Prospectus](https://drive.google.com/drive/folders/1tqMcCv0SbiQpHUGUK8CcD2Xj_8pWUs1Z) | [Yearbook](https://drive.google.com/drive/folders/1tqMcCv0SbiQpHUGUK8CcD2Xj_8pWUs1Z) |
 | -------- | -------- | -------- |
 | ![](/images/academic%20prospectus%202023.png)     | ![](/images/cca%20prospectus%202023.png)  |![](/images/2022%20yearbook.png)     |
-
