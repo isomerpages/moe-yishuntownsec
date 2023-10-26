@@ -2,7 +2,6 @@ collections:
   calendar-events:
     output: true
     order:
-      - Open House 2023.md
       - School Calendar.md
       - School Timetable 2023.md
       - YTSS Open Day 2023/.keep
