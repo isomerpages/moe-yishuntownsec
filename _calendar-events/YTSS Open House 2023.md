@@ -5,6 +5,8 @@ description: ""
 ---
 # YTSS Open House 2023
 
+![](/images/open%20house%20invite%202023%20(lr).png)
+
 We are delighted to have you here with us. Here at YTSS, we believe in the spirit of excellence, the belief that every child can and will EXCEL.
 
 As an autonomous school, YTSS has additional flexibility to offer a much enhanced teaching and learning environment for our students. Our YTzens also benefit from a wide range of enrichment activities and a good spread of Co-Curricular Activities, helping our students achieve a well-rounded quality education which stretches each YTzen to his or her fullest potential.
