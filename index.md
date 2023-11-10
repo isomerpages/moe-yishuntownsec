@@ -4,7 +4,7 @@ title: Yishun Town Secondary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: "dynamYTe 2023: An Open House Experience - 18 Nov 2023"
+notification: ""
 sections:
   - hero:
       background: /images/landingpagenew.gif
