@@ -8,8 +8,8 @@ notification: "dynamYTe 2023: An Open House Experience - 18 Nov 2023"
 sections:
   - hero:
       background: /images/landingpagenew.gif
-      button: Contact Us
-      url: /contact-us/
+      button: Open House 2023
+      url: /calendar-events/permalink/
       key_highlights:
         - title: Announcements
           description: Click here
