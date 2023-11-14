@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/landingpagenew.gif
-      button: Contact Us
-      url: /contact-us/
+      button: Open House 2023
+      url: /calendar-events/permalink/
       key_highlights:
         - title: Announcements
           description: Click here
@@ -17,4 +17,7 @@ sections:
         - title: Link & Resources
           description: Click here
           url: /links-n-resources/school-timetable-2023/
+        - title: "dynamYTe: An Open House Experience - 18 Nov 2023"
+          description: Click here
+          url: https://www.yishuntownsec.moe.edu.sg/calendar-events/permalink/
 ---
