@@ -10,7 +10,13 @@ variant: markdown
 
 We are delighted to have you here with us and we look forward to welcoming you to Yishun Town on 18 November 2023 (Saturday), 8.30 a.m. - 1 p.m. 
 
-We have many exciting events, booths and workshops for you to explore! Some key highlights include our Principal's talk, CCA showcase, student-led workshops and Chess Speed Round Competition (11.45 a.m. - 12.45 p.m.) Do note that our student-led workshops have limited spaces and operate on a first-come-first-serve basis so do sign up [here](https://go.gov.sg/dynamyteworkshops2023) before all the slots are filled up! 
+We have many exciting events, booths and workshops for you to explore! Some key highlights include our Principal's talk, CCA showcase, student-led workshops and Chess Speed Round Competition (11.45 a.m. - 12.45 p.m.).
+
+![](/images/Open_House_Highlights_2023.png)
+
+
+
+Do note that our student-led workshops have limited spaces and operate on a first-come-first-serve basis so do sign up [here](https://go.gov.sg/dynamyteworkshops2023) before all the slots are filled up! 
 
 Here at YTSS, we believe in the spirit of excellence, the belief that every child can and will EXCEL. As an autonomous school, YTSS has additional flexibility to offer a much enhanced teaching and learning environment for our students. Our YTzens also benefit from a wide range of enrichment activities and a good spread of Co-Curricular Activities, helping our students achieve a well-rounded quality education which stretches each YTzen to his or her fullest potential.
 
