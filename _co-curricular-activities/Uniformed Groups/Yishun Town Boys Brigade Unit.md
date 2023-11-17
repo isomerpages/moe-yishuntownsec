@@ -7,7 +7,7 @@ variant: markdown
 ---
 # **Yishun Town Boys Brigade Unit**
 
-
+![](/images/YT_Boys_Brigade.jpeg)
 
 ### CCA Overview
 
