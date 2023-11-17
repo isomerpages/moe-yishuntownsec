@@ -14,7 +14,7 @@ We have many exciting events, booths and workshops for you to explore! Some key 
 
 ![](/images/Open_House_Highlights_2023.png)
 
-
+![](/images/Open_House_Programme_2023.png)
 
 Do note that our student-led workshops have limited spaces and operate on a first-come-first-serve basis so do sign up [here](https://go.gov.sg/dynamyteworkshops2023) before all the slots are filled up! 
 
