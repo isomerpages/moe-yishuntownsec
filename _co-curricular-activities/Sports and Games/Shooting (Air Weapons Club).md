@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports and Games
 variant: markdown
 ---
-# **Shooting (Air Weapons Club)**
+# **Yishun Town Air Weapons Club**
 
 ![](/images/Main%20picture%20at%20the%20top%20of%20website.jpeg)
 
