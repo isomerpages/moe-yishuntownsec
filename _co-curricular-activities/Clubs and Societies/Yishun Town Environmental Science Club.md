@@ -7,7 +7,7 @@ variant: markdown
 ---
 # **Yishun Town Environmental Science Club**
 
-
+![](/images/YT_Environmental_Science_Club.jpeg)
 
 ### CCA Overview
 
