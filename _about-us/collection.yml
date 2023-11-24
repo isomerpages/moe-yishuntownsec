@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Publications.md
       - Principal's Message/.keep
       - Principal's Message/Principal's Message 2023.md
       - Principal's Message/Principal's Message 2022.md
@@ -20,3 +19,4 @@ collections:
       - Our Heritage.md
       - The YT2026 Plan.md
       - YTSS Rules & Consequences.md
+      - Our Publications.md
