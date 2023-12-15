@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Sec 1 E Registration for 2024/.keep
       - School Transfer.md
       - Parents Gateway.md
       - Sale of School Uniforms & Textbooks for 2024 (Sec 2 to 5).md
@@ -18,3 +17,4 @@ collections:
       - Sec 1 E Registration for 2023/Subject Based Banding.md
       - Sec 1 E Registration for 2023/Appeal for Transfer to YTSS.md
       - Sec 1 E Registration for 2023/Additional Resources.md
+      - Sec 1 E Registration for 2024/.keep
