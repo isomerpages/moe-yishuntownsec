@@ -5,3 +5,4 @@ variant: tiptap
 description: ""
 third_nav_title: Sec 1 E Registration for 2024
 ---
+<p>If you need to apply for financial assistance, please download the following file, complete the form and submit it to our school’s General Office by <strong>21 December 2023 by 12 noon</strong>. </p>
