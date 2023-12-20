@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/landingpagenew.gif
-      button: contact us
-      url: /contact-us/
+      button: 2024 Sec 1 E Registration
+      url: https://www.yishuntownsec.moe.edu.sg/for-parents/sec-1-e-registration-for-2024/
       key_highlights:
         - title: Announcements
           description: Click here
