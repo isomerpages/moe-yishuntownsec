@@ -3,6 +3,7 @@ title: Steering Committee
 permalink: /about-ytss/our-people/steering-committee/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 | | Name of Member | Designation |
 | -------- | -------- | -------- |
@@ -16,22 +17,21 @@ third_nav_title: Our People
 |  | Ms Shereen Naaz Charles Syariff | Head of Department (English Language & Literature)
 |  | Mrs Janice Gan | Head of Department (Mathematics)
 |  | Mdm Leow Geok Kuan | Head of Department (Mother Tongue Languages)
-|  | Mr Ng Wei Kwang | Head of Department (Humanities), Sec 3 Year Master 
-|  | Ms Emily Huang | Head of Department (Physical Education) 
-|  | Ms Nordiyana Bte Omar |  Head of Department (Craft & Technology, InfoCom & Technology)
-|  | Mrs Lynn Ong | Head of Department (Character & Citizenship Education, Sec 1 Year Master)
-|  | Mdm Ruziana Bte Zakaria | Head of Department  (Sec 4 Year Master)
-|  | Mr Woo Lee Yen | Head of Department (Sec 2 Year Master)
+|  | Mr Ng Wei Kwang | Head of Department (Humanities), Sec 4/5 Year Master 
+|  | Ms Emily Huang | Head of Department (Physical Education & Co-Curricular Activities) 
+|  | Ms Nordiyana Bte Omar |  Head of Department (Aesthetics & Technology)
+|  | Mrs Lynn Ong | Head of Department (Character & Citizenship Education, Sec 2 Year Master)
+|  | Mdm Ruziana Bte Zakaria | Head of Department  (Sec 1 Year Master)
+|  | Ms Tan Siew Yan | Sec 3 Year Master (Covering) & Subject Head (Mathematics)
 |  | Mdm Zhang Jinjuan | Lead Teacher (Chinese Language)
-|  |Mrs Lynette Lui | Subject Head (English Language)
-|  | Ms Tan Siew Yan | Subject Head (Mathematics), Sec 3 Asst. Year Master
+|  |Mrs Lynette Lui | Subject Head (English Language) & Sec 1 Asst. Year Master
 |  | Mr Danny Choi | Subject Head (Physics)
 |  | Mr Lim Teck Chye | Subject Head (Chinese Language)
 |   | Mr Joe Hioa | Subject Head (Design & Technology)
 |   | Mr Soh Soon Huat | Subject Head (Co-Curricular Activities) 
 |   | Mr R Yuvindran | Subject Head (Character & Citizenship Education)
-|  | Mr Chua Weiqiang | Subject Head (Educational Support, Sec 1 Asst Year Master) 
-|  | Mr Alan Chew | Subject Head (Education & Career Guidance, Sec 4 Asst Year Master)
+|  | Mr Chua Weiqiang | Subject Head (Educational Support, Sec 2 Asst Year Master) 
+|  | Mr Alan Chew | Subject Head (Education, Career & Talent Development)
 |  | Ms Nur Nafisah Bte Alias | Subject Head (Acting) (Lower Secondary Science)
 |  | Mr Koh Yi Fan | Subject Head (Covering) (InfoCom & Technology)
 |  | Ms Wai Wee Lian | Administrative Manager
