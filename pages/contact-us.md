@@ -29,15 +29,10 @@ contacts:
     title: "Fax:"
   - content:
       - phone: ""
-      - email: corpcomms@ytss.edu.sg
-      - other: For prospective parents and students with questions, please drop us an
-          email indicated above.
-    title: "Prospective Parents&Students:"
-  - content:
-      - phone: ""
       - email: ""
       - other: 'You may wish to follow us on our <b>official</b> communications channels
           run by YTSS Corporate Communications Team:<br> Instagram: <a
           href="https://www.instagram.com/yishuntownsec/">@yishuntownsec</a><br>'
     title: "Social Media:"
+feedback: ""
 ---
