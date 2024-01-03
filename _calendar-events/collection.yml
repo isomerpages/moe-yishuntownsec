@@ -1,0 +1,6 @@
+collections:
+  calendar-events:
+    output: true
+    order:
+      - School Calendar.md
+      - YTSS Open House 2023.md
