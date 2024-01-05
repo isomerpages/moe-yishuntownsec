@@ -20,7 +20,7 @@ If you would like to use your own learning device instead of purchasing the scho
 
 ![](/images/PLD_pre_requisites_.png)
 
-After verifying that your own learning device meets the pre-requisite, please complete and submit the following form: https://go.gov.sg/pdlp-owndevice
+After verifying that your own learning device meets the pre-requisite, please complete and submit the following form: https://go.gov.sg/pdlp-owndevice 
 
 Should you have any questions or concerns, please contact our PDLP Hotline at **6853 8440 / 9235 8409** (whatsapp) so that our ICT personnel can assist you with the checking of your iPad’s requirements.
 
