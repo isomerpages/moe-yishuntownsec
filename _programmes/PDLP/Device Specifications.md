@@ -8,9 +8,7 @@ variant: markdown
 # **Device Specifications**
 
 Our school has adopted the following device as our Personal Learning Device (PLD) for Secondary One students: 
-
-![](/images/ipad_9th_gen.png)
-
+![](/images/ipad_9th_gen__rev_2_.png)
 Basic Specifications:
 ![](/images/ipad_TOS.png)
 
