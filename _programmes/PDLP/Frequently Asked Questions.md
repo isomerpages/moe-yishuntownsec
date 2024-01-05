@@ -84,25 +84,24 @@ The new CCE 2021 syllabus will feature cyber-wellness education more strongly, w
 ### School Policy
 
 **Will students need to bring the device to school everyday?**     
- Students should bring their PLDs everyday as the PLD is intended for use during lessons.
+Students should bring their PLDs everyday as the PLD is intended for use during lessons.
 
- **Will students be able to charge the device in school?**   
- All students are strongly encouraged to bring their PLDs home to charge every night. However, there will be a charging cabinet provided for emergency charging of PLDs.
-
+**Will students be able to charge the device in school?**   
+All students are strongly encouraged to bring their PLDs home to charge every night. However, there will be a charging cabinet provided for emergency charging of PLDs.
 
 ### Funding and Other Support
 
 **Can students use their Edusave funds to purchase devices from vendors not engaged by the school?**  
  Edusave funds can only be used for purchases facilitated by the school.
 
- **How do we support students under the MOE FAS and School-based FAS?**    
- Please refer to the funding support guidelines here \[link to document on website\]
+**How do we support students under the MOE FAS and School-based FAS?**    
+Please refer to the funding support guidelines here \[link to document on website
 
  **Will funding be provided for Permanent Residents (PR) and international students (IS)?**   
- Permanent resident and international students who require financial assistance may approach their schools for subsidies to reduce their out-of-pocket expenses.
+ Permanent residents and international students who require financial assistance may approach their schools for subsidies to reduce their out-of-pocket expenses.
 
 **Will students need to purchase software for their devices? If so, can these be paid for with Edusave?**   
- The school will install the necessary software with enterprise licenses to enable use of software with students’ devices. Students need not pay for the purchase of software for their PLD.
+The school will install the necessary software with enterprise licenses to enable use of software with students’ devices. Students need not pay for the purchase of software for their PLDs.
 
- **How will students without internet access at home be supported?**    
- Students from low-income households will continue to be supported for subsidised broadband under IMDA’s digital access schemes. More information on IMDA’s digital access schemes can be found at [www.imda.gov.sg/ha.](http://www.imda.gov.sg/ha)
+**How will students without internet access at home be supported?**    
+Students from low-income households will continue to be supported for subsidised broadband under IMDA’s digital access schemes. More information on IMDA’s digital access schemes can be found at https://www.imda.gov.sg/how-we-can-help/digital-access-at-home
