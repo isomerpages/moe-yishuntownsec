@@ -31,7 +31,7 @@ Students are expected to lock their devices in their own individual lockers in t
 In the event that the student’s device is faulty, parents can choose to send the device directly to the vendor for repair or leave the device with the school for the vendor to pick up via a fortnightly courier service.
 
  **Will there be vendor support if parents have issues with the device?**   
- Yes, individual vendors will be sharing their support information on their websites. This information will be provided to parents closer to the issue of the PLD.
+Yes, individual vendors will be sharing their support information on their websites. This information will be provided to parents closer to the issue of the PLD.
 
  **What happens if the device is stolen/lost? Does the contract include insurance? If so, what is covered under the insurance?**   
  The device will come with the enhanced device bundle which is inclusive of 3-year insurance and 3- year warranty. Refer to the PDLP Bundle Specification for more information.
