@@ -9,7 +9,7 @@ variant: markdown
 
 Our school has adopted the following device as our Personal Learning Device (PLD) for Secondary One students: 
 
-![](/images/iPad_resized.jpeg)
+![](/images/ipad_9th_gen.png)
 
 Basic Specifications:
 ![](/images/ipad_TOS.png)
