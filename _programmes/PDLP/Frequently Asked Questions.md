@@ -95,7 +95,7 @@ All students are strongly encouraged to bring their PLDs home to charge every ni
  Edusave funds can only be used for purchases facilitated by the school.
 
 **How do we support students under the MOE FAS and School-based FAS?**    
-Please refer to the funding support guidelines here \[link to document on website
+Please refer to the funding support guidelines here: [Financial Assistance for PLD](/files/Financial_Assistance_for_PLD.pdf)
 
  **Will funding be provided for Permanent Residents (PR) and international students (IS)?**   
  Permanent residents and international students who require financial assistance may approach their schools for subsidies to reduce their out-of-pocket expenses.
@@ -104,4 +104,4 @@ Please refer to the funding support guidelines here \[link to document on webs
 The school will install the necessary software with enterprise licenses to enable use of software with students’ devices. Students need not pay for the purchase of software for their PLDs.
 
 **How will students without internet access at home be supported?**    
-Students from low-income households will continue to be supported for subsidised broadband under IMDA’s digital access schemes. More information on IMDA’s digital access schemes can be found at https://www.imda.gov.sg/how-we-can-help/digital-access-at-home
+Students from low-income households will continue to be supported for subsidised broadband under IMDA’s digital access schemes. More information on IMDA’s digital access schemes can be found [here](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home)
