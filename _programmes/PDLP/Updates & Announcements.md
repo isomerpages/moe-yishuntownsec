@@ -17,8 +17,8 @@ For parents/guardians who were unable to join us, please feel free to download t
 
 You may also wish to navigate our PDLP page for more information. You can click on the links below for more information on:
 
-a) YTSS Personal Learning Device: https://yishuntownsec.moe.edu.sg/parents-links/pdlp-at-ytss/device-specifications
+a) [YTSS Personal Learning Device](https://yishuntownsec.moe.edu.sg/parents-links/pdlp-at-ytss/device-specifications)
 
-b) Frequently Asked Questions: https://yishuntownsec.moe.edu.sg/parents-links/pdlp-at-ytss/frequently-asked-questions
+b) [Frequently Asked Questions](https://yishuntownsec.moe.edu.sg/parents-links/pdlp-at-ytss/frequently-asked-questions)  
 
 Should you have any questions, please drop us an email at ytss_pdlp@moe.edu.sg
