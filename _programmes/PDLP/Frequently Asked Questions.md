@@ -3,6 +3,7 @@ title: Frequently Asked Questions
 permalink: /parents-links/pdlp-at-ytss/frequently-asked-questions/
 description: ""
 third_nav_title: PDLP
+variant: markdown
 ---
 # **Frequently Asked Questions**
 
@@ -10,23 +11,24 @@ third_nav_title: PDLP
 ### Device
 
  **Will there be digital versions for all textbooks? Will students be asked to buy only digital versions of textbooks?**    
- Print textbooks and workbooks will continue to be the primary method for the delivery of the curriculum in 2023.
+ Print textbooks and workbooks will continue to be the primary method for the delivery of the curriculum in 2024.
 
 **Can students opt not to purchase the device?**   
- Every student is required to have a device for teaching and learning purposes and is encouraged to purchase one through the school.
+Every student is required to have a device for teaching and learning purposes and is encouraged to purchase one through the school.
 
- Students who do not wish to purchase a device because they already have their own device will have to (i) check that the specification of their device meet the device requirement of the school (refer to Device Requirement document) and (ii) agree to the installation of DMA on their device, before they can pursue this option:
+Students who do not wish to purchase a device because they already have their own device will have to (i) check that the specification of their device meet the device requirement of the school (refer to Device Requirement document) and (ii) agree to the installation of DMA on their device, before they can pursue this option:
 
- Upon approval, the school will assist to install the DMA in the student’s existing device, which can be uninstalled from the device upon the student’s graduation.
+Upon approval, the school will assist to install the DMA in the student’s existing device, which will be uninstalled from the device upon the student’s graduation.
+
 
 **What is the expected shelf life of the device? What happens to the device after the student graduates?**   
- The devices have an average shelf life of 3-4 years, to cover the time a student is in secondary school. The school will uninstall the Device Management Application (DMA) from the devices upon students’ graduation, and students will have full control over their devices afterward. If the student’s device needs to be installed with DMA in JC/MI, it can be reinstated.
+The devices have an average shelf life of 3-4 years, to cover the time a student is in secondary school. The school will uninstall the Device Management Application (DMA) from the devices upon students’ graduation, and students will have full control over their devices afterward. If the student’s device needs to be installed with DMA in JC/MI, it can be reinstated.
 
  **Will students be allowed to store the devices in school overnight? Where will students store their devices when they go for recess or PE lessons?**   
- Students are expected to lock their devices in their own individual lockers in their classroom. The classroom will be locked at the end of each day. Students should bring the devices home at the end of the school day so that they can utilise them for learning at home.
+Students are expected to lock their devices in their own individual lockers in their classroom. The classroom will be locked at the end of each day. Students should bring the devices home at the end of the school day so that they can utilise them for learning at home.
 
  **Do parents or students have to bring their device down to the service centre for repairs? Are there other options?**   
- In the event that the student’s device is faulty, parents can choose to send the device directly to the vendor for repair or leave the device with the school for the vendor to pick up via a fortnightly courier service.
+In the event that the student’s device is faulty, parents can choose to send the device directly to the vendor for repair or leave the device with the school for the vendor to pick up via a fortnightly courier service.
 
  **Will there be vendor support if parents have issues with the device?**   
  Yes, individual vendors will be sharing their support information on their websites. This information will be provided to parents closer to the issue of the PLD.
