@@ -34,55 +34,52 @@ In the event that the student’s device is faulty, parents can choose to send t
 Yes, individual vendors will be sharing their support information on their websites. This information will be provided to parents closer to the issue of the PLD.
 
  **What happens if the device is stolen/lost? Does the contract include insurance? If so, what is covered under the insurance?**   
- The device will come with the enhanced device bundle which is inclusive of 3-year insurance and 3- year warranty. Refer to the PDLP Bundle Specification for more information.
+The device will come with the enhanced device bundle which is inclusive of 3-year insurance and 3- year warranty. 
 
- The insurance coverage is only applicable to situations of damages and loss where the student has taken precautions to safeguard the device.
+The insurance coverage is only applicable to situations of damages and loss where the student has taken precautions to safeguard the device.
 
  **What happens if students damage their devices accidentally?**   
- If the devices are damaged, the parents/students can report it to the school. The school will coordinate with the vendor on the assessment of damage and repairs. If there are additional costs, the vendor will contact the parents/students before proceeding with the repair. Edusave funds cannot be used to pay for the cost of repairs.
+If the devices are damaged, the parents/students can report it to the school. The school will coordinate with the vendor on the assessment of damage and repairs. If there are additional costs, the vendor will contact the parents/students before proceeding with the repair. Edusave funds cannot be used to pay for the cost of repairs.
 
  **When a student's device is not able to function or is lost, are they able to loan a school device from school for short-term use?**   
- Students will be able to get a short-term loan of device (subjected to availability) due to loss or repairs.
+Students will be able to get a short-term loan of device (subjected to availability) due to loss or repairs.
 
  **Does the insurance cover the accessories (e.g. styluses, keyboard cases)?**   
- Insurance coverage is for the main device only and does not cover accessories.
+Insurance coverage is for the main device only and does not cover accessories.
 
  **Can students share one device with their siblings?**   
- For a smooth learning experience, each student should have his/her own device as prescribed by the school. This is because different schools may tap on different devices for teaching and learning. In addition, students will be required to use the devices in school daily and for their learning after school, hence it might not be practical to share the device with their siblings.
+For a smooth learning experience, each student should have his/her own device as prescribed by the school. This is because different schools may tap on different devices for teaching and learning. In addition, students will be required to use the devices in school daily and for their learning after school, hence it might not be practical to share the device with their siblings.
 
  **What is included with the purchase of the device?**    
- The device will come with the enhanced device bundle with 3-year insurance and 3-year warranty, which allows for two repairs or one replacement.
+The device will come with the enhanced device bundle with 3-year insurance and 3-year warranty, which allows for two repairs or one replacement.
 
- The insurance coverage is only applicable to situations of damages and loss where the student has taken precautions to safeguard the device.
+The insurance coverage is only applicable to situations of damages and loss where the student has taken precautions to safeguard the device.
 
  **Can parents collect the device on the student’s behalf?**   
- Parent can collect the device personally or via an adult proxy. When the devices are delivered to the school, students will be collecting the devices on behalf of parents if parents have authorised their child to do so.
+Parent can collect the device personally or via an adult proxy. When the devices are delivered to the school, students will be collecting the devices on behalf of parents if parents have authorised their child to do so.
 
- Please contact the school via the PDLP support email for further advice or clarification if you would like to make this arrangement.
-
+Please contact the school via the PDLP support email for further advice or clarification if you would like to make this arrangement.
 
 ### DMA
 
 **Is the DMA installation compulsory for all students?**     
- All PLDs purchased through the school will be installed with DMA before they are issued to students. Parents who wish to use existing home digital devices may do so. Such devices will have to meet the necessary school specifications (refer to Device Requirement document) and have the DMA installed. This is to ensure that the device can be used securely in the school. The school will also uninstall the DMA from the students’ devices upon graduation.
+All PLDs purchased through the school will be installed with DMA before they are issued to students. Parents who wish to use existing home digital devices may do so. Such devices will have to meet the necessary school specifications (refer to Device Requirement document) and have the DMA installed. This is to ensure that the device can be used securely in the school. The school will also uninstall the DMA from the students’ devices upon graduation.
 
  **Why is there a need for Device Management Application (DMA) in Personal Learning Devices (PLDs)?**    
- The DMA allowed teachers to have appropriate controls in place to manage students’ device usage in classrooms. The DMA also will be able to address concerns about access to undesirable content online (e.g. pornography, gambling etc) and excessive screen time.
+The DMA allowed teachers to have appropriate controls in place to manage students’ device usage in classrooms. The DMA also will be able to address concerns about access to undesirable content online (e.g. pornography, gambling etc) and excessive screen time.
 
   **What are the benefits of installing DMA in the PLDs when students still have unlimited access to their mobile phones and/or other existing devices?**    
- The PLD is intended to be a device primarily for teaching and learning. The DMA restrictions create a safe and conducive digital environment, with fewer distractions such as social media and games that might otherwise detract from students’ learning. This is distinct from students’ other devices, including mobile phones, which are more typically used for leisure purposes.
+The PLD is intended to be a device primarily for teaching and learning. The DMA restrictions create a safe and conducive digital environment, with fewer distractions such as social media and games that might otherwise detract from students’ learning. This is distinct from students’ other devices, including mobile phones, which are more typically used for leisure purposes.
 
  **What happens to the DMA when a student leaves secondary school?**    
- When students graduate from secondary school, the school will uninstall the DMA from their PLDs. Students will have full control over their PLDs, with no restrictions.
+When students graduate from secondary school, the school will uninstall the DMA from their PLDs. Students will have full control over their PLDs, with no restrictions.
 
 
 
 ### Cyber Wellness
 
 **How is MOE helping my child to manage possible cyber risks?**    
- The new CCE 2021 syllabus will feature cyber-wellness education more strongly, with updated authentic scenarios used, to better equip students to navigate online spaces safely and help develop a more supportive cyber environment. Cyber Wellness education programmes in school will also teach students how to take responsibility for their online well-being, and how to be positive role models to others in creating safe and kind online communities.
-
-
+The new CCE 2021 syllabus will feature cyber-wellness education more strongly, with updated authentic scenarios used, to better equip students to navigate online spaces safely and help develop a more supportive cyber environment. Cyber Wellness education programmes in school will also teach students how to take responsibility for their online well-being, and how to be positive role models to others in creating safe and kind online communities.
 
 ### School Policy
 
