@@ -6,7 +6,7 @@ third_nav_title: CCE
 variant: tiptap
 ---
 <h1><strong>Sexuality Education Programme</strong></h1>
-<h3>YISHUN TOWN SECONDARY SCHOOL</h3>
+<h4>YISHUN TOWN SECONDARY SCHOOL</h4>
 <p><strong>Moe Sexuality Education in Schools</strong>
 </p>
 <p>&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd)
@@ -86,10 +86,8 @@ repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p>At Yishun Town Secondary School, the following Sexuality Education lessons
 will be taught in 2024:</p>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
-</p>
-<p><strong>Secondary 1</strong>
-</p>
+<h4><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h4>
+<h4><strong>Secondary 1</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -230,8 +228,7 @@ etc.)</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 2</strong>
-</p>
+<h4><strong>Secondary 2</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -370,10 +367,7 @@ both offline and online</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 3</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<h4><strong>Secondary 3</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -521,10 +515,7 @@ alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 4</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<h4><strong>Secondary 4</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -708,10 +699,7 @@ alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 5</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<h4><strong>Secondary 5</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -773,7 +761,7 @@ alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;<em><u>eTeens</u></em><u> Programme</u></strong>:</p>
+<h4><strong>&nbsp;<em><u>eTeens</u></em><u> Programme</u></strong>:</h4>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
 by Health Promotion Board, in collaboration with the Ministry of Education,
 to provide Secondary 3 students with accurate information on STIs, HIV
@@ -849,8 +837,7 @@ of assertiveness and responsible decision-making</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;Information for Parents</strong>
-</p>
+<h4><strong>&nbsp;Information for Parents</strong></h4>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
 the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
 education programmes by MOE-approved external providers.</p>
