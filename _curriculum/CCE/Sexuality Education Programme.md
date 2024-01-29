@@ -174,7 +174,7 @@ sexual grooming and on respecting one’s right to safety. Students will
 also learn about the legal provisions against sexual abuse, and the impact
 of sexual abuse on victims, including the psychological impact on the sense
 of self.&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p>This lesson is conducted separately for boys and girls in different classrooms,
 so that the students will feel more comfortable during the discussions.</p>
 <p>&nbsp;</p>
@@ -205,7 +205,7 @@ will gain awareness of the health, legal and moral issues related to viewing,
 downloading and/or distributing pornography. While students may perceive
 watching pornography as a private issue without consequences to bear, they
 will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>This lesson is conducted separately for boys and girls in different classrooms,
 so that the students will feel more comfortable during the discussions.</p>
 </td>
@@ -276,10 +276,10 @@ as doing household chores) and how gender stereotypes are formed. &nbsp;Students
 will discuss how one’s understanding of gender roles should not be limited
 by gender stereotypes, for example women can be pilots, while men can be
 nurses.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Students learn to focus on their personal strengths to pursue their interests
 and build their self- confidence.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Students will also learn about the definitions of biological sex, gender
 identity, gender expression and sexual orientation. They will learn to
 treat everyone with respect and empathy.</p>
@@ -317,7 +317,7 @@ influence. The lesson encourages the safe and responsible use of social
 media, and aims to deepen students’ conviction, and extend a call to action
 to students to taking appropriate decisions to safeguard their well-being
 and safety.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>This lesson is conducted separately for boys and girls in different classrooms,
 so that the students will feel more comfortable during the discussions.</p>
 <p>&nbsp;</p>
@@ -349,7 +349,7 @@ This lesson emphasises the importance of responsible decision-making, the
 value of sexual abstinence, the need for help seeking. Students will be
 aware of Singapore laws protecting minors, such as the legal consequences
 of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
