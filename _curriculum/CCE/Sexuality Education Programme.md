@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h1><strong>Sexuality Education Programme</strong></h1>
 <h4>YISHUN TOWN SECONDARY SCHOOL</h4>
-<p><strong>Moe Sexuality Education in Schools</strong>
+<p><strong>MOE Sexuality Education in Schools</strong>
 </p>
 <p>&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd)
 in schools is about enabling students to understand the physiological,
@@ -266,7 +266,7 @@ etc.)</p>
 <p>(60&nbsp; mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This lesson focus on how the family, culture and society can influence
+<p>This lesson focuses on how the family, culture and society can influence
 one’s perception of their gender roles. Students will learn what gender
 stereotypes are (e.g. males traditionally as breadwinners and females traditionally
 as doing household chores) and how gender stereotypes are formed. &nbsp;Students
