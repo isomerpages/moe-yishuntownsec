@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Sexuality Education.md
       - Cross Cultural Learning.md
       - Beyond Classroom Week.md
       - PDLP/.keep
