@@ -20,6 +20,7 @@ For more information, please download the various resources:
 | 4. Cyberwellness Resource    | [Cyberwellness](/files/Cyberwellness.pdf) (www.help123.sg)
 | 5. PDLP Subsidy Form    | [PDLP Application Form for Subsidy ](/files/PDLP_Application_Form_for_Subsidy.pdf)
 | 6. Slides from Sec 1 PTR Session (5 Jan 2024)   | [2024 PLD Initiative Briefing Slides](/files/PLD_Initiative_Slides_for_Sec_1_Parent_Engagement_2024__YTSS_.pdf)
-| 
+| 7. Slides from Sec 1 Pre-PDLP Briefing (20 Feb 2024)  | [2024 Sec 1 Pre-PDLP Briefing Slides](/files/2024_Sec_1_Pre_PDLP_Briefing_Slides.pdf)
+|
 
 This page will be updated periodically with more information.
