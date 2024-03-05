@@ -5,11 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>The YT2026 Plan</strong></h1>
-<p><strong>Vision: A Community of Leaders | A Fraternity of Professionals | A School of Distinction</strong>
-</p>
-<p><strong>Mission: Transforming Hearts and Minds, Nurturing Future-Ready Leaders of Character and Distinction</strong>
-</p>
-<hr>
 <p>1.&nbsp;The YT2026 plan will guide Yishun Town Secondary School from 2022
 to 2026. It outlines the&nbsp;<strong>growth priorities</strong>&nbsp;and&nbsp;<strong>defines how success will look like for us</strong>,
 by the time we reach our 40th&nbsp;anniversary since the founding in 1986.</p>
