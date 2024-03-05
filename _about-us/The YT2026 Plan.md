@@ -34,7 +34,7 @@ these three cultures</p>
 is part of our revised school vision. We will place greater emphasis to
 further staff’s personal and professional growth, and holistic well-being.
 Eventually, we should tap on their innovation and creativity in various
-aspects of school improvement</p>
+aspects of school improvement.</p>
 <p>&nbsp;5.&nbsp;YTSS will develop&nbsp;<strong>our organisational capabilities</strong>&nbsp;to
 thrive in the evolving landscape. We will tap our heritage and grow our
 networks to augment our resources and opportunities. At our next milestone,
