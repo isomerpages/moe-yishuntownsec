@@ -4,7 +4,7 @@ permalink: /about-ytss/vision-mission-motto-values/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Vision, Mission, Motto, Values</strong></h1>
+<h1><strong>Our Vision, Mission, Motto &amp; Values</strong></h1>
 <h3>Our Vision</h3>
 <p>A Community of Leaders
 <br>A Fraternity of Professionals
