@@ -4,7 +4,7 @@ permalink: /dsa-talent-areas-for-ytss/
 variant: tiptap
 description: ""
 ---
-<h3>INFORMATION FOR DIRECT SCHOOL ADMISSION 2024 </h3>
+<h3>INFORMATION FOR DIRECT SCHOOL ADMISSION 2024</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Yishun Town Secondary School welcomes prospective students who demonstrate
