@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Co Curricular Activities (CCA).md
-      - Internationalisation Programme.md
-      - Beyond Classroom Week.md
       - Personalised Dig Learning PDLP/.keep
       - Personalised Dig Learning PDLP/PDLP @ YTSS.md
       - Personalised Dig Learning PDLP/Device Specifications.md
@@ -13,4 +11,6 @@ collections:
       - Personalised Dig Learning PDLP/Resources.md
       - Blended Learning @ YTSS.md
       - Education and Career Guidance (ECG).md
+      - Beyond Classroom Week.md
       - Student Leadership Development.md
+      - Internationalisation Programme.md
