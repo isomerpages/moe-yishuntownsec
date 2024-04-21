@@ -2,7 +2,6 @@ collections:
   admissions:
     output: true
     order:
-      - School Transfer.md
       - Sec 1 E Registration for 2024/.keep
       - Sec 1 E Registration for 2024/Sec 1 E Registration for 2024.md
       - Sec 1 E Registration for 2024/Sec 1 Registration Zoom Webinar (Wed, 27
@@ -18,3 +17,4 @@ collections:
         Information.md
       - Sec 1 E Registration for 2024/Appeal for Transfer to YTSS.md
       - Sec 1 E Registration for 2024/Additional Resources.md
+      - School Transfer.md
