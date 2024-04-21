@@ -1,5 +1,5 @@
 collections:
-  admissions:
+  for-parents-2:
     output: true
     order:
       - School Transfer.md
