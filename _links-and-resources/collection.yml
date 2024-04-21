@@ -1,5 +1,0 @@
-collections:
-  links-and-resources:
-    output: true
-    order:
-      - Links.md
