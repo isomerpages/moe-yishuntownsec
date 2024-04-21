@@ -2,4 +2,5 @@ collections:
   for-parents-2:
     output: true
     order:
+      - Sale of School Uniforms & Textbooks for 2024 (Sec 2 to 5).md
       - Parents Gateway.md
