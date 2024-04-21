@@ -8,15 +8,14 @@ description: ""
 <ul data-tight="true" class="tight">
 <li>
 <p>Yishun Town Secondary School welcomes prospective students who demonstrate
-talent, passion and ability in our various talent categories. Successful
-applicants will join YTSS in January 2025. Generally, students who are
-keen to apply should possess strong level of motivation and commitment
-to the talent areas, and in other curricular and co-curricular activities
-offered by the school. While achievement level and mastery in their chosen
-area is key, we are also scouting for students who display strong potential
-in their areas of choice. Our DSA talents should also have the mind-set
-and learning disposition to cope well with other aspects of school life
-in YTSS.</p>
+talent, passion and ability in our various talent categories. <strong>Successful applicants will join YTSS in January 2025.</strong> Generally,
+students who are keen to apply should possess strong level of motivation
+and commitment to the talent areas, and in other curricular and co-curricular
+activities offered by the school. While achievement level and mastery in
+their chosen area is key, we are also scouting for students who display
+strong potential in their areas of choice. Our DSA talents should also
+have the mind-set and learning disposition to cope well with other aspects
+of school life in YTSS.</p>
 </li>
 <li>
 <p>Students admitted into Yishun Town Secondary School via DSA will have
