@@ -3,18 +3,7 @@ links:
   - title: ABOUT US
     collection: about-us
   - title: PROGRAMMES
-    url: /programmes
-    sublinks:
-      - title: Cross Cultural Learning
-        url: https://yishuntownsec.moe.edu.sg/programmes/crossculturallearning/
-      - title: Beyond Classroom
-        url: https://yishuntownsec.moe.edu.sg/co-curriculum/beyond-classroom-week/
-      - title: PDLP
-        url: /parents-links/pdlp-at-ytss/
-      - title: ECG
-        url: /co-curriculum/education-and-career-guidance-ecg/
-      - title: Student Leadership
-        url: /co-curriculum/student-development/student-leadership-development/
+    collection: programmes
   - title: CURRICULUM
     collection: curriculum
   - title: Admissions
