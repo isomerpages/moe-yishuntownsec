@@ -31,7 +31,7 @@ Hence, every DSA student will be able to excel in their endeavours in YTSS.</p>
 <li>
 <p>The selection criteria and process for the talent areas will be updated
 from early-May. For more information on DSA-Sec, please refer to MOE website
-at <em><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.ov.sg/dsa-sec</a></em>
+at <em><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a></em>
 </p>
 </li>
 </ul>
