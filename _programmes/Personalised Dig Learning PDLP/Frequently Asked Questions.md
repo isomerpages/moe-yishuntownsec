@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 permalink: /parents-links/pdlp-at-ytss/frequently-asked-questions/
 description: ""
-third_nav_title: PDLP
+third_nav_title: Personalised Dig Learning PDLP
 variant: markdown
 ---
 # **Frequently Asked Questions**

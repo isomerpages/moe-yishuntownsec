@@ -1,5 +1,5 @@
 ---
-title: The YT2026 Plan
+title: Our YT2026 Plan
 permalink: /about-ytss/the-yt2026-plan/
 description: ""
 variant: tiptap

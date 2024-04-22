@@ -2,7 +2,7 @@
 title: Resources
 permalink: /parents-links/pdlp-at-ytss/resources/
 description: ""
-third_nav_title: PDLP
+third_nav_title: Personalised Dig Learning PDLP
 variant: markdown
 ---
 # **Resources**

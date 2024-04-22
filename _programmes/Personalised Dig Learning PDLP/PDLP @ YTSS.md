@@ -2,7 +2,7 @@
 title: PDLP @ YTSS
 permalink: /parents-links/pdlp-at-ytss/
 description: ""
-third_nav_title: PDLP
+third_nav_title: Personalised Dig Learning PDLP
 ---
 # **PDLP @ YTSS**
 

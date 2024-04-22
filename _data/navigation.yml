@@ -1,4 +1,4 @@
-logo: /images/school logo-blue.png
+logo: /images/Untitled__170_x_50_px___2_.png
 links:
   - title: ABOUT US
     collection: about-us
@@ -17,7 +17,7 @@ links:
         url: /co-curriculum/student-development/student-leadership-development/
   - title: CURRICULUM
     collection: curriculum
-  - title: SCHOOL CALENDAR
-    collection: calendar-events
-  - title: FOR PARENTS
+  - title: Admissions
+    collection: admissions
+  - title: FOr parents
     collection: for-parents

@@ -2,14 +2,15 @@ collections:
   programmes:
     output: true
     order:
-      - Cross Cultural Learning.md
-      - Beyond Classroom Week.md
-      - PDLP/.keep
-      - PDLP/PDLP @ YTSS.md
-      - PDLP/Device Specifications.md
-      - PDLP/Updates & Announcements.md
-      - PDLP/Frequently Asked Questions.md
-      - PDLP/Resources.md
+      - Co Curricular Activities (CCA).md
+      - Personalised Dig Learning PDLP/.keep
+      - Personalised Dig Learning PDLP/PDLP @ YTSS.md
+      - Personalised Dig Learning PDLP/Device Specifications.md
+      - Personalised Dig Learning PDLP/Updates & Announcements.md
+      - Personalised Dig Learning PDLP/Frequently Asked Questions.md
+      - Personalised Dig Learning PDLP/Resources.md
       - Blended Learning @ YTSS.md
       - Education and Career Guidance (ECG).md
+      - Beyond Classroom Week.md
       - Student Leadership Development.md
+      - Internationalisation Programme.md

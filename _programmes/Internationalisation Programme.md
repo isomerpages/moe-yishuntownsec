@@ -1,7 +1,8 @@
 ---
-title: Cross Cultural Learning
-permalink: /programmes/crossculturallearning/
+title: Internationalisation Programme
+permalink: /programmes/internationalisationprogramme/
 description: ""
+variant: tiptap
 ---
 **Objectives :**
 

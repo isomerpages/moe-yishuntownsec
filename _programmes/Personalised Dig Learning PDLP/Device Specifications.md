@@ -2,7 +2,7 @@
 title: Device Specifications
 permalink: /parents-links/pdlp-at-ytss/device-specifications/
 description: ""
-third_nav_title: PDLP
+third_nav_title: Personalised Dig Learning PDLP
 variant: markdown
 ---
 # **Device Specifications**
