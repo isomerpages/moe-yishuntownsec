@@ -15,7 +15,6 @@ quality education which stretches each YTzen to his or her fullest potential.</p
 what makes our school feel like home to so many of our YTzens, and we welcome
 you to join our family of friends right here in YTSS and discover how you
 can excel!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/E_Open_Day_Poster_2024.jpg">
 </div>
@@ -24,12 +23,14 @@ can excel!</p>
 <br>Time: 4 p.m. - 5.30 p.m.
 <br>Zoom Webinar Link: <a href="https://go.gov.sg/ytssopenday2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ytssopenday2024</a> 
 <br>Zoom Webinar Passcode: openday24</p>
-<p>If you have any questions prior to the virtual session, you may submit
-your questions via this <a href="https://www.go.gov.sg/opendayqns2024" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
 <p>During the session, there will be an address by our Principal. We will
 also invite selected YTzens to give a sharing of their school experiences
 and host a Question &amp; Answer segment to answer any queries you may
 have about our school.</p>
+<p>If you have any questions prior to the virtual session, you may submit
+your questions via this <a href="https://www.go.gov.sg/opendayqns2024" rel="noopener noreferrer nofollow" target="_blank">link</a>. To have a better
+idea of our people, interesting programmes and CCA opportunities, you may
+wish to check out our publications <a href="https://www.yishuntownsec.moe.edu.sg/about-us/permalink/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>At Yishun Town, we are dedicated to nurturing students into future-ready
 leaders of character and distinction. Our school aims to activate our students’
 intrinsic motivation, help them uncover and articulate their strengths
