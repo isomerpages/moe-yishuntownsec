@@ -25,12 +25,12 @@ you may wish to download our various publicity materials.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/academic%20prospectus%202023.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic_Prospectus_cover_pict.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca%20prospectus%202023.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_prospectus_cover_pict.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
