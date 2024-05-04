@@ -46,9 +46,9 @@ providing them with the necessary supervision in their academic performance.
 Hence, every DSA student will be able to excel in their endeavours in YTSS.</p>
 </li>
 </ul>
-<h4>DSA Talent Areas for YTSS, Timeliine, Criteria &amp; Selection Process.</h4>
+<h4>DSA Talent Areas for YTSS, Timeline, Criteria &amp; Selection Process.</h4>
 <p>Please click on the following <a href="/files/DSA_Criteria___Timeline_for_Yishun_Town_Sec__6_May_.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to
 download a PDF file containing information on YTSS Talent Areas for 2024,
-the DSA Timeline and Selection Criteria &amp; Process.</p>
+the DSA Timeline and the Selection Criteria &amp; Process.</p>
 <p></p>
 <p></p>
