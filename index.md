@@ -8,6 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/landingpagenew.gif
-      button: Virtual Open Day on 14 May 2024
-      url: https://www.yishuntownsec.moe.edu.sg/ytss-virtual-open-day-2024/
+      button: Results of YT Fiesta 2024
+      url: https://ytfiesta.my.canva.site/2024#home
 ---
