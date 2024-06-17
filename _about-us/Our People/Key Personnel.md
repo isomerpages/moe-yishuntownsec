@@ -228,7 +228,7 @@ Master)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sandra Yam</p>
+<p>Ms Yam Mei Hung Sandra</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (Geography)</p>
