@@ -106,7 +106,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sandra Yam</p>
+<p>Ms Yam Mei Hung Sandra</p>
 </td>
 </tr>
 <tr>
