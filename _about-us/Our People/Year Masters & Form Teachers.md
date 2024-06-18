@@ -1,5 +1,5 @@
 ---
-title: Staff Directory 2024
+title: Year Masters & Form Teachers
 permalink: /about-ytss/our-people/staff-directory-2024/
 third_nav_title: Our People
 description: ""
@@ -7,7 +7,11 @@ variant: tiptap
 ---
 <h1><strong>Staff Directory 2024</strong></h1>
 <h3>Secondary 1</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -102,7 +106,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yap Chee Ping Anthony&nbsp;</p>
+<p>Ms Yam Mei Hung Sandra</p>
 </td>
 </tr>
 <tr>
@@ -164,7 +168,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Secondary 2</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -188,6 +196,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chua Weiqiang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asst. Year Master (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hioa Chi Thong Joe</p>
 </td>
 </tr>
 <tr>
@@ -305,7 +321,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Secondary 3</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -381,10 +401,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ryan Tan Zhi Wen&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Aarthie Krishnamoorthy</p>
 </td>
 </tr>
 <tr>
@@ -454,7 +482,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Secondary 4 &amp; 5</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -603,14 +635,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>5-01</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Hioa Chi Thong Joe</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Silver Kumari d/o Kandasamy</p>
