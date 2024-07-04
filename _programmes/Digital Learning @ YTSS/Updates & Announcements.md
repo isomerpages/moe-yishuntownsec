@@ -2,7 +2,7 @@
 title: Updates & Announcements
 permalink: /parents-links/pdlp-at-ytss/updates-n-announcements/
 description: ""
-third_nav_title: Personalised Dig Learning PDLP
+third_nav_title: Digital Learning @ YTSS
 variant: tiptap
 ---
 <h1><strong>Updates &amp; Announcements</strong></h1>
