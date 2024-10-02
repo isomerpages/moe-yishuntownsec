@@ -7,12 +7,17 @@ description: ""
 <p>Dear Parents and Prospective Students,</p>
 <p><strong>YTSS Open House 2024: DynamYTe!</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_open_house_poster2.png">
+</div>
 <p>We are excited to invite you to the YTSS Open House 2024, where you can
-experience firsthand our vibrant school community and learn about the exceptional
-opportunities we offer our students.</p>
+experience first hand our vibrant school community and learn about the
+exceptional opportunities we offer our students.</p>
 <p>Date: Saturday, November 16, 2024⁠⁠​</p>
 <p>Time: 8:30 AM - 12:30 PM⁠⁠​</p>
-<p>Key Activities:</p>
+<p><strong>Key Activities:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Principal's Talks: 8:45 AM and 11:10 AM⁠⁠​</p>
@@ -30,9 +35,9 @@ opportunities we offer our students.</p>
 <p>At YTSS, we believe in the spirit of excellence and that every child can
 and will EXCEL! As an autonomous school, we offer an enhanced teaching
 and learning environment, along with a wide range of enrichment activities
-and Co-Curricular Activities (CCAs)⁠<a href="https://www.notion.so/YTSS-Open-House-2024-11309d433b98802b8531fa835c76a831?pvs=53#11309d433b98805f90bad478c6026411" class="notion-citation-mention-token notion-text-mention-token notion-focusable-token notion-enable-hover" rel="noopener noreferrer nofollow" target="_blank">.</a>
+and Co-Curricular Activities (CCAs)⁠</p>
+<p><strong>Event Highlights:</strong>
 </p>
-<p>Event Highlights:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Performances by our talented students, including The English Drama, Chinese
