@@ -2,8 +2,8 @@ collections:
   admissions:
     output: true
     order:
-      - YTSS Open House 2024.md
       - Our Publications.md
+      - YTSS Open House 2024.md
       - YTSS Virtual Open Day 2024.md
       - DSA Information for YTSS in 2024.md
       - Sec 1 E Registration for 2024/.keep
