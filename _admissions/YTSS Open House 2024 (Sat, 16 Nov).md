@@ -7,6 +7,10 @@ description: ""
 <p>Dear Parents and Prospective Students,</p>
 <p><strong>YTSS Open House 2024: DynamYTe!</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_open_house_poster.png">
+</div>
 <p>We are excited to invite you to the YTSS Open House 2024, where you can
 experience first hand our vibrant school community and learn about the
 exceptional opportunities we offer our students.</p>
