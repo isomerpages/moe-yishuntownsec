@@ -8,6 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/landingpagenew.gif
-      button: Results of YT Fiesta 2024
-      url: https://ytfiesta.my.canva.site/2024#home
+      button: YTSS Open House on sat, 16 Nov 2024
+      url: https://www.yishuntownsec.moe.edu.sg/ytss-open-house-2024/
 ---
