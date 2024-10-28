@@ -11,7 +11,7 @@ below.</p>
 of study.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024_Year_end_Sale_of_School_Uniforms_and_Textbooks_for_Sec_2_to_5_Website.pdf" rel="noopener nofollow" target="_blank">Sale of School Uniform and Textbooks for 2025 (Sec 2 to 5)</a>
+<p><a href="/files/2024_Year_end_Sale_of_School_Uniforms_and_Textbooks_for_Sec_2_to_5_Website.pdf" rel="noopener nofollow" target="_blank">2024 Year End Sale of School Uniform &amp; Textbook for 2025</a>
 </p>
 </li>
 <li>
