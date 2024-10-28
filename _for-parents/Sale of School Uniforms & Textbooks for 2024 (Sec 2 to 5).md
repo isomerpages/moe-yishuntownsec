@@ -15,7 +15,7 @@ of study.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/YTSS_Booklist_2025_S2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Booklist </a>
+<p><a href="/files/YTSS_Booklist_2025_S2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Booklist</a>
 </p>
 </li>
 <li>
