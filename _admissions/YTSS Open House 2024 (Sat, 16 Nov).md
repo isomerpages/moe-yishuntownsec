@@ -7,9 +7,8 @@ description: ""
 <p>Dear Parents and Prospective Students,</p>
 <p><strong>YTSS Open House 2024: DynamYTe!</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_open_house_poster2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_Invite_2024.png">
 </div>
 <p>We are excited to invite you to the YTSS Open House 2024, where you can
 experience first hand our vibrant school community and learn about the
@@ -20,7 +19,7 @@ exceptional opportunities we offer our students.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Principal's Talks: 8:45 AM and 11:10 AM⁠⁠​</p>
+<p>Principal's Talks: 8:30 AM and 11:10 AM⁠⁠​</p>
 </li>
 <li>
 <p>CCA Booths &amp; Performances⁠⁠​</p>
