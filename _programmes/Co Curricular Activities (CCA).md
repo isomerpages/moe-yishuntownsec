@@ -8,4 +8,4 @@ YTSS offers a range of CCAs to help students achieve a holistic education. We be
 
 ![](/images/CCA%20(1).jpg)
 
-For more information on the suite of CCAs we offer in Yishun Town Secondary School, we invite you to download our CCA prospectus for [more information. ](https://drive.google.com/file/d/1x95DRTcA4DZOTG40MEe7mrRaYL1C6GZw/view?usp=drive_link)
+For more information on the suite of CCAs we offer in Yishun Town Secondary School, we invite you to download our CCA prospectus for [more information.](https://drive.google.com/drive/folders/1tqMcCv0SbiQpHUGUK8CcD2Xj_8pWUs1Z)
