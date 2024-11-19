@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p>Dear Parents and Prospective Students,</p>
+<p>Updated 19 Nov 2024:</p>
+<p>Please download the Open House slides for our Principal's Talk <a href="/files/2024_YTSS_Principal_s_Open_House_Presentation_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Thank you.</p>
+<p>==================================</p>
 <p>Join us for our Open House 2024, where you can experience first-hand our
 vibrant school community and learn about the opportunities we offer our
 students.</p>
