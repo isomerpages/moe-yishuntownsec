@@ -8,6 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/landingpagenew.gif
-      button: YTSS Open House on sat, 16 Nov 2024
+      button: slides for principal's talk @ ytss open house 2024
       url: https://www.yishuntownsec.moe.edu.sg/ytss-open-house-2024/
 ---
