@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our School Song.md
       - Principal's Message/.keep
       - Principal's Message/Principal's Message 2024.md
       - Principal's Message/Principal's Message 2023.md
