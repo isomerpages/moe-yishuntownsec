@@ -85,22 +85,10 @@ Sec 1 Year Master</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Tirmidzi Bin Abdul Ghani</p>
+<p>Mdm Leow Geok Kuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Marc Wo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department (Student Management), Head of Department (Covering)
-(Physical Education &amp; Co-Curricular Activities)</p>
+<p>Head of Department (Mother Tongue Languages)</p>
 </td>
 </tr>
 <tr>
@@ -130,10 +118,22 @@ Sec 1 Year Master</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Leow Geok Kuan</p>
+<p>Mr Muhammad Tirmidzi Bin Abdul Ghani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Mother Tongue Languages)</p>
+<p>School Staff Developer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Marc Wo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department (Student Management), Head of Department (Covering)
+(Physical Education &amp; Co-Curricular Activities)</p>
 </td>
 </tr>
 <tr>
@@ -208,21 +208,10 @@ Master)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lynette Lui</p>
+<p>Mr Alan Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (English Language) &amp; Sec 2 Asst. Year Master</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yam Mei Hung Sandra</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Geography)</p>
+<p>Subject Head (Physics)</p>
 </td>
 </tr>
 <tr>
@@ -234,6 +223,28 @@ Master)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (Chinese Language)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lynette Lui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (English Language &amp; Literature, Sec 2 Asst. Year Master)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sandra Yam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Geography)</p>
 </td>
 </tr>
 <tr>
@@ -277,18 +288,7 @@ Master)</p>
 <p>Mr Chua Weiqiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Educational Support) &amp; Sec 3 Asst. Year Master</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Alan Chew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Physics)</p>
+<p>Subject Head (Educational Support, Sec 3 Asst. Year Master)</p>
 </td>
 </tr>
 <tr>
