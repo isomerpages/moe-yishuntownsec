@@ -392,17 +392,6 @@ Master)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Caroline Patricia Thomas</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher (English Language)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Mageswari d/o Salverraju</p>
 </td>
 <td rowspan="1" colspan="1">
