@@ -40,10 +40,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Loong Chieh Yung</p>
+<p>Mdm Kathleen Ch'ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
+<p>Vice-Principal (Student &amp; Faculty Development)</p>
 </td>
 </tr>
 <tr>
@@ -51,10 +51,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kathleen Ch'ng</p>
+<p>Mr Allan Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
+<p>Vice-Principal (Academic &amp; Organisation Development)</p>
 </td>
 </tr>
 <tr>
