@@ -6,7 +6,6 @@ third_nav_title: Craft & Technology Department
 variant: tiptap
 ---
 <h1><strong>Craft and Technology Department</strong></h1>
-<h2></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A_T_Department_2024.jpg">
 </div>
