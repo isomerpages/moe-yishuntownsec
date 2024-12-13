@@ -76,8 +76,8 @@ variant: tiptap
 <p>Ms Goh Chai Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dean, Student All-Round Development, Head of Department (Pupil Welfare),
-Sec 1 Year Master</p>
+<p>Dean, Student All-Round Development, Head of Department (Pupil Welfare,
+Sec 1 Year Master)</p>
 </td>
 </tr>
 <tr>
