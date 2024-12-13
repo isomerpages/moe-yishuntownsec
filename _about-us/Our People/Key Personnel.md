@@ -76,7 +76,8 @@ variant: tiptap
 <p>Ms Goh Chai Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dean, Student All-Round Development</p>
+<p>Dean, Student All-Round Development, Head of Department (Pupil Welfare),
+Sec 1 Year Master</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +99,8 @@ variant: tiptap
 <p>Mr Marc Wo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Student Management)</p>
+<p>Head of Department (Student Management), Head of Department (Covering)
+(Physical Education &amp; Co-Curricular Activities)</p>
 </td>
 </tr>
 <tr>
@@ -142,18 +144,7 @@ variant: tiptap
 <p>Mr Ng Wei Kwang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Humanities), Sec 4/5 Year Master</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Emily Huang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department (Physical Education &amp; Co-Curricular Activities)</p>
+<p>Head of Department (Humanities)</p>
 </td>
 </tr>
 <tr>
@@ -175,7 +166,7 @@ variant: tiptap
 <p>Mrs Lynn Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Character &amp; Citizenship Education, Sec 2 Year
+<p>Head of Department (Character &amp; Citizenship Education, Sec 3 Year
 Master)</p>
 </td>
 </tr>
@@ -187,7 +178,7 @@ Master)</p>
 <p>Mdm Ruziana Bte Zakaria</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Sec 1 Year Master)</p>
+<p>Head of Department (Sec 2 Year Master)</p>
 </td>
 </tr>
 <tr>
@@ -198,7 +189,7 @@ Master)</p>
 <p>Ms Tan Siew Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Year Master (Covering) &amp; Subject Head (Mathematics)</p>
+<p>Head of Department (Sec 4&amp;5 Year Master)</p>
 </td>
 </tr>
 <tr>
@@ -220,7 +211,7 @@ Master)</p>
 <p>Mrs Lynette Lui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (English Language) &amp; Sec 1 Asst. Year Master</p>
+<p>Subject Head (English Language) &amp; Sec 2 Asst. Year Master</p>
 </td>
 </tr>
 <tr>
@@ -286,7 +277,7 @@ Master)</p>
 <p>Mr Chua Weiqiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Educational Support, Sec 2 Asst Year Master)</p>
+<p>Subject Head (Educational Support) &amp; Sec 3 Asst. Year Master</p>
 </td>
 </tr>
 <tr>
@@ -297,7 +288,7 @@ Master)</p>
 <p>Mr Alan Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Education, Career &amp; Talent Development)</p>
+<p>Subject Head (Physics)</p>
 </td>
 </tr>
 <tr>
@@ -305,10 +296,21 @@ Master)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Nafisah Bte Alias</p>
+<p>Ms Wong Hsu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Acting) (Lower Secondary Science)</p>
+<p>Subject Head (Sec 1 Asst. Year Master)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Adibah Bte Mazeli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (21 Century Competencies)</p>
 </td>
 </tr>
 <tr>
