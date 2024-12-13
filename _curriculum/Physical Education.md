@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1><strong>Physical Education</strong></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/physical%20education%20department.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_Department_2024.jpg">
 </div>
 <h3>Department Overview</h3>
 <p>The Physical Education Department believes in nurturing physically educated
