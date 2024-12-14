@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Craft & Technology Department
 variant: tiptap
 ---
-<h1><strong>Craft and Technology Department</strong></h1>
+<h1><strong>Aesthetics and Technology Department</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A_T_Department_2024.jpg">
 </div>
@@ -41,11 +41,11 @@ skills through
 </tbody>
 </table>
 <h3>Department Overview</h3>
-<p>The Craft and Technology Department believes in providing students with
-an authentic learning experience to recognise&nbsp;their academic abilities
-and talents. This year, our Secondary One students participated in the
-D&amp;T Hands-On Marvel Programme. They also visited the National Gallery
-and NUS Museum to appreciate artworks.</p>
+<p>The Aesthetics and Technology Department believes in providing students
+with an authentic learning experience to recognise&nbsp;their academic
+abilities and talents. This year, our Secondary One students participated
+in the D&amp;T Hands-On Marvel Programme. They also visited the National
+Gallery and NUS Museum to appreciate artworks.</p>
 <p>Our Secondary Two students were engaged in music performance in class
 to deepen and contextualise students’ understanding and appreciation of
 music from local and global cultures. They also attended the SensaYTion
@@ -85,9 +85,8 @@ in a dynamic environment in the years ahead.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFbEl7QMnWbByhYieVB8OAli_SgTijaZNRaz6voUhzqyU2ioFj1d8BEwmu8Pr2Ucdj1pJlURLx6CeW/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<h3>The philosophy of Nutrition and Food Science (NFS) Unit The</h3>
-<h3></h3>
-<p>Nutrition and Food Science unit delivers the Food and Consumer Education
+<h3>The philosophy of Nutrition and Food Science (NFS) Unit </h3>
+<p>The Nutrition and Food Science unit delivers the Food and Consumer Education
 curriculum to the lower secondary students. Our two-year curriculum equips
 students with nutrition knowledge and practical skills to lead a healthy
 life. Students will learn to prepare nutritious and aesthetically appealing
