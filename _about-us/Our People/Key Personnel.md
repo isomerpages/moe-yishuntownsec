@@ -76,8 +76,8 @@ variant: tiptap
 <p>Ms Goh Chai Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dean, Student All-Round Development, Head of Department (Pupil Welfare,
-Sec 1 Year Master)</p>
+<p>Dean, Student All-Round Development, Sec 1 Year Master, Head of Department
+(Pupil Welfare)</p>
 </td>
 </tr>
 <tr>
@@ -132,8 +132,8 @@ Sec 1 Year Master)</p>
 <p>Mr Marc Wo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Student Management), Head of Department (Covering)
-(Physical Education &amp; Co-Curricular Activities)</p>
+<p>Head of Department (Student Management), Covering Head of Department (Physical
+Education &amp; Co-Curricular Activities)</p>
 </td>
 </tr>
 <tr>
@@ -166,8 +166,7 @@ Sec 1 Year Master)</p>
 <p>Mrs Lynn Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Character &amp; Citizenship Education, Sec 3 Year
-Master)</p>
+<p>Sec 3 Year Master, Head of Department (Character &amp; Citizenship Education)</p>
 </td>
 </tr>
 <tr>
@@ -178,7 +177,7 @@ Master)</p>
 <p>Mdm Ruziana Bte Zakaria</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Sec 2 Year Master)</p>
+<p>Sec 2 Year Master</p>
 </td>
 </tr>
 <tr>
@@ -189,7 +188,7 @@ Master)</p>
 <p>Ms Tan Siew Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Sec 4&amp;5 Year Master)</p>
+<p>Sec 4&amp;5 Year Master</p>
 </td>
 </tr>
 <tr>
@@ -233,7 +232,7 @@ Master)</p>
 <p>Mrs Lynette Lui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (English Language &amp; Literature, Sec 2 Asst. Year Master)</p>
+<p>Sec 2 Asst. Year Master, Subject Head (English Language &amp; Literature)</p>
 </td>
 </tr>
 <tr>
@@ -288,7 +287,7 @@ Master)</p>
 <p>Mr Chua Weiqiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Educational Support, Sec 3 Asst. Year Master)</p>
+<p>Sec 3 Asst. Year Master, Subject Head (Educational Support)</p>
 </td>
 </tr>
 <tr>
@@ -299,7 +298,7 @@ Master)</p>
 <p>Ms Wong Hsu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Sec 1 Asst. Year Master)</p>
+<p>Sec 1 Asst. Year Master</p>
 </td>
 </tr>
 <tr>
@@ -321,7 +320,7 @@ Master)</p>
 <p>Mr Koh Yi Fan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Covering) (InfoCom &amp; Technology)</p>
+<p>Covering Subject Head (InfoCom &amp; Technology)</p>
 </td>
 </tr>
 <tr>
