@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 Sec 1 E Registration
 ---
-<p>This page will be updated on Wednesday, 18 Dec 2024 following the release
-of the Sec 1 Posting Results.</p>
-<p>Stay tuned!</p>
 <p>Dear Parents and Guardians,</p>
 <p>Welcome to <strong>Yishun Town Secondary School</strong> (YTSS)!</p>
 <p>We are sure that you and your child/ward are very excited to start this
