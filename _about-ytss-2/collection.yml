@@ -1,4 +1,5 @@
 collections:
   about-ytss-2:
     output: true
-    order: []
+    order:
+      - Key Personnel.md
