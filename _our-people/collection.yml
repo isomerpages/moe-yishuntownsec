@@ -1,5 +1,5 @@
 collections:
-  about-ytss-2:
+  our-people:
     output: true
     order:
       - Yishun Town Alumni.md
