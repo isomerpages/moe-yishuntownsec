@@ -2,7 +2,8 @@ collections:
   admissions:
     output: true
     order:
-      - 2025 Sec 1 E Registration/2025 Sec 1 E Registration.md
+      - 2025 Sec 1 E Registration/Overview of Registration Process & Other Impt
+        Dates.md
       - 2025 Sec 1 E Registration/.keep
       - Our Publications.md
       - YTSS Open House 2024 (Sat, 16 Nov).md
