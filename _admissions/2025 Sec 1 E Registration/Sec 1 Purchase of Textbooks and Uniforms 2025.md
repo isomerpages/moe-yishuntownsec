@@ -47,7 +47,7 @@ scan the QR Code below to book an appointment.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>School’s bookshop opening hours are as follow:</p>
+<p>School’s bookshop opening hours are as follows:</p>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -114,7 +114,7 @@ with a delivery fee of $7.</p>
 floor of Block F.</p>
 </li>
 </ul>
-<p>Opening hours are as follow:</p>
+<p>Opening hours are as follows:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
