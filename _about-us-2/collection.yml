@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  about-us-2:
     output: true
     order:
       - Principal's Message/.keep
