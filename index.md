@@ -9,5 +9,5 @@ sections:
   - hero:
       background: /images/landingpagenew.gif
       button: 2025 sec 1 e registration
-      url: https://www.yishuntownsec.moe.edu.sg/ytss-open-house-2024/
+      url: https://www.yishuntownsec.moe.edu.sg/2025-sec-1-e-registration/
 ---
