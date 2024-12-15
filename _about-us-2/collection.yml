@@ -2,6 +2,7 @@ collections:
   about-us-2:
     output: true
     order:
+      - Our YT2026 Plan.md
       - Our Vision, Mission, Motto & Values.md
       - Principal's Message/.keep
       - Principal's Message/Principal's Message 2024.md
