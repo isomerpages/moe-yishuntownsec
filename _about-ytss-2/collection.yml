@@ -2,5 +2,6 @@ collections:
   about-ytss-2:
     output: true
     order:
+      - School Advisory Committee.md
       - Year Masters & Form Teachers.md
       - Key Personnel.md
