@@ -161,9 +161,9 @@ floor of Block F.</p>
 <li>
 <p>Retail outlet at Sembawang Shopping Centre. The address and opening hours
 are:</p>
+<p>604 Sembawang Road #02-13 Singapore 758459</p>
 </li>
 </ul>
-<p>604 Sembawang Road #02-13 Singapore 758459</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
