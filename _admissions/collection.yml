@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - 2025 Sec 1 E Registration/Sec 1 Orientation Programme 2025.md
       - 2025 Sec 1 E Registration/Sec 1 Administrative Matters 2025.md
       - 2025 Sec 1 E Registration/.keep
       - 2025 Sec 1 E Registration/Overview of Sec 1 E Registration 2025 & Other
