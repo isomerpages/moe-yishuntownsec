@@ -2,4 +2,5 @@ collections:
   about-ytss-1:
     output: true
     order:
+      - Our Vision, Mission, Motto & Values.md
       - Our YT2026 Plan.md
