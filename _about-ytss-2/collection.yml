@@ -2,4 +2,5 @@ collections:
   about-ytss-2:
     output: true
     order:
+      - Year Masters & Form Teachers.md
       - Key Personnel.md
