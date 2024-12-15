@@ -9,7 +9,7 @@ third_nav_title: 2025 Sec 1 E Registration
 <p>To minimise the wait time for the purchase of school uniforms and textbooks
 for 2025, we strongly encourage you to make purchases via our suppliers’
 online platforms. More details are shown below for the respective suppliers.
-Please note that the deadline to make an online order is <strong>25 Dec 2024, 11.59pm.</strong> 
+Please note that the deadline to make an online order is <strong>25 Dec 2024, 11.59pm.</strong>
 </p>
 <p>Download: <a href="/files/YTSS_Booklist__S1_2025.pdf" rel="noopener nofollow" target="_blank">YTSS Secondary 1 Booklist 2025</a>
 </p>
@@ -39,7 +39,7 @@ for collection.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>This is by <u>E-appointment only</u>. Please log in to <a href="https://casco.as.me/schedule/205c5ee3/appointment/70785401/calendar/11055763?locations=Yishun%20Town%20School%20Bookshop" rel="noopener noreferrer nofollow" target="_blank">https://casco.as.me/schedule/205c5ee3/appointment/70785401/calendar/11055763?locations=Yishun%20Town%20School%20Bookshop</a> or
-scan the QR Code to book an appointment.</p>
+scan the QR Code below to book an appointment.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
