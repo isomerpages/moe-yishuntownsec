@@ -1,7 +1,9 @@
 logo: /images/Untitled__170_x_50_px___2_.png
 links:
-  - title: ABOUT US
-    collection: about-us
+  - title: About Ytss
+    collection: about-ytss
+  - title: Our People
+    collection: our-people
   - title: PROGRAMMES
     collection: programmes
   - title: CURRICULUM

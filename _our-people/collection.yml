@@ -1,0 +1,9 @@
+collections:
+  our-people:
+    output: true
+    order:
+      - Key Personnel.md
+      - Year Masters & Form Teachers.md
+      - School Advisory Committee.md
+      - Parent Support Group.md
+      - Yishun Town Alumni.md

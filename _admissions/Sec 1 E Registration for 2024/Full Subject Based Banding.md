@@ -1,8 +1,0 @@
----
-title: Full Subject Based Banding
-permalink: /for-parents/sec-1-e-registration-for-2024/fsbb/
-variant: tiptap
-description: ""
-third_nav_title: Sec 1 E Registration for 2024
----
-<h4>What is Full Subject Based Banding (Full SBB)?</h4><p>Full Subject-Based Banding (SBB) is an MOE-wide initiative to allow students to have <strong>greater ownership of their learning</strong> according to their strengths, interests, abilities, talents and learning needs and develop a <strong>growth mindset and an intrinsic motivation</strong> to learn for life. They will also have <strong>more opportunities to interact with friends </strong>of different strengths, interests, abilities and talents. They will have <strong>more options for post-secondary pathways</strong>, while ensuring they have strong fundamentals and can thrive in their chosen pathway.</p><p>With FSBB, your child will have the flexibility to offer subjects at different subject levels (i.e. G1, G2, G3), according to his/her strengths, interest and learning needs, throughout secondary education, if they meet the eligibility criteria and based on the school’s holistic consideration.</p><h4>Eligibility Criteria for FSBB upon entry to Secondary 1</h4><p>At the start of Secondary 1, FSBB offers are made by the Ministry of Education, based on your child/ward’s performance during PSLE.</p><p><strong>If your child has been offered subject(s) at different subject level(s), please indicate his/her choice(s) through the FormSG sent via PG by 28 December 2023, 5 pm.</strong></p>
