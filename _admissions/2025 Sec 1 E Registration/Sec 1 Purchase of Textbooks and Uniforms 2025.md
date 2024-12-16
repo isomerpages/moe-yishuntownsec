@@ -6,7 +6,7 @@ description: ""
 third_nav_title: 2025 Sec 1 E Registration
 ---
 <p>Dear Parents / Guardians</p>
-<p>To minimise the wait time for the purchase of school uniforms and textbooks
+<p>To minimise the wait time for the purchase of school uniform and textbooks
 for 2025, we strongly encourage you to make purchases via our suppliers’
 online platforms. More details are shown below for the respective suppliers.
 Please note that the deadline to make an online order is <strong>25 Dec 2024, 11.59pm.</strong>
@@ -91,9 +91,9 @@ scan the QR Code below to book an appointment.</p>
 </tbody>
 </table>
 <hr>
-<p><strong>Purchase of School Uniforms</strong>
+<p><strong>Purchase of School Uniform</strong>
 </p>
-<p>For the purchase of school uniforms (including PE attire, ties and socks),
+<p>For the purchase of school uniform (including PE attire, ties and socks),
 the options available by the supplier, Kong Chong Pte Ltd, are:</p>
 <p><u>Option 1: via online platform (by 25 Dec 2024, 11.59pm)</u>
 </p>
@@ -203,7 +203,7 @@ are:</p>
 </p>
 <p>Applicants of MOE FAS will be notified by the school when their applications
 are approved. More information will be provided for the students to collect
-their uniforms at the retail outlet and textbooks from the school’s bookshop.</p>
+their uniform at the retail outlet and textbooks from the school’s bookshop.</p>
 <p><strong>Others</strong>
 </p>
 <p>Should you need any clarifications, you may contact:</p>
