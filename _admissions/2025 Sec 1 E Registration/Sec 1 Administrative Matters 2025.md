@@ -143,7 +143,7 @@ School students.</p>
 </li>
 </ol>
 <p>If you need to apply for financial assistance, please download the following
-file, complete the form and submit it to our school’s General Office by</p>
+file, complete the form and submit it to our school’s General Office by <strong>19 December 2024, 12pm</strong>.</p>
 <p>Download: <a href="/files/2_3_MOE_FAS_Application_For_2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form</a>
 </p>
 <p></p>
