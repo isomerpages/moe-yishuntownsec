@@ -12,10 +12,12 @@ new chapter of his or her life and we are equally excited to welcome you
 into our big YTSS family.</p>
 <p>To help you and your child transit into secondary school, we would like
 to ask that you take some time to read through the information on Secondary
-1 E Registration found on our school website.</p>
+1 E Registration found on our school website. Please click on the respective
+subpages for the relevant information.</p>
 <p>An infographic highlighting the key activities and dates is provided here
 for your easy reference.</p>
 <p></p>
 <p>School website: <a href="https://www.yishuntownsec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Yishun Town Secondary School</a>
 </p>
-<p>School chatbot:</p>
+<p>School chatbot: <a href="http://go.gov.sg/ytsschatbot" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/ytsschatbot</a>
+</p>
