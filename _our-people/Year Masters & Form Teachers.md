@@ -446,14 +446,6 @@ variant: tiptap
 <p>Mrs Karen Cheong Yi Jia</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Annu Rai</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Secondary 4</h3>
