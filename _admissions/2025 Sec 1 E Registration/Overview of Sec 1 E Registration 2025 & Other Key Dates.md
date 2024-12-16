@@ -19,5 +19,5 @@ for your easy reference.</p>
 <p></p>
 <p>School website: <a href="https://www.yishuntownsec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Yishun Town Secondary School</a>
 </p>
-<p>School chatbot: <a href="http://go.gov.sg/ytsschatbot" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/ytsschatbot</a>
+<p>School chatbot: <a href="http://go.gov.sg/ytsschatbot" rel="noopener noreferrer nofollow" target="_blank"><u>g</u>o.gov.sg/ytsschatbot</a>
 </p>
