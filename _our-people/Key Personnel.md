@@ -319,7 +319,7 @@ Education &amp; Co-Curricular Activities)</p>
 <p>Mr Koh Yi Fan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Covering Subject Head (InfoCom &amp; Technology)</p>
+<p>Covering Subject Head (Information &amp; Communications Technology)</p>
 </td>
 </tr>
 <tr>
