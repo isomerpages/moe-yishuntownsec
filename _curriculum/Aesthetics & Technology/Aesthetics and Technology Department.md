@@ -2,7 +2,7 @@
 title: Aesthetics and Technology Department
 permalink: /curriculum/aesthetics-and-technology-department/
 description: ""
-third_nav_title: Craft & Technology Department
+third_nav_title: Aesthetics & Technology
 variant: tiptap
 ---
 <h1><strong>Aesthetics and Technology Department</strong></h1>
