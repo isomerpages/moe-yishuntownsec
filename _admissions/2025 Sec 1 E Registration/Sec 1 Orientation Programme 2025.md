@@ -58,7 +58,7 @@ our new Secondary 1 students on <strong>2, 3, 6 &amp; 7 Jan 2025.</strong>
 </ol>
 <p>Secondary 1 students will be attending lessons based on their class timetable,
 starting from <strong>8 Jan 2025</strong>. Please see the following table
-for information.</p>
+for more information.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025_Sec_1_Commencement_of_Lessons_Table.jpg">
 </div>
