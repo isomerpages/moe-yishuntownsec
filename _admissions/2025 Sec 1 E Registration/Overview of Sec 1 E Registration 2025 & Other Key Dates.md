@@ -17,7 +17,17 @@ subpages for the relevant information.</p>
 <p>An infographic highlighting the key activities and dates is provided here
 for your easy reference.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_Registration_Inforgraphic_16_Dec_2024.png">
+</div>
+<ul data-tight="true" class="tight">
+<li>
 <p>School website: <a href="https://www.yishuntownsec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Yishun Town Secondary School</a>
 </p>
+</li>
+<li>
 <p>School chatbot: <a href="http://go.gov.sg/ytsschatbot" rel="noopener noreferrer nofollow" target="_blank"><u>g</u>o.gov.sg/ytsschatbot</a>
 </p>
+</li>
+</ul>
+<p></p>
