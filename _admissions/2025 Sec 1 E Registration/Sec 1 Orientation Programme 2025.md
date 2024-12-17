@@ -11,7 +11,7 @@ third_nav_title: 2025 Sec 1 E Registration
 </p>
 </li>
 </ol>
-<p>Yishun Town Secondary School is organising an Orientation programme for
+<p>Yishun Town Secondary School is organising an orientation programme for
 our new Secondary 1 students on <strong>2, 3, 6 &amp; 7 Jan 2025</strong>.</p>
 <p><u>Overview of Orientation Programme</u>
 </p>
@@ -27,7 +27,7 @@ our new Secondary 1 students on <strong>2, 3, 6 &amp; 7 Jan 2025</strong>.</p>
 <p>Class Bonding Games</p>
 </li>
 <li>
-<p>School Campus facilities familiarisation activities</p>
+<p>School Campus Facilities Familiarisation Activities</p>
 </li>
 <li>
 <p>Addresses by School Personnel</p>
