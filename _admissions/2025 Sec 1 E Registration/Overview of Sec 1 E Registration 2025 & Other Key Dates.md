@@ -16,9 +16,8 @@ to ask that you take some time to read through the information on Secondary
 subpages for the relevant information.</p>
 <p>An infographic highlighting the key activities and dates is provided here
 for your easy reference.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_Registration_Inforgraphic_16_Dec_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/As_of_16_Dec_2024.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
