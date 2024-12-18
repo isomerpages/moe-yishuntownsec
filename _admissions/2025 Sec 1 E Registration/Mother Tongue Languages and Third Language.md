@@ -12,7 +12,7 @@ Chinese Language and Higher Tamil Language during curriculum hours.</p>
 <p>Students taking Higher Malay Language will be given option to study the
 subject at one of the following centres, namely: MOELC/Anderson Sec Sch/Bukit
 Panjang Govt High/Raffles Institution/Tanjong Katong Sec School. Please
-keep us inform of your choice centre by <strong>23 December2024</strong> so
+keep us inform of your choice centre by <strong>23 December 2024</strong> so
 that we can proceed to register with the centre.</p>
 <p><strong>If your child has been offered the option of pursuing Higher Mother Tongue, please indicate if he or she will be accepting the offer through&nbsp;the Form SG sent via PG&nbsp;by 23 December 2024.</strong>
 </p>
