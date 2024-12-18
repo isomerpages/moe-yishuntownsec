@@ -37,7 +37,6 @@ please email our Subject Head (Chinese Language), Mr Lim Teck Chye at&nbsp;
 language via PG.</p>
 <p>If your child has been offered the option to pursue a Third Language by
 Ministry of Education, please register online at the posted centre’s website
-between<strong> 19 December 2024 – 2 January 2025.</strong> You may contact
-MOELC at 62587794 (11 Bishan Street 14 S(579782) for any enquiry you may
-have.</p>
+between<strong> 19 December 2024 – 2 January 2025.</strong> Please contact
+MOELC at 62587794 (11 Bishan Street 14 S(579782) if you have any queries.</p>
 <p></p>
