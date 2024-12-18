@@ -31,7 +31,7 @@ Tongue Languages.</p>
 Languages in primary school or did not sit for Mother Tongue during PSLE,
 please email our Subject Head (Chinese Language), Mr Lim Teck Chye at&nbsp;
 <a rel="noopener noreferrer nofollow" target="_blank">lim_teck_chye@schools.gov.sg</a>&nbsp;by <strong>23 December 2024</strong>,
-&nbsp;with relevant supporting details (e.g. exemption letter from CPDD).**</p>
+&nbsp;with relevant supporting details (e.g. exemption letter from CPDD).</p>
 <h3>Offering of Third Language (Chinese Special Programme/Malay Special Programme/ Japanese)</h3>
 <p>You will be receiving notification of your child’s application of Third
 language via PG.</p>
