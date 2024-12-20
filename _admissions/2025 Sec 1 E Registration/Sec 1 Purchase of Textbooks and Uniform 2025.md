@@ -10,8 +10,7 @@ for 2025, we strongly encourage parents/ guardians to make purchases via
 our suppliers’ online platforms. More details are shown below for the respective
 suppliers. Please note that the deadline to make an online order is <strong>25 Dec 2024, 11.59pm.</strong>
 </p>
-<p>Download: <a href="/files/YTSS_Booklist__S1_2025_updated_20_Dec.pdf" rel="noopener nofollow" target="_blank">YTSS Booklist Sec 1 2025</a>
-</p>
+<p>Download:</p>
 <hr>
 <p><strong>Purchase of Textbooks</strong>
 </p>
