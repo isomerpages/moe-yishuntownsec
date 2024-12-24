@@ -2,10 +2,11 @@
 title: YTSS Rules & Consequences
 permalink: /co-curriculum/student-development/discipline/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# **Discipline**
-
-To understand Yishun Town Secondary School's School Rules and Consequences, please download the PDF guide for your reference: [YTSS Rules and Consequences 2024](/files/YTSS_Rules_and_Consequences_2024.pdf)
-
-Should you have any questions or concerns, do drop us an email at [ytss@moe.edu.sg](ytss@moe.edu.sg)
+<h1><strong>Discipline</strong></h1>
+<p>To understand Yishun Town Secondary School's School Rules and Consequences,
+please download the PDF guide for your reference: <a href="/files/YTSS_Rules_and_Consequences_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">YTSS Rules and Consequences 2025</a>
+</p>
+<p>Should you have any questions or concerns, do drop us an email at <a href="ytss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ytss@moe.edu.sg</a>
+</p>
