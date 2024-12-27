@@ -331,22 +331,6 @@ variant: tiptap
 <p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Aisyah Binte Abdul Khalim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Hioa Chi Thong Joe</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3B</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Fong Xuanwan Steph</p>
 </td>
 </tr>
@@ -356,6 +340,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Norhafiz Bin Samsudin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Aisyah Binte Abdul Khalim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hioa Chi Thong Joe</p>
 </td>
 </tr>
 <tr>
@@ -395,36 +395,12 @@ variant: tiptap
 <p>3E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Chew Hong Theresa</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Teo Siu Yan Matthew</p>
+<p>Mrs Karen Cheong Yi Jia</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>3F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Winston Quek</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Noorshakina Binte Jemahat</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3G</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Alan Chew Chioh-Sian</p>
@@ -440,10 +416,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Winston Quek</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Noorshakina Binte Jemahat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Karen Cheong Yi Jia</p>
+<p>Ms Tan Chew Hong Theresa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Siu Yan Matthew</p>
 </td>
 </tr>
 </tbody>
