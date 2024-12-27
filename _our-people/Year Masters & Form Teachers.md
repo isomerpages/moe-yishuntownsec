@@ -400,14 +400,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ibrahim Asharaf Ali</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>3F</p>
 </td>
 <td rowspan="1" colspan="1">
