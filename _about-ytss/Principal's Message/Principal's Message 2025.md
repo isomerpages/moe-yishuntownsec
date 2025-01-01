@@ -18,14 +18,15 @@ to humanity. &nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_Msg_2025_NEW_lady.jpg">
 </div>
 <p>(Image Above: Librarian Alia Muhammad Baker</p>
-<p>Image source: <a rel="noopener noreferrer nofollow" target="_blank">https://www.goodreads.com/book/show/111000.The_Librarian_of_Basra</a>)</p>
+<p>Image source: <a rel="noopener noreferrer nofollow" target="_blank">https://www.goodreads.com/book/show/111000.The_Librarian_of_Basra)</a>
+</p>
 <h4><strong>The Importance of Knowledge Preservation</strong></h4>
 <p>To appreciate the significance of her deeds, we have got to understand
 that for most of history, education and books were privileges reserved
 for nobles or clergy, with knowledge contained in tomes called “the canon.”
-In time, innovations like the printing press—and later, digital technologies,
-including large language models (which I partnered to write this message)—have
-helped make knowledge widely available. The democratization of knowledge
+In time, innovations like the printing press - and later, digital technologies,
+including large language models (which I partnered to write this message)
+- have helped make knowledge widely available. The democratization of knowledge
 has been crucial to growth and prosperity of nations. Yet, progress in
 education and learning has never been one-directional. There were the four
 horsemen of the apocalypse – conquest, war, famine and death – whose coming
@@ -48,7 +49,7 @@ them.” “Here are crates from my shop.” “Can you use these sacks?”</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_Msg_2025_Picture_1b.jpg">
 </div>
 <p>(Image above: Alia saving the books from the fire during the war</p>
-<p>source: <a rel="noopener noreferrer nofollow" target="_blank">https://celebratepicturebooks.com/tag/the-librarian-of-basra-a-true-story-from-iraq/</a>)</p>
+<p>Image source: <a rel="noopener noreferrer nofollow" target="_blank">https://celebratepicturebooks.com/tag/the-librarian-of-basra-a-true-story-from-iraq/</a>)</p>
 <h4><strong>Legacy of Preservation</strong></h4>
 <p>Alia saved the books from the fire during the war! The building of the
 library was eventually destroyed, but Alia’s secret mission saved thousands
@@ -60,7 +61,7 @@ For us in education, Alia’s actions remind that the freedom to learn and
 the right to read should never be taken for granted.</p>
 <h4><strong>YTSS Theme for 2025</strong></h4>
 <blockquote>
-<p>Our 2025 theme is <strong>“Learn. Care. Excel.”</strong> 
+<p>Our 2025 theme is <strong>“Learn. Care. Excel.”</strong>
 </p>
 </blockquote>
 <p>I share the story of the librarian of Basra to spotlight Alia’s intrinsic
@@ -69,8 +70,8 @@ and her resourcefulness <em>par excellence</em>. I hope her story will inspire
 our teachers, YTzens, and all who read this message. In the uncertain world,
 Yishun Town Secondary School will be a sanctum of learning, staffed by
 educators who care, in our relentless pursuit of excellence.</p>
-<p>Here are some examples of recent events that will propel us forward into
-2025, in line with this theme:</p>
+<p>In line with this theme, here are some examples of recent events that
+will propel us forward into 2025:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_Msg_2025_Photo_1.png">
 </div>
