@@ -8,6 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/landingpagenew.gif
-      button: 2025 sec 1 e registration
-      url: https://www.yishuntownsec.moe.edu.sg/2025-sec-1-e-registration/
+      button: Principal's Message 2025
+      url: https://www.yishuntownsec.moe.edu.sg/principal-s-message-2025/
 ---
