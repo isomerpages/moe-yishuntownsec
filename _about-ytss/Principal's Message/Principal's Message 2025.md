@@ -17,9 +17,7 @@ to humanity. &nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_Msg_2025_NEW_lady.jpg">
 </div>
-<p>(Image Above: Librarian Alia Muhammad Baker</p>
-<p>Image source: <a rel="noopener noreferrer nofollow" target="_blank">https://www.goodreads.com/book/show/111000.The_Librarian_of_Basra)</a>
-</p>
+<p>(Image Above: Librarian Alia Muhammad Baker<sup>1</sup>)</p>
 <h4><strong>The Importance of Knowledge Preservation</strong></h4>
 <p>To appreciate the significance of her deeds, we have got to understand
 that for most of history, education and books were privileges reserved
@@ -48,8 +46,7 @@ them.” “Here are crates from my shop.” “Can you use these sacks?”</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_Msg_2025_Picture_1b.jpg">
 </div>
-<p>(Image above: Alia saving the books from the fire during the war</p>
-<p>Image source: <a rel="noopener noreferrer nofollow" target="_blank">https://celebratepicturebooks.com/tag/the-librarian-of-basra-a-true-story-from-iraq/</a>)</p>
+<p>(Image above: Alia saving the books from the fire during the war<sup>2</sup>)</p>
 <h4><strong>Legacy of Preservation</strong></h4>
 <p>Alia saved the books from the fire during the war! The building of the
 library was eventually destroyed, but Alia’s secret mission saved thousands
@@ -72,8 +69,9 @@ Yishun Town Secondary School will be a sanctum of learning, staffed by
 educators who care, in our relentless pursuit of excellence.</p>
 <p>In line with this theme, here are some examples of recent events that
 will propel us forward into 2025:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_Msg_2025_Photo_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_Msg_2025_Photo_1_NEW.png">
 </div>
 <p>(Photo on the left: Embracing lifelong learning - Staff Learning Festival,
 Dec 2024</p>
@@ -81,7 +79,7 @@ Dec 2024</p>
 Journey to Japan, Nov 2024)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_Msg_2025_2b_NEW.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_Msg_2025_Photo_2_NEW.jpg">
 </div>
 <p>(Photo Above: YTzens excelling holistically as a result - Recipients of
 our Model YTzen Award, Oct 2024)</p>
@@ -101,4 +99,11 @@ our Model YTzen Award, Oct 2024)</p>
 by Jeanette Winter. Do visit the National Library Board for more information.</p>
 </li>
 </ul>
+<p>Image Sources:</p>
+<p><sup>1</sup><a rel="noopener noreferrer nofollow" target="_blank">https://www.goodreads.com/book/show/111000.The_Librarian_of_Basra)</a>
+</p>
+<p><sup>2</sup><a rel="noopener noreferrer nofollow" target="_blank">https://celebratepicturebooks.com/tag/the-librarian-of-basra-a-true-story-from-iraq/</a>
+</p>
+<p></p>
+<p></p>
 <p></p>
