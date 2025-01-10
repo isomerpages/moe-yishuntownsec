@@ -80,7 +80,8 @@ variant: tiptap
 <p>7. Cyber Wellness Resource</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Cyberwellness.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyberwellness</a> (www.help123.sg)</p>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener nofollow" target="_blank">Cyber wellness | MOE</a>
+</p>
 </td>
 </tr>
 </tbody>
