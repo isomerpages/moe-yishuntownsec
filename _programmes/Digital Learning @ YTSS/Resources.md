@@ -77,11 +77,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="7" data-tight="true" class="tight">
-<li>
-<p>Cyber Wellness Resource</p>
-</li>
-</ol>
+<p>7. Cyber Wellness Resource</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Cyberwellness.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyberwellness</a> (www.help123.sg)</p>
