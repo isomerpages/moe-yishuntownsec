@@ -6,11 +6,10 @@ third_nav_title: Digital Learning @ YTSS
 variant: tiptap
 ---
 <h1><strong>Updates &amp; Announcements</strong></h1>
-<p>5 Jan 2024</p>
 <p>Dear Parents/Guardians,</p>
 <p>Thank you for attending our PLD Initiative Parents Engagement Session.</p>
 <p>For parents/guardians who were unable to join us, please feel free to
-download the engagement slides: <a href="/files/PLD_Initiative_Slides_for_Sec_1_Parent_Engagement_2024__YTSS_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 PLD Initiative Briefing Slides</a>
+download the engagement slides: <a href="/files/PLD_Initiatives_Slides_for_Sec_1_Parent_Engagement_2025__for_parents_and_sch_website_.pdf" rel="noopener nofollow" target="_blank">2025 PLD Initiative Slides for Parents</a>
 </p>
 <p>You may also wish to navigate our PDLP page for more information. You
 can click on the links below for more information on:</p>
