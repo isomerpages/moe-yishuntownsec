@@ -331,22 +331,6 @@ variant: tiptap
 <p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Fong Xuanwan Steph</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Norhafiz Bin Samsudin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3B</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Aisyah Binte Abdul Khalim</p>
 </td>
 </tr>
@@ -356,6 +340,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Hioa Chi Thong Joe</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Fong Xuanwan Steph</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Norhafiz Bin Samsudin</p>
 </td>
 </tr>
 <tr>
