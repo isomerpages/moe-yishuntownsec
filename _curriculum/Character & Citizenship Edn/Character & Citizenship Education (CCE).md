@@ -1,8 +1,9 @@
 ---
-title: Character and Citizenship Education (CCE)
+title: Character & Citizenship Education (CCE)
 permalink: /co-curriculum/cce/
 description: ""
-third_nav_title: CCE
+third_nav_title: Character & Citizenship Edn
+variant: tiptap
 ---
 # **Rationale**
 

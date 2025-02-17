@@ -2,7 +2,7 @@
 title: Sexuality Education Programme
 permalink: /co-curriculum/sexuality-education-programme/
 description: ""
-third_nav_title: CCE
+third_nav_title: Character & Citizenship Edn
 variant: tiptap
 ---
 <h1><strong>Sexuality Education Programme</strong></h1>
