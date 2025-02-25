@@ -331,15 +331,15 @@ variant: tiptap
 <p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Aisyah Binte Abdul Khalim</p>
+<p>Aisyah Binte Abdul Khalim</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hioa Chi Thong Joe</p>
+<p>Hioa Chi Thong Joe</p>
 </td>
 </tr>
 <tr>
@@ -347,15 +347,15 @@ variant: tiptap
 <p>3B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Fong Xuanwan Steph</p>
+<p>Fong Xuanwan Steph</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>3B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Norhafiz Bin Samsudin</p>
+<p>Muhammad Norhafiz Bin Samsudin</p>
 </td>
 </tr>
 <tr>
@@ -363,15 +363,15 @@ variant: tiptap
 <p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Leah Lee Tze Ling</p>
+<p>Leah Lee Tze Ling</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr R Yuvindran</p>
+<p>R Yuvindran</p>
 </td>
 </tr>
 <tr>
@@ -379,15 +379,15 @@ variant: tiptap
 <p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Chuan Kuan</p>
+<p>Ong Chuan Kuan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Pang Yi Jia</p>
+<p>Pang Yi Jia</p>
 </td>
 </tr>
 <tr>
@@ -395,7 +395,15 @@ variant: tiptap
 <p>3E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Karen Cheong Yi Jia</p>
+<p>Tan Chew Hong Theresa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teo Siu Yan Matthew</p>
 </td>
 </tr>
 <tr>
@@ -403,15 +411,15 @@ variant: tiptap
 <p>3F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alan Chew Chioh-Sian</p>
+<p>Alan Chew Chioh-Sian</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>3F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Irnisah Binte Mohamad Aripin</p>
+<p>Irnisah Binte Mohamad Aripin</p>
 </td>
 </tr>
 <tr>
@@ -419,15 +427,15 @@ variant: tiptap
 <p>3G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Winston Quek</p>
+<p>Quek Po Ruh Winston</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>3G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Noorshakina Binte Jemahat</p>
+<p>Noorshakina Binte Jemahat</p>
 </td>
 </tr>
 <tr>
@@ -435,15 +443,7 @@ variant: tiptap
 <p>3H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Chew Hong Theresa</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Teo Siu Yan Matthew</p>
+<p>Tay Yi Jia Karen</p>
 </td>
 </tr>
 </tbody>
