@@ -71,12 +71,12 @@ Homecoming Dinner and notable successes in competitions including RoboCup
 World Championship and Basketball Championship.</p>
 <p>-video coming soon!-</p>
 <h4><strong>Mr Ng Teo Heng (2020-Present): Into the Future</strong></h4>
-<p>Taking the helm in 2021, Mr Ng believes that "teaching our next generation
-well is the greatest service to our country." Under his leadership, YTSS
-embraces the values of being Kindful, Grateful, and Mindful while strengthening
-the founding spirit of YTSS. The school continues to explore innovations
-in and outside the classroom, developing all-rounded individuals who excel
-in various domains.</p>
+<p>Mr Ng believes that "teaching our next generation well is the greatest
+service to our country." Under his leadership, YTSS embraces the values
+of being Kindful, Grateful, and Mindful while strengthening the founding
+spirit of YTSS. The school continues to explore innovations in and outside
+the classroom, developing all-rounded individuals who excel in various
+domains.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ip24nzSCn0U?si=mKGfKR6KPd2KBbKc"></iframe>
 </div>
