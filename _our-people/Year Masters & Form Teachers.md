@@ -327,8 +327,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3A</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Aisyah Binte Abdul Khalim</p>
@@ -336,15 +337,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3A</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Hioa Chi Thong Joe</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3B</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Fong Xuanwan Steph</p>
@@ -352,15 +351,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3B</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Muhammad Norhafiz Bin Samsudin</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3C</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Leah Lee Tze Ling</p>
@@ -368,14 +365,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3C</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr R Yuvindran</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -384,15 +378,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3D</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Pang Yi Jia</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3E</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Chew Hong Theresa</p>
@@ -400,15 +392,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3E</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Teo Siu Yan Matthew</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3F</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Alan Chew Chioh-Sian</p>
@@ -416,24 +406,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3F</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Irnisah Binte Mohamad Aripin</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3G</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Quek Po Ruh Winston</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>3G</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Noorshakina Binte Jemahat</p>
 </td>
