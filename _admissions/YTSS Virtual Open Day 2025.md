@@ -6,38 +6,32 @@ description: ""
 ---
 <p>We are delighted to have you here with us. Here at YTSS, we believe in
 the spirit of excellence, the belief that every child can and will EXCEL.</p>
-<p>As an autonomous school, YTSS has additional flexibility to offer a much
-enhanced teaching and learning environment for our students. Our YTzens
-also benefit from a wide range of enrichment activities and a good spread
-of Co-Curricular Activities, helping our students achieve a well-rounded
-quality education which stretches each YTzen to his or her fullest potential.</p>
-<p><strong>We encourage you to join us virtually and discover our wonderful world of YTSS </strong>–
-what makes our school feel like home to so many of our YTzens, and we welcome
-you to join our family of friends right here in YTSS and discover how you
-can excel!</p>
+<p>As one of only 28 autonomous schools in Singapore, YTSS has additional
+flexibility to offer a much enhanced teaching and learning environment
+for our students. Our YTzens also benefit from a wide range of enrichment
+activities and a good spread of Co-Curricular Activities, helping our students
+achieve a well-rounded quality education which stretches each YTzen to
+his or her fullest potential.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E_Open_Day_Poster_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOTD_2024.png">
 </div>
-<p>The following are more details of our YTSS E-Open Day 2024:
-<br>Date: 14 May 2024 (Tuesday)
-<br>Time: 4 p.m. - 5.30 p.m.
-<br>Zoom Webinar Link: <a href="https://go.gov.sg/ytssopenday2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ytssopenday2024</a> 
-<br>Zoom Webinar Passcode: openday24</p>
-<p>During the session, there will be an address by our Principal. We will
-also invite selected YTzens to give a sharing of their school experiences
-and host a Question &amp; Answer segment to answer any queries you may
-have about our school.</p>
+<p>Join our E-Open Day on Zoom and discover why YTSS feels like home to our
+students.</p>
+<p>Here is additional information on our E-Open Day 2025:
+<br>Date: 21 May 2025 (Wednesday)
+<br>Time: 4 p.m. - 5.15 p.m.
+<br>Zoom Webinar Link: <a href="https://zoom.us/j/98306484373?pwd=13LoMbFkXBkpzj82HR0bjblw64ncnM.1" rel="noopener noreferrer nofollow" target="_blank">https://zoom.us/j/98306484373?pwd=13LoMbFkXBkpzj82HR0bjblw64ncnM.1</a>
+</p>
+<p>Zoom Webinar Passcode: excel</p>
+<p>The session will feature our Principal's address on our YTzens' learning
+experiences, CCAs and DSA opportunities, followed by student sharing sessions
+about life at YTSS.</p>
 <p>If you have any questions prior to the virtual session, you may submit
-your questions via this <a href="https://www.go.gov.sg/opendayqns2024" rel="noopener noreferrer nofollow" target="_blank">link</a>. To have a better
-idea of our people, interesting programmes and CCA opportunities, you may
-wish to check out our publications <a href="https://www.yishuntownsec.moe.edu.sg/about-us/permalink/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>At Yishun Town, we are dedicated to nurturing students into future-ready
-leaders of character and distinction. Our school aims to activate our students’
-intrinsic motivation, help them uncover and articulate their strengths
-and support them to carve out a future of their own. We believe that good
-character is the foundation of a person. In our achievements, we focused
-on having good values, and in particular, our school values of integrity,
-respect, gratitude and resilience.</p>
-<p>We welcome you to join us and begin your journey to discover what your
-future will be like at YTSS!</p>
+by Friday, 16 May questions via this <a href="https://docs.google.com/forms/d/e/1FAIpQLSduQhEIFx7TqfLKSdNX9Z7L5Cl6SlI303gtcT5I-du-cva9Rg/viewform?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">link</a>.
+We will endeavour to address your queries if they are not already covered
+during the presentation. To have a better idea of our people, interesting
+programmes and CCA opportunities, you may wish to check out our publications
+<a href="https://www.yishuntownsec.moe.edu.sg/about-us/permalink/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>We look forward to seeing you at our upcoming E-Open Day!</p>
 <p></p>
