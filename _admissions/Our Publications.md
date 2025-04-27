@@ -6,7 +6,12 @@ description: ""
 ---
 <p>To give you a better understanding of our people, programme and processes,
 you may wish to download our various publicity materials.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -25,17 +30,17 @@ you may wish to download our various publicity materials.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic_Prospectus_cover_pict.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_04_27_at_3_42_11_PM.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_prospectus_cover_pict.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_04_27_at_3_40_20_PM.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_04_21_at_5_47_07_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_04_27_at_3_45_02_PM.jpg">
 </div>
 </td>
 </tr>
