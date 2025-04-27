@@ -8,6 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/landingpagenew.gif
-      button: Principal's Message 2025
-      url: https://www.yishuntownsec.moe.edu.sg/principal-s-message-2025/
+      button: Virtual Open Day (Online) 21 May 2025
+      url: https://www.yishuntownsec.moe.edu.sg/ytss-virtual-open-day-2025/
 ---
