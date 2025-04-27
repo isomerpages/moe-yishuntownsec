@@ -1,6 +1,6 @@
 ---
-title: YTSS Virtual Open Day 2024
-permalink: /ytss-virtual-open-day-2024/
+title: YTSS Virtual Open Day 2025
+permalink: /ytss-virtual-open-day-2025/
 variant: tiptap
 description: ""
 ---
