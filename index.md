@@ -13,8 +13,8 @@ sections:
       variant: center
       key_highlights:
         - title: DSA Information for YTSS in 2025
-          description: Key Highlight description
-          url: ""
+          description: Click to find out more!
+          url: https://www.yishuntownsec.moe.edu.sg/dsa-information-for-ytss-in-2025/
         - title: Virtual Open Day (Online) 21 May 2025
           description: Join us!
           url: https://www.yishuntownsec.moe.edu.sg/ytss-virtual-open-day-2025/
