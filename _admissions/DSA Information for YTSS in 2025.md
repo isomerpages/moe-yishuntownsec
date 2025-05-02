@@ -164,7 +164,7 @@ will also be informed via email.</p>
 <p>DSA-Sec Main Webpage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<p><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 </td>
 </tr>
@@ -173,7 +173,7 @@ will also be informed via email.</p>
 <p>Instructions on Application (Mainstream students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
+<p><a href="https://go.gov.sg/dsa-sec-application" rel="noopener nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
 </p>
 </td>
 </tr>
@@ -182,7 +182,7 @@ will also be informed via email.</p>
 <p>Instructions on Application (Non-Mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+<p><a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
 </td>
 </tr>
@@ -192,7 +192,7 @@ will also be informed via email.</p>
 <p>*go live on 7 May 2025, 11am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
+<p><a href="https://go.gov.sg/apply-dsa-sec" rel="noopener nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
 </p>
 </td>
 </tr>
@@ -202,7 +202,7 @@ will also be informed via email.</p>
 <p>*go live on 7 May 2025, 11am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
+<p><a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
 </p>
 </td>
 </tr>
@@ -211,7 +211,7 @@ will also be informed via email.</p>
 <p>DSA-Sec iFAQs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
+<p><a href="https://go.gov.sg/dsa-secfaqs" rel="noopener nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
 </p>
 </td>
 </tr>
@@ -220,7 +220,7 @@ will also be informed via email.</p>
 <p>DSA-Sec SchoolFinder</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
+<p><a href="https://go.gov.sg/dsa-secfaqs" rel="noopener nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
 </p>
 </td>
 </tr>
