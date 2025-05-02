@@ -5,20 +5,15 @@ variant: tiptap
 description: ""
 ---
 <h4>Important Information</h4>
-<p>Parents and students are encouraged to choose schools wisely based on
-the students’ aptitudes and strengths, bearing in mind the schools’ academic
-and non-academic requirements, and the programmes available to develop
-the area of talent.</p>
-<p>Students who are successfully admitted to the school via DSA are expected
-to honour their commitment to the school, and participate in the activities
-related to the talent they are selected for throughout their course of
-study in YTSS.</p>
+<p><strong>Parents and students are encouraged to choose schools wisely based on the students’ aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>
+</p>
+<p><strong>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for throughout their course of study in YTSS.</strong>
+</p>
 <p>Parents may refer to the selection guidelines stated below in the DSA
-application. However, meeting all the criteria does not guarantee the student
-will be shortlisted/given an offer.</p>
-<p>Applicants who do not have prior experience may also apply. The school
-will assess applicants based on the selection criteria, which may include
-assessing the potential of the applicants.</p>
+application. <strong>However, meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</strong>
+</p>
+<p><strong>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</strong>
+</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of- charge and will be open from 7 May 2025, 11am
 to 3rd Jun 2025, 3pm. For more details, please refer to the MOE website:
