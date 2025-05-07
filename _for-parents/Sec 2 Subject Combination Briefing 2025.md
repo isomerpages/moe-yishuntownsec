@@ -28,7 +28,9 @@ post-secondary pathways for this cohort.</p>
 <p>4.45 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>E-Registration</p>
+<p>Webinar Registration: <a rel="noopener noreferrer nofollow" target="_blank">https://zoom.us/j/98306484373?pwd=13LoMbFkXBkpzj82HR0bjblw64ncnM.1</a>
+</p>
+<p>(passcode: excel)</p>
 </td>
 </tr>
 <tr>
