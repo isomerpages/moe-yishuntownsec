@@ -6,11 +6,6 @@ description: ""
 ---
 <p><strong>Secondary 2 Subject Combination Briefing 16 May 2025 (Friday)</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ul>
 <p>This online briefing aims to help parents and students make informed decisions
 about subject combinations for Secondary 3 and to better understand the
 post-secondary pathways for this cohort.</p>
