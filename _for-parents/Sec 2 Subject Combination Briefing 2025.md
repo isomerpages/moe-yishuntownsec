@@ -20,12 +20,12 @@ post-secondary pathways for this cohort.</p>
 <p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Event</p>
+<p>Event &amp; Zoom Links</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.45 pm</p>
+<p>4.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Webinar Registration: <a rel="noopener noreferrer nofollow" target="_blank">https://zoom.us/j/98306484373?pwd=13LoMbFkXBkpzj82HR0bjblw64ncnM.1</a>
@@ -35,7 +35,7 @@ post-secondary pathways for this cohort.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5.00 pm</p>
+<p>5.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal’s Address</p>
@@ -43,7 +43,7 @@ post-secondary pathways for this cohort.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5.20 pm</p>
+<p>5.20pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Master’s Address</p>
@@ -51,7 +51,7 @@ post-secondary pathways for this cohort.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5.45 pm</p>
+<p>5.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Briefing on Secondary 3 Subject Combination</p>
@@ -69,7 +69,7 @@ excel)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7.00 pm</p>
+<p>7.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>End of Session</p>
