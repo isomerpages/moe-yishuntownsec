@@ -56,16 +56,16 @@ post-secondary pathways for this cohort.</p>
 <td rowspan="1" colspan="1">
 <p>Briefing on Secondary 3 Subject Combination</p>
 <p></p>
-<p>&nbsp;If your child takes mostly G3 subjects, remain in the same Webinar.&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">https://zoom.us/j/98306484373?pwd=13LoMbFkXBkpzj82HR0bjblw64ncnM.1</a>(passcode:
+<p>&nbsp;If your child takes <strong>all or mostly G3 subjects</strong>, remain
+in the same Webinar.&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://zoom.us/j/98306484373?pwd=13LoMbFkXBkpzj82HR0bjblw64ncnM.1</a>(passcode:
 excel)</p>
 <p>&nbsp;</p>
-<p>If your child takes mostly G2 subjects, proceed to the following Webinar:
-<a rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/68817176794?pwd=dSEOpTaxV7g1QbxGqnEQHBkZsVWTaC.1</a>(passcode:
+<p>If your child takes <strong>all or mostly G2 subjects</strong>, proceed
+to the following Webinar: <a rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/68817176794?pwd=dSEOpTaxV7g1QbxGqnEQHBkZsVWTaC.1</a>(passcode:
 excel)</p>
 <p>&nbsp;</p>
-<p>If your child takes mostly G1 subjects, proceed to the following Webinar:
-<a rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/61560367057?pwd=jrjA4bsxvnRAdAqWl7C13osC0lwMj6.1</a>(Passcode:
+<p>If your child takes <strong>all or mostly G1 subjects</strong>, proceed
+to the following Webinar: <a rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/61560367057?pwd=jrjA4bsxvnRAdAqWl7C13osC0lwMj6.1</a>(Passcode:
 excel)</p>
 <p>&nbsp;</p>
 <p></p>
