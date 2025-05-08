@@ -220,7 +220,7 @@ will also be informed via email.</p>
 <p>DSA-Sec SchoolFinder</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/dsa-secfaqs" rel="noopener nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
 </p>
 </td>
 </tr>
