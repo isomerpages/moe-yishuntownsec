@@ -60,11 +60,15 @@ post-secondary pathways for this cohort.</p>
 <a rel="noopener noreferrer nofollow" target="_blank">https://zoom.us/j/98306484373?pwd=13LoMbFkXBkpzj82HR0bjblw64ncnM.1</a>(passcode:
 excel)</p>
 <p>&nbsp;</p>
-<p>If your child takes mostly G2 subjects, proceed to the following Webinar:</p>
+<p>If your child takes mostly G2 subjects, proceed to the following Webinar:
+<a rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/68817176794?pwd=dSEOpTaxV7g1QbxGqnEQHBkZsVWTaC.1</a>(passcode:
+excel)</p>
 <p>&nbsp;</p>
-<p>If your child takes mostly G1 subjects, proceed to the following Webinar:</p>
+<p>If your child takes mostly G1 subjects, proceed to the following Webinar:
+<a rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/61560367057?pwd=jrjA4bsxvnRAdAqWl7C13osC0lwMj6.1</a>(Passcode:
+excel)</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
