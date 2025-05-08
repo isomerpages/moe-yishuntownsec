@@ -28,9 +28,8 @@ post-secondary pathways for this cohort.</p>
 <p>4.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Webinar Registration: <a rel="noopener noreferrer nofollow" target="_blank">https://zoom.us/j/98306484373?pwd=13LoMbFkXBkpzj82HR0bjblw64ncnM.1</a>
-</p>
-<p>(passcode: excel)</p>
+<p>Webinar Registration: <a href="https://zoom.us/j/98306484373?pwd=13LoMbFkXBkpzj82HR0bjblw64ncnM.1" rel="noopener noreferrer nofollow" target="_blank">https://zoom.us/j/98306484373?pwd=13LoMbFkXBkpzj82HR0bjblw64ncnM.1</a>(passcode:
+excel)</p>
 </td>
 </tr>
 <tr>
@@ -57,15 +56,15 @@ post-secondary pathways for this cohort.</p>
 <p>Briefing on Secondary 3 Subject Combination</p>
 <p></p>
 <p>&nbsp;If your child takes <strong>all or mostly G3 subjects</strong>, remain
-in the same Webinar.&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://zoom.us/j/98306484373?pwd=13LoMbFkXBkpzj82HR0bjblw64ncnM.1</a>(passcode:
+in the same Webinar.&nbsp; <a href="https://zoom.us/j/98306484373?pwd=13LoMbFkXBkpzj82HR0bjblw64ncnM.1" rel="noopener noreferrer nofollow" target="_blank">https://zoom.us/j/98306484373?pwd=13LoMbFkXBkpzj82HR0bjblw64ncnM.1</a>(passcode:
 excel)</p>
 <p>&nbsp;</p>
 <p>If your child takes <strong>all or mostly G2 subjects</strong>, proceed
-to the following Webinar: <a rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/68817176794?pwd=dSEOpTaxV7g1QbxGqnEQHBkZsVWTaC.1</a>(passcode:
+to the following Webinar: <a href="https://moe-singapore.zoom.us/j/68817176794?pwd=dSEOpTaxV7g1QbxGqnEQHBkZsVWTaC.1" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/68817176794?pwd=dSEOpTaxV7g1QbxGqnEQHBkZsVWTaC.1</a>(passcode:
 excel)</p>
 <p>&nbsp;</p>
 <p>If your child takes <strong>all or mostly G1 subjects</strong>, proceed
-to the following Webinar: <a rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/61560367057?pwd=jrjA4bsxvnRAdAqWl7C13osC0lwMj6.1</a>(Passcode:
+to the following Webinar: <a href="https://moe-singapore.zoom.us/j/61560367057?pwd=jrjA4bsxvnRAdAqWl7C13osC0lwMj6.1" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/61560367057?pwd=jrjA4bsxvnRAdAqWl7C13osC0lwMj6.1</a>(Passcode:
 excel)</p>
 <p>&nbsp;</p>
 </td>
