@@ -68,7 +68,6 @@ excel)</p>
 to the following Webinar: <a rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/61560367057?pwd=jrjA4bsxvnRAdAqWl7C13osC0lwMj6.1</a>(Passcode:
 excel)</p>
 <p>&nbsp;</p>
-<p></p>
 </td>
 </tr>
 <tr>
