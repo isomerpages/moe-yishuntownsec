@@ -4,7 +4,7 @@ permalink: /sec-2-subject-combination-briefing-2025/
 variant: tiptap
 description: ""
 ---
-<p><strong>Secondary 2 Subject Combination Briefing 16 May 2025 (Friday)</strong>
+<p><strong>Secondary 3 Subject Combination Briefing 16 May 2025 (Friday)</strong>
 </p>
 <p>This online briefing aims to help parents and students make informed decisions
 about subject combinations for Secondary 3 and to better understand the
@@ -61,7 +61,7 @@ excel)</p>
 the same Webinar.&nbsp; <a href="https://zoom.us/j/96689405176?pwd=XoDHazL2Y0CEa69g9MADQxG7TDGALE.1" rel="noopener noreferrer nofollow" target="_blank">https://zoom.us/j/96689405176?pwd=XoDHazL2Y0CEa69g9MADQxG7TDGALE.1</a>(passcode:
 excel)</p>
 <p>&nbsp;</p>
-<p>If your child takes <strong>G2 or G2/G1 subjects</strong>, proceed to the
+<p>If your child takes <strong>G2 or G2/G3 subjects</strong>, proceed to the
 following Webinar: <a href="https://moe-singapore.zoom.us/j/68817176794?pwd=dSEOpTaxV7g1QbxGqnEQHBkZsVWTaC.1" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/68817176794?pwd=dSEOpTaxV7g1QbxGqnEQHBkZsVWTaC.1</a>(passcode:
 excel)</p>
 <p>&nbsp;</p>
