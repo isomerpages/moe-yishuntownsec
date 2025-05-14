@@ -28,8 +28,10 @@ post-secondary pathways for this cohort.</p>
 <p>4.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Webinar Registration: <a href="https://zoom.us/j/98306484373?pwd=13LoMbFkXBkpzj82HR0bjblw64ncnM.1" rel="noopener noreferrer nofollow" target="_blank">https://zoom.us/j/98306484373?pwd=13LoMbFkXBkpzj82HR0bjblw64ncnM.1</a>(passcode:
+<p>Webinar Registration: <a href="https://zoom.us/j/96689405176?pwd=XoDHazL2Y0CEa69g9MADQxG7TDGALE.1" rel="noopener noreferrer nofollow" target="_blank">https://zoom.us/j/96689405176?pwd=XoDHazL2Y0CEa69g9MADQxG7TDGALE.1</a>(passcode:
 excel)</p>
+<p></p>
+<p>Webinar ID: 966 8940 5176</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +58,7 @@ excel)</p>
 <p>Briefing on Secondary 3 Subject Combination</p>
 <p></p>
 <p>&nbsp;If your child takes <strong>only G3 subjects</strong>, remain in
-the same Webinar.&nbsp; <a href="https://zoom.us/j/98306484373?pwd=13LoMbFkXBkpzj82HR0bjblw64ncnM.1" rel="noopener noreferrer nofollow" target="_blank">https://zoom.us/j/98306484373?pwd=13LoMbFkXBkpzj82HR0bjblw64ncnM.1</a>(passcode:
+the same Webinar.&nbsp; <a href="https://zoom.us/j/96689405176?pwd=XoDHazL2Y0CEa69g9MADQxG7TDGALE.1" rel="noopener noreferrer nofollow" target="_blank">https://zoom.us/j/96689405176?pwd=XoDHazL2Y0CEa69g9MADQxG7TDGALE.1</a>(passcode:
 excel)</p>
 <p>&nbsp;</p>
 <p>If your child takes <strong>G2 or G2/G1 subjects</strong>, proceed to the
