@@ -4,6 +4,12 @@ permalink: /ytss-virtual-open-day-2025/
 variant: tiptap
 description: ""
 ---
+<p>&lt;Updated Sat 24 May&gt;</p>
+<p>Dear Parents &amp; Prospective Primary School students, attached is the
+deck of slides presented by our Principal during the E Open Day:</p>
+<p><a href="/files/Principal_s_Slides_for_E_Open_Day_2025__for_sharing__.pdf" rel="noopener nofollow" target="_blank">Principal's Slides for E-Open Day (Click to View)</a>
+</p>
+<hr>
 <p>We are delighted to have you here with us. Here at YTSS, we believe in
 the spirit of excellence, the belief that every child can and will EXCEL.</p>
 <p>As one of only 28 autonomous schools in Singapore, YTSS has additional
