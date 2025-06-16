@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Sec 2 Subject Combination Briefing 2025.md
       - School Calendar.md
       - Sale of School Uniforms & Textbooks for 2025 (Sec 2 to 5).md
       - Parents Gateway.md
