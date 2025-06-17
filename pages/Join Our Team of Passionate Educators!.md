@@ -28,56 +28,47 @@ and futures. See your influence grow in our vibrant learning community.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Biology)</strong>
-</p>
+<p>Senior Teacher (Biology)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Mathematics)</strong>
-</p>
+<p>Senior Teacher (Mathematics)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Lead Teacher (English Language)</strong>
-</p>
+<p>Lead Teacher (English Language)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Food and Consumer Education Teacher</strong>
-</p>
+<p>Food and Consumer Education Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Physics Teacher</strong>
-</p>
+<p>Physics Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Computing Teacher</strong>
-</p>
+<p>Computing Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>English Language Teacher</strong>
-</p>
+<p>English Language Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Design and Technology Teacher</strong>
-</p>
+<p>Design and Technology Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mathematics Teacher</strong>
-</p>
+<p>Mathematics Teacher</p>
 </td>
 </tr>
 </tbody>
