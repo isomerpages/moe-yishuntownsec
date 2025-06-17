@@ -28,7 +28,7 @@ and futures. See your influence grow in our vibrant learning community.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Biology)</p>
+<p>Lead Teacher (English Language)</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ and futures. See your influence grow in our vibrant learning community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher (English Language)</p>
+<p>Senior Teacher (Biology)</p>
 </td>
 </tr>
 <tr>
