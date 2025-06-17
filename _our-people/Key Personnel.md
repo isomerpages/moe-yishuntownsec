@@ -84,6 +84,17 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Muhammad Tirmidzi Bin Abdul Ghani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Leow Geok Kuan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -110,17 +121,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Mathematics)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Tirmidzi Bin Abdul Ghani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
 </td>
 </tr>
 <tr>
@@ -374,17 +374,6 @@ Education &amp; Co-Curricular Activities)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Geography)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Rosalind Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher (Mathematics)</p>
 </td>
 </tr>
 <tr>

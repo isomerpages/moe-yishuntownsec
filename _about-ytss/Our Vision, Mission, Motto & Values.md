@@ -13,10 +13,10 @@ variant: tiptap
 <p>Transforming Hearts and Minds, Nurturing Future-Ready Leaders of Character
 and Distinction</p>
 <h3>Our Values</h3>
-<p>Integrity we uphold&nbsp;
-<br>Respect we show&nbsp;
-<br>Gratitude we express&nbsp;
-<br>Resilience we develop</p>
+<p>Integrity
+<br>Respect
+<br>Gratitude
+<br>Resilience</p>
 <h3>School Motto &amp; Logo</h3>
 <h5>School Motto</h5>
 <p>We Will Excel!</p>
