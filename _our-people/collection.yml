@@ -2,9 +2,9 @@ collections:
   our-people:
     output: true
     order:
-      - Join Our Team of Passionate Educators!.md
       - Key Personnel.md
       - Year Masters & Form Teachers.md
       - School Advisory Committee.md
       - Parent Support Group.md
       - Yishun Town Alumni.md
+      - Join Our Team of Passionate Educators!.md
