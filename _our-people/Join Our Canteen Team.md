@@ -46,7 +46,7 @@ experience is preferred.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The application form is available at our school's General Office (6 Yishun
-Street 21 Singapore 768610) or can be downloaded here.</p>
+Street 21 Singapore 768610) or can be downloaded <a href="/files/canteen_application_form_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
 <p>Interested applicants must submit the following documents:</p>
