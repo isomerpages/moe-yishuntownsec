@@ -82,11 +82,7 @@ to provide food sampling at the applicant’s own expense.</p>
 <p>Successful applicant will be expected to commence operation of the stall
 from August 2025.</p>
 </li>
-<li>
-<p>Closing date for application: <strong>11 July 2025 (Friday), 1 pm</strong>.</p>
-</li>
-<li>
-<p>Please contact the school at <strong>67587219</strong> for any clarifications.</p>
-</li>
 </ul>
+<p>Closing date for application: <strong>11 July 2025 (Friday), 1 pm</strong>.</p>
+<p>Please contact the school at <strong>67587219</strong> for any clarifications.</p>
 <p></p>
