@@ -274,7 +274,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Loh Siew&nbsp;Chian</p>
+<p>Ms Chong Wei Lian Deborah</p>
 </td>
 </tr>
 <tr>
@@ -435,7 +435,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noorshakina Binte Jemahat</p>
+<p>Ms Lee Puay Shan</p>
 </td>
 </tr>
 <tr>
@@ -588,7 +588,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Mei Ling Rosalind</p>
+<p>Mdm Kew Sook Chiun</p>
 </td>
 </tr>
 <tr>
