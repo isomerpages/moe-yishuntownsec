@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>Yishun Town Secondary School has a vacancy for a canteen stall selling
-halal western food/rice/noodles.</p>
+halal Indian Muslim food.</p>
 <h4>1. Criteria</h4>
 <ul data-tight="true" class="tight">
 <li>
