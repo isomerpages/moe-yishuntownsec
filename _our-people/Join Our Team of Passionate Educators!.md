@@ -71,6 +71,11 @@ and futures. See your influence grow in our vibrant learning community.</p>
 <p>Mathematics Teacher</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physical Education Teacher</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Experience Our School Culture Firsthand:</strong>
