@@ -18,4 +18,7 @@ sections:
         - title: DSA Information for YTSS in 2025
           description: Click to find out more!
           url: https://www.yishuntownsec.moe.edu.sg/dsa-information-for-ytss-in-2025/
+        - title: Join Our Canteen Team
+          description: Click to find out more!
+          url: https://www.yishuntownsec.moe.edu.sg/join-our-team-of-dedicated-canteen-vendors/
 ---
