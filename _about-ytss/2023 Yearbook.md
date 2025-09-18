@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p>To view our 2023 Yearbook, click on the cover page of the yearbook below.</p>
-<a class="isomer-image-wrapper" href="https://online.fliphtml5.com/cjnla/lozf/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_Yearbook_Image.png">
-</a>
+<p>To view our 2024 Yearbook, click on the cover page of the yearbook below.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yearbook_2024_Cover.jpg">
+</div>
 <p></p>
