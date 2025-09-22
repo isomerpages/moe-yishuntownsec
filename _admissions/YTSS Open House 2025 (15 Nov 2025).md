@@ -17,7 +17,7 @@ offer.</p>
 </p>
 <p>Time: <strong>8:30 AM - 12:30 PM⁠⁠​</strong>
 </p>
-<p>Do visit our website closer to the date as more information will be provided
-here.</p>
-<p>Mark your calendars and be part of the YTSS Open House! We look forward
-to welcoming you to our YTSS family!</p>
+<p>Do visit our website again closer to the date as more information will
+be provided here.</p>
+<p>Mark your calendars and be part of the YTSS Open House!</p>
+<p>We look forward to welcoming you to our YTSS family!</p>
