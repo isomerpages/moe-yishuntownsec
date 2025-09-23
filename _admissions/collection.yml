@@ -2,8 +2,6 @@ collections:
   admissions:
     output: true
     order:
-      - DSA Information for YTSS in 2025.md
-      - YTSS Virtual Open Day 2025.md
       - Our Publications.md
       - 2025 Sec 1 E Registration/.keep
       - 2025 Sec 1 E Registration/Overview of Sec 1 E Registration 2025 & Other
@@ -14,4 +12,6 @@ collections:
       - 2025 Sec 1 E Registration/Mother Tongue Languages and Third Language.md
       - 2025 Sec 1 E Registration/Art and Music Elective Programmes.md
       - 2025 Sec 1 E Registration/Appeal for Transfer to YTSS.md
-      - YTSS Open House 2024 (Sat, 16 Nov).md
+      - DSA Information for YTSS in 2025.md
+      - YTSS Virtual Open Day 2025.md
+      - YTSS Open House 2025 (15 Nov 2025).md
