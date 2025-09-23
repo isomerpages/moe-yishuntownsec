@@ -15,9 +15,9 @@ sections:
         - title: Join our Team of Passionate Educators
           description: Click to find out more!
           url: https://www.yishuntownsec.moe.edu.sg/join-our-passionate-educators/
-        - title: DSA Information for YTSS in 2025
+        - title: YTSS Open House 2025
           description: Click to find out more!
-          url: https://www.yishuntownsec.moe.edu.sg/dsa-information-for-ytss-in-2025/
+          url: https://www.yishuntownsec.moe.edu.sg/oh2025
         - title: Join Our Canteen Team
           description: Click to find out more!
           url: https://www.yishuntownsec.moe.edu.sg/join-our-team-of-dedicated-canteen-vendors/
