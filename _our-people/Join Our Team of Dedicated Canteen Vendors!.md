@@ -4,8 +4,8 @@ permalink: /join-our-team-of-dedicated-canteen-vendors/
 variant: tiptap
 description: ""
 ---
-<p>Yishun Town Secondary School has a vacancy for a halal stall selling Indian
-Muslim food.</p>
+<p>Yishun Town Secondary School has a vacancy for a halal stall selling noodles
+or Indian Muslim food.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Criteria</strong>
@@ -98,10 +98,10 @@ to provide food sampling at the applicant’s own expense.</p>
 </li>
 <li>
 <p>Successful applicant will be expected to commence operation of the stall
-from <strong>22 September 2025</strong>.</p>
+from <strong>2 January 2026</strong>.</p>
 </li>
 <li>
-<p>Closing date for application: <strong>22 August 2025 (Friday) at 1 pm</strong>.</p>
+<p>Closing date for application: <strong>17 October 2025 (Friday) at 1 pm</strong>.</p>
 </li>
 <li>
 <p>Please contact the school at 67587219 for any clarifications.</p>
