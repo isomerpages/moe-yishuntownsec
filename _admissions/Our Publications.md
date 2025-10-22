@@ -39,8 +39,9 @@ you may wish to download our various publicity materials.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_04_27_at_3_45_02_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yearbook_2024_Cover.jpg">
 </div>
 </td>
 </tr>
