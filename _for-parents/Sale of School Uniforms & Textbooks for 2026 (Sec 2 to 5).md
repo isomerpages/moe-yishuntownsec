@@ -4,10 +4,19 @@ permalink: /parents-links/sale-of-school-uniforms-n-textbooks-for-2026-sec-2-5/
 description: ""
 variant: tiptap
 ---
-<p>Dear Parents/Guardians,</p>
+<p>Dear Parents/Guardians</p>
 <p>The information for sale of school uniforms and textbooks can be found
 below.</p>
-<p>Please download the relevant file based on your child's level and course
+<p>To minimize the waiting time for the purchase of school uniforms and textbooks
+for 2026, we are encouraging students to make their purchases via the suppliers’
+online platforms from <strong>27 Oct 2025 (Mon)</strong> to <strong>14 Dec 2025 (Sun)</strong> for
+home delivery.</p>
+<p>Students are encouraged to purchase their items early to avoid overcrowding
+at the bookshop. The sale of school uniforms and textbooks in school between
+22 Dec 2025 (Mon) and 26 Dec 2025 (Fri) are strictly for the 2026 Sec 1
+cohort only.</p>
+<p>Please download the "Year End Sale of School Uniform &amp; Textbook for
+2026" document and the relevant booklist based on your child/ward's level
 of study.</p>
 <ol data-tight="true" class="tight">
 <li>
