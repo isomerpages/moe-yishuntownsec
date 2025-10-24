@@ -18,7 +18,7 @@ sections:
         - title: YTSS Open House 2025
           description: Click to find out more!
           url: https://www.yishuntownsec.moe.edu.sg/oh2025
-        - title: Join Our Canteen Team
+        - title: Sale of School Uniform & Textbooks for 2026 (Sec 2 to Sec 5)
           description: Click to find out more!
-          url: https://www.yishuntownsec.moe.edu.sg/join-our-team-of-dedicated-canteen-vendors/
+          url: https://www.yishuntownsec.moe.edu.sg/parents-links/sale-of-school-uniforms-n-textbooks-for-2026-sec-2-5/
 ---
