@@ -10,6 +10,6 @@ for the Government School within MOE’s policy framework, leveraging on
 the members’ expertise, diverse perspectives and experiences. The partnership
 will bring the school to greater heights.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_Member_Board_pptx__5_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_Member_Board_pptx__10_.png">
 </div>
 <p></p>
