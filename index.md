@@ -12,9 +12,6 @@ sections:
       url: https://www.yishuntownsec.moe.edu.sg/ytss-virtual-open-day-2025/
       variant: center
       key_highlights:
-        - title: Join our Team of Passionate Educators
-          description: Click to find out more!
-          url: https://www.yishuntownsec.moe.edu.sg/join-our-passionate-educators/
         - title: YTSS Open House 2025
           description: Click to find out more!
           url: https://www.yishuntownsec.moe.edu.sg/oh2025
