@@ -19,7 +19,7 @@ offer.</p>
 </p>
 <p>Please refer to the programme outline below for more details.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_YTSS_Open_House_Programme.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_YTSS_Open_House_Programme_Lower_Res.jpg">
 </div>
 <p>Mark your calendars and be part of our YTSS Open House!</p>
 <p>We look forward to welcoming you to our YTSS family!</p>
