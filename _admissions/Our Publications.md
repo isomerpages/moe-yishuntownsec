@@ -12,7 +12,6 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_YTSS_Open_House_Programme_Lower_Res.jpg">
 </div>
@@ -20,6 +19,10 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_YTSS_Open_House_Route_Map.jpg">
+</div>
 <p>To give you a better understanding of our people, programme and processes,
 you may wish to download our various publicity materials.</p>
 <table style="minWidth: 75px">
