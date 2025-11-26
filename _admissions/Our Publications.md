@@ -4,7 +4,6 @@ permalink: /about-us/permalink/
 variant: tiptap
 description: ""
 ---
-<h4><strong>2025 Open House Programme</strong></h4>
 <p>To give you a better understanding of our people, programme and processes,
 you may wish to download our various publicity materials.</p>
 <table style="minWidth: 75px">
