@@ -13,7 +13,8 @@ description: ""
 <p>You can now view the slides presented by <strong>our Principal, Mr Ng</strong>,
 during our <strong>Open House</strong>. Discover what makes YTSS a vibrant,
 fun and nurturing place for learning!</p>
-<p>Access the slides here:</p>
+<p>Access the slides here: <a href="https://drive.google.com/file/d/1Q5Y0KakkFngW1egqAgEEWK2Tl9PNppr_/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 YTSS Open House Principal's Sharing Slides</a>
+</p>
 <p>_______________________________________________________________</p>
 <p>Join us for our Open House 2025, where you can experience first-hand our
 vibrant school community, explore our campus, meet our dedicated staff
