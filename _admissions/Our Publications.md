@@ -5,24 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>2025 Open House Programme</strong></h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_YTSS_Open_House_Programme_Lower_Res.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_YTSS_Open_House_Route_Map.jpg">
-</div>
 <p>To give you a better understanding of our people, programme and processes,
 you may wish to download our various publicity materials.</p>
 <table style="minWidth: 75px">
@@ -58,7 +40,6 @@ you may wish to download our various publicity materials.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yearbook_2024_Cover.jpg">
 </div>
