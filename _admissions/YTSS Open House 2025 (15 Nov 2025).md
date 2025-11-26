@@ -5,6 +5,17 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>YTSS OPEN HOUSE 2025</strong></h4>
+<p><em>[Updated on 26 Nov 2025]</em>
+</p>
+<p><strong>Dear Parents, Guardians &amp; Prospective Students,</strong>
+</p>
+<p>Thank you for joining us at our Open House this year!</p>
+<p>You can now view the slides presented by <strong>our Principal, Mr Ng</strong>,
+during our <strong>Open House</strong>. Discover what makes YTSS a vibrant,
+fun and nurturing place for learning!</p>
+<p>Access the slides here: <a href="https://drive.google.com/file/d/1Q5Y0KakkFngW1egqAgEEWK2Tl9PNppr_/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 YTSS Open House Principal's Sharing Slides</a>
+</p>
+<p>_______________________________________________________________</p>
 <p>Join us for our Open House 2025, where you can experience first-hand our
 vibrant school community, explore our campus, meet our dedicated staff
 and learn about the opportunities and unique programmes that we have to
