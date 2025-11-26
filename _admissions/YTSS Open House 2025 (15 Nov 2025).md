@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>YTSS OPEN HOUSE 2025</strong></h4>
-<p><em>[Update 25 Nov 2025]</em>
+<p><em>[Updated on 26 Nov 2025]</em>
 </p>
 <p><strong>Dear Parents, Guardians &amp; Prospective Students,</strong>
 </p>
