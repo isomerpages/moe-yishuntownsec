@@ -24,19 +24,15 @@ of study.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/YTSS_Booklist_2025_S2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Booklist</a>
+<p><a href="/files/YTSS_Booklist_S2__2026_Final___Amend__.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/YTSS_Booklist_2025_S3.pdf" rel="noopener nofollow" target="_blank">Sec 3 Booklist</a>
+<p><a href="/files/YTSS_Booklist_S3__2026_Final___Amend__.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/YTSS_Booklist_2025_S4.pdf" rel="noopener nofollow" target="_blank">Sec 4 Booklist</a>
-</p>
-</li>
-<li>
-<p><a href="/files/YTSS_Booklist_2025_S5.pdf" rel="noopener nofollow" target="_blank">Sec 5 Booklist</a>
+<p><a href="/files/YTSS_Booklist_S4__2026_Final___Amend__.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 Booklist</a>
 </p>
 </li>
 </ol>
