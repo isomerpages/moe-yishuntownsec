@@ -35,6 +35,10 @@ of study.</p>
 <p><a href="/files/YTSS_Booklist_S4__2026_Final___Amend__.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 Booklist</a>
 </p>
 </li>
+<li>
+<p><a href="/files/YTSS_Booklist_S5__2026_Final___Amend__.pdf" rel="noopener nofollow" target="_blank">2026 Sec 5 Booklist</a>
+</p>
+</li>
 </ol>
 <p>Should you face any difficulties, please contact our General Office at
 67587219.</p>
