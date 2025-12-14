@@ -75,8 +75,8 @@ variant: tiptap
 <p>Ms Goh Chai Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dean, Student All-Round Development, Sec 2 Year Master, Head of Department
-(Pupil Welfare)</p>
+<p>Dean, Student All-Round Development, Head of Department (Pupil Welfare),
+Sec 2 Year Master</p>
 </td>
 </tr>
 <tr>
@@ -120,7 +120,8 @@ variant: tiptap
 <p>Mr Karthikesan s/o Kumar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Physical Education &amp; Co-Curricular Activities)</p>
+<p>Head of Department (Physical Education &amp; Co-Curricular Activities),
+Sec 4 Asst. Year Master</p>
 </td>
 </tr>
 <tr>
@@ -153,7 +154,8 @@ variant: tiptap
 <p>Mrs Lynn Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4 Year Master, Head of Department (Character &amp; Citizenship Education)</p>
+<p>Head of Department (Character &amp; Citizenship Education), Sec 4 Year
+Master</p>
 </td>
 </tr>
 <tr>
@@ -330,7 +332,19 @@ Language &amp; Literature) (Covering)</p>
 <p>Mr Nurul Hafiz Bin Shamsudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Student Management) (Covering)</p>
+<p>Subject Head (Student Management) (Covering), Sec 3 Asst. Year Master
+(Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ryan Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 Asst. Year Master (Covering)</p>
 </td>
 </tr>
 <tr>
