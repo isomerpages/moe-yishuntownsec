@@ -5,17 +5,13 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Steering Committee</strong></h2>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <th rowspan="1" colspan="1">
 <p>Name of Member</p>
 </th>
@@ -25,9 +21,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Koh Chee Hui</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -35,9 +28,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kathleen Ch'ng</p>
 </td>
@@ -47,9 +37,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Allan Goh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -58,9 +45,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Kong Chui Lin Rebecca</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,9 +52,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Chai Peng</p>
 </td>
@@ -81,9 +62,6 @@ Sec 2 Year Master</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Shereen Naaz Charles Syariff</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,9 +69,6 @@ Sec 2 Year Master</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Leow Geok Kuan</p>
 </td>
@@ -103,9 +78,6 @@ Sec 2 Year Master</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Janice Gan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -113,9 +85,6 @@ Sec 2 Year Master</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Karthikesan s/o Kumar</p>
 </td>
@@ -126,9 +95,6 @@ Sec 4 Asst. Year Master</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Ng Wei Kwang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,9 +103,6 @@ Sec 4 Asst. Year Master</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Sim Lee Yong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -147,9 +110,6 @@ Sec 4 Asst. Year Master</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mrs Lynn Ong</p>
 </td>
@@ -160,9 +120,6 @@ Master</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Chua Weiqiang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -170,9 +127,6 @@ Master</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Siew Yan</p>
 </td>
@@ -182,9 +136,6 @@ Master</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Zhang Jinjuan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -192,9 +143,6 @@ Master</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mrs Lynette Lui</p>
 </td>
@@ -205,9 +153,6 @@ Language &amp; Literature) (Covering)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Alan Chew</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,9 +160,6 @@ Language &amp; Literature) (Covering)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Teck Chye</p>
 </td>
@@ -227,9 +169,6 @@ Language &amp; Literature) (Covering)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Sandra Yam</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -237,9 +176,6 @@ Language &amp; Literature) (Covering)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Joe Hioa</p>
 </td>
@@ -249,9 +185,6 @@ Language &amp; Literature) (Covering)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Soh Soon Huat</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -259,9 +192,6 @@ Language &amp; Literature) (Covering)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr R Yuvindran</p>
 </td>
@@ -271,9 +201,6 @@ Language &amp; Literature) (Covering)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Wong Hsu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -281,9 +208,6 @@ Language &amp; Literature) (Covering)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Adibah Bte Mazeli</p>
 </td>
@@ -293,9 +217,6 @@ Language &amp; Literature) (Covering)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Tay Yinmin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -303,9 +224,6 @@ Language &amp; Literature) (Covering)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Patrick Tong</p>
 </td>
@@ -315,9 +233,6 @@ Language &amp; Literature) (Covering)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Alex Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -326,9 +241,6 @@ Language &amp; Literature) (Covering)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Nurul Hafiz Bin Shamsudin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -336,9 +248,6 @@ Language &amp; Literature) (Covering)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Wai Wee Lian</p>
 </td>
@@ -349,17 +258,13 @@ Language &amp; Literature) (Covering)</p>
 </tbody>
 </table>
 <h2><strong>Teacher Leaders</strong></h2>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
@@ -369,9 +274,6 @@ Language &amp; Literature) (Covering)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Zhang Jinjuan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -379,9 +281,6 @@ Language &amp; Literature) (Covering)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Chiang Lee Ngang</p>
 </td>
@@ -391,9 +290,6 @@ Language &amp; Literature) (Covering)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Mageswari d/o Salverraju</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -401,9 +297,6 @@ Language &amp; Literature) (Covering)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Rozianna Bte Mohammed Affendi</p>
 </td>
@@ -413,9 +306,6 @@ Language &amp; Literature) (Covering)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Noraidilah Mohamed Nasir</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -423,9 +313,6 @@ Language &amp; Literature) (Covering)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Norhafiz Bin Samsudin</p>
 </td>
