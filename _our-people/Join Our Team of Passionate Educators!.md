@@ -19,65 +19,6 @@ your teaching practice while maintaining your passion for education.</p>
 <p>✨ <strong>Make Lasting Impact</strong>
 <br>Be part of a team where every lesson shapes not just minds, but character
 and futures. See your influence grow in our vibrant learning community.</p>
-<p><strong>We're Currently Welcoming Educators for these Roles:</strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher (English Language)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher (Mathematics)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher (Biology)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Food and Consumer Education Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Physics Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Computing Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>English Language Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Design and Technology Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Physical Education Teacher</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Experience Our School Culture Firsthand:</strong>
 <br>Get to know our vibrant community by following us @yishuntownsec on Instagram.</p>
 <p><strong>How to Apply:</strong>
