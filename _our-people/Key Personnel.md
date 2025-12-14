@@ -32,8 +32,7 @@ variant: tiptap
 <p>Mdm Kathleen Ch'ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-<p>(Student &amp; Faculty Development)</p>
+<p>Vice-Principal (Student &amp; Faculty Development)</p>
 </td>
 </tr>
 <tr>
@@ -323,5 +322,4 @@ Language &amp; Literature) (Covering)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
