@@ -332,19 +332,7 @@ Language &amp; Literature) (Covering)</p>
 <p>Mr Nurul Hafiz Bin Shamsudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Student Management) (Covering), Sec 3 Asst. Year Master
-(Covering)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ryan Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 Asst. Year Master (Covering)</p>
+<p>Subject Head (Student Management) (Covering), Sec 3 Asst. Year Master</p>
 </td>
 </tr>
 <tr>
