@@ -28,7 +28,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Teo Heng</p>
+<p>Mr Koh Chee Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
@@ -75,7 +75,7 @@ variant: tiptap
 <p>Ms Goh Chai Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dean, Student All-Round Development, Sec 1 Year Master, Head of Department
+<p>Dean, Student All-Round Development, Sec 2 Year Master, Head of Department
 (Pupil Welfare)</p>
 </td>
 </tr>
@@ -84,7 +84,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Tirmidzi Bin Abdul Ghani</p>
+<p>Ms Shereen Naaz Charles Syariff</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
@@ -106,17 +106,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shereen Naaz Charles Syariff</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department (English Language &amp; Literature)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Janice Gan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,11 +117,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Marc Wo</p>
+<p>Mr Karthikesan s/o Kumar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Student Management), Covering Head of Department (Physical
-Education &amp; Co-Curricular Activities)</p>
+<p>Head of Department (Physical Education &amp; Co-Curricular Activities)</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +139,7 @@ Education &amp; Co-Curricular Activities)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nordiyana Bte Omar</p>
+<p>Mr Sim Lee Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Aesthetics &amp; Technology)</p>
@@ -165,7 +153,7 @@ Education &amp; Co-Curricular Activities)</p>
 <p>Mrs Lynn Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Year Master, Head of Department (Character &amp; Citizenship Education)</p>
+<p>Sec 4 Year Master, Head of Department (Character &amp; Citizenship Education)</p>
 </td>
 </tr>
 <tr>
@@ -173,10 +161,10 @@ Education &amp; Co-Curricular Activities)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ruziana Bte Zakaria</p>
+<p>Mr Chua Weiqiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Year Master</p>
+<p>Sec 3 Year Master</p>
 </td>
 </tr>
 <tr>
@@ -187,7 +175,7 @@ Education &amp; Co-Curricular Activities)</p>
 <p>Ms Tan Siew Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4&amp;5 Year Master</p>
+<p>Sec 1 Year Master</p>
 </td>
 </tr>
 <tr>
@@ -199,6 +187,18 @@ Education &amp; Co-Curricular Activities)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher (Chinese Language)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lynette Lui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (English Language &amp; Literature), Head of Department (English
+Language &amp; Literature) (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -221,17 +221,6 @@ Education &amp; Co-Curricular Activities)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (Chinese Language)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Lynette Lui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 2 Asst. Year Master, Subject Head (English Language &amp; Literature)</p>
 </td>
 </tr>
 <tr>
@@ -283,21 +272,10 @@ Education &amp; Co-Curricular Activities)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Weiqiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 3 Asst. Year Master, Subject Head (Educational Support)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Wong Hsu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Asst. Year Master</p>
+<p>Sec 2 Asst. Year Master</p>
 </td>
 </tr>
 <tr>
@@ -316,10 +294,43 @@ Education &amp; Co-Curricular Activities)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Yi Fan</p>
+<p>Ms Tay Yinmin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Covering Subject Head (Information &amp; Communications Technology)</p>
+<p>Subject Head (Information &amp; Communications Technology)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Patrick Tong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Internationalisation) (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alex Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Mathematics) (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Nurul Hafiz Bin Shamsudin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Student Management) (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -385,6 +396,39 @@ Education &amp; Co-Curricular Activities)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Tamil Language)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rozianna Bte Mohammed Affendi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Biology)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Noraidilah Mohamed Nasir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Character &amp; Citizenship Education)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Norhafiz Bin Samsudin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Physical Education)</p>
 </td>
 </tr>
 </tbody>
