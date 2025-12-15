@@ -25,11 +25,16 @@ CASCO, are:</p>
 <p>$14.20 for home delivery</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="2026 Sec 1 TB Purchase_Option 1" src="/images/QR_Code_for_2026_Sec_1_TB_Purchase_Option_1.jpg">
+</div>
 <p><strong><em><u>Option 2: via school’s bookshop</u></em> (from 22 Dec - 30 Dec 2025)</strong>
 </p>
-<p>This is by E-appointment <u>only.</u> Please log in to <a rel="noopener noreferrer nofollow" target="_blank">https://casco.as.me/?location=Yishun%20Town%20School%20Bookshop</a>
-</p>
-<p>or scan the QR Code to book an appointment.</p>
+<p>This is by E-appointment <u>only.</u> Please log in to <a rel="noopener noreferrer nofollow" target="_blank">https://casco.as.me/?location=Yishun%20Town%20School%20Bookshop</a> or
+scan the QR Code below to book an appointment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="2026 Sec 1 TB Purchase_Option 2" src="/images/QR_Code_for_2026_Sec_1_TB_Purchase_Option_2.jpg">
+</div>
 <p>The school's bookshop opening hours are as follows:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -85,6 +90,9 @@ the options available by the supplier, Kong Chong Pte Ltd, are:</p>
 with a delivery fee of $7.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="2026 Sec 1 Uniform Purchase_Option 1" src="/images/QR_Code_for_2026_Sec_1_Uniform_Purchase_Option_1.jpg">
+</div>
 <p><strong><em><u>Option 2: via school</u></em> (from 22 Dec to 30 Dec 2025)</strong>
 </p>
 <ul data-tight="true" class="tight">
