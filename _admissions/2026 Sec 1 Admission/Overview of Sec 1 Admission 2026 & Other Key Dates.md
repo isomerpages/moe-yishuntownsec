@@ -23,7 +23,8 @@ for your easy reference.</p>
 </p>
 </li>
 <li>
-<p>School chatbot:</p>
+<p>School chatbot: <a href="https://go.gov.sg/ytsschatbot2026" rel="noopener nofollow" target="_blank">go.gov.sg/ytsschatbot2026</a>
+</p>
 <p>(Please note that you will need to log in to your ChatGPT account to access
 the chatbot)</p>
 </li>
