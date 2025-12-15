@@ -18,7 +18,7 @@ is<strong> 25 Dec 2025, 11.59pm.</strong>
 CASCO, are:</p>
 <p><strong><em><u>Option 1: via online platform</u></em> (by 25 Dec 2025, 11.59pm)</strong>
 </p>
-<p>At <a rel="noopener noreferrer nofollow" target="_blank">https://cascoedusupply.com.sg</a>
+<p>At <a href="https://cascoedusupply.com.sg" rel="noopener nofollow" target="_blank">https://cascoedusupply.com.sg</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -30,7 +30,7 @@ CASCO, are:</p>
 </div>
 <p><strong><em><u>Option 2: via school’s bookshop</u></em> (from 22 Dec - 30 Dec 2025)</strong>
 </p>
-<p>This is by E-appointment <u>only.</u> Please log in to <a rel="noopener noreferrer nofollow" target="_blank">https://casco.as.me/?location=Yishun%20Town%20School%20Bookshop</a> or
+<p>This is by E-appointment <u>only.</u> Please log in to <a href="https://casco.as.me/?location=Yishun%20Town%20School%20Bookshop" rel="noopener nofollow" target="_blank">https://casco.as.me/?location=Yishun%20Town%20School%20Bookshop</a> or
 scan the QR Code below to book an appointment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="2026 Sec 1 TB Purchase_Option 2" src="/images/QR_Code_for_2026_Sec_1_TB_Purchase_Option_2.jpg">
@@ -86,7 +86,7 @@ the options available by the supplier, Kong Chong Pte Ltd, are:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>At <a rel="noopener noreferrer nofollow" target="_blank">https://www.euniforms.com.sg</a>,
+<p>At <a href="https://www.euniforms.com.sg" rel="noopener nofollow" target="_blank">https://www.euniforms.com.sg</a>,
 with a delivery fee of $7.</p>
 </li>
 </ul>
@@ -234,7 +234,7 @@ their uniform at the retail outlet and textbooks from the school’s bookshop.</
 <td rowspan="1" colspan="1">
 <p>6369 0788 (School Bookshop)</p>
 <p>6547 4204 (Casco Office)</p>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">order@cascoedusupply.com.sg</a>
+<p>Email: <a href="order@cascoedusupply.com.sg" rel="noopener nofollow" target="_blank">order@cascoedusupply.com.sg</a>
 </p>
 </td>
 </tr>
