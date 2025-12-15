@@ -10,7 +10,9 @@ third_nav_title: 2026 Sec 1 Admission
 our new Secondary 1 students on <strong>2, 5, 6 &amp; 7 Jan 2026</strong>.</p>
 <p><u>Overview of Orientation Programme</u>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="2026 Sec 1 Orientation Programme" src="/images/Sec_1_Orientation_Programme_2026.jpg">
+</div>
 <p>The Secondary 1 Orientation Programme includes the following:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -48,6 +50,9 @@ our new Secondary 1 students on <strong>2, 5, 6 &amp; 7 Jan 2026</strong>.</p>
 </p>
 <h3><strong>2. Other Information:</strong></h3>
 <p>Secondary 1 students will be attending lessons based on their class timetable,
-starting from&nbsp; <strong>8 Jan 2026</strong>. Please see the following
+starting from&nbsp;<strong>8 Jan 2026</strong>. Please see the following
 table for information.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026 Sec 1 Prog for 8 and 9 Jan" src="/images/Programme_for_8_and_9_Jan_2026.jpg">
+</div>
 <p></p>
