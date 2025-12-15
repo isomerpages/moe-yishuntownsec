@@ -6,7 +6,7 @@ description: ""
 third_nav_title: 2026 Sec 1 Admission
 ---
 <p>Dear Parents / Guardians</p>
-<p>To minimize the wait time for the purchase of school uniforms and textbooks
+<p>To minimize the wait time for the purchase of school uniform and textbooks
 for 2026, we strongly encourage you to make purchases via our suppliers’
 online platforms. &nbsp;More details are shown below for the respective
 suppliers. &nbsp;Please note that the deadline to make an online order
@@ -79,7 +79,7 @@ scan the QR Code below to book an appointment.</p>
 </tbody>
 </table>
 <hr>
-<h3>2. Purchase of School Uniforms</h3>
+<h3>2. Purchase of School Uniform</h3>
 <p>For the purchase of school uniforms (including PE attire, ties and socks),
 the options available by the supplier, Kong Chong Pte Ltd, are:</p>
 <p><strong><em><u>Option 1: via online platform</u></em> (by 25 Dec 2025, 11.59pm)</strong>
@@ -198,7 +198,7 @@ hours are:</p>
 </ol>
 <p>Applicants of MOE FAS will be notified by the school when their applications
 are approved. More information will be provided for the students to collect
-their uniforms at the retail outlet and textbooks from the school’s bookshop.</p>
+their uniform at the retail outlet and textbooks from the school’s bookshop.</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p><strong>Other Clarifications</strong>
