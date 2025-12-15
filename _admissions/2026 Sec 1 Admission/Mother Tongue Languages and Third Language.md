@@ -42,7 +42,7 @@ letter from CPDD).</p>
 <p>You will be receiving notification of your child’s application of Third
 language via PG.</p>
 <p>If your child has been offered the option to pursue a Third Language by
-Ministry of Education, <u>please register online at the posted centre's website between </u><strong><u>19 December 2025 – 2 January 2026</u></strong><u>.</u> 
+Ministry of Education, <u>please register online at the posted centre's website between </u><strong><u>19 December 2025 – 2 January 2026</u></strong><u>.</u>
 </p>
 <p>Please note that accepting the MOE offer for Third Language does not mean
 our school will register your child for the subject - parents must personally
