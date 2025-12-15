@@ -11,7 +11,7 @@ our new Secondary 1 students on <strong>2, 5, 6 &amp; 7 Jan 2026</strong>.</p>
 <p><u>Overview of Orientation Programme</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="2026 Sec 1 Orientation Programme" src="/images/Sec_1_Orientation_Programme_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2026 Sec 1 Orientation Programme" src="/images/Sec_1_Orientation_Programme_2026.jpg">
 </div>
 <p>The Secondary 1 Orientation Programme includes the following:</p>
 <ul data-tight="true" class="tight">
