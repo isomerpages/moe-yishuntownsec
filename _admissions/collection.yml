@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - 2026 Sec 1 Admission/Appeal for Transfer to YTSS.md
       - 2026 Sec 1 Admission/.keep
       - 2026 Sec 1 Admission/Overview of Sec 1 Admission 2026 & Other Key
         Dates.md
