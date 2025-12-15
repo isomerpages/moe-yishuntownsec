@@ -33,8 +33,8 @@ automatically mean that he or she is exempted from Mother Tongue Languages.</p>
 <li>
 <p>If your child has been exempted from Mother Tongue Languages in primary
 school or did not sit for Mother Tongue during PSLE, please email our Subject
-Head (Chinese Language), Mr Lim Teck Chye at&nbsp;lim_teck_chye@schools.gov.sg&nbsp;by
-23 December 2025, &nbsp;with relevant supporting details (e.g. exemption
+Head (Chinese Language), Mr Lim Teck Chye at&nbsp;<em>lim_teck_chye@schools.gov.sg</em>&nbsp;by
+23 December 2025, with the relevant supporting details (e.g. exemption
 letter from CPDD).</p>
 </li>
 </ol>
