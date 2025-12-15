@@ -22,6 +22,6 @@ Late submission will not be allowed.</p>
 to for further information by Monday, 22 December 2025, 12 pm.</p>
 <p>Non-Medical Reasons – please complete the form below by Wednesday, 24
 December 2025, 5 pm.</p>
-<p><a href="https://go.gov.sg/ytssseconetransfer2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ytssseconetransfer2026</a>
+<p><a href="https://go.gov.sg/ytssseconetransfer2026" rel="noopener nofollow" target="_blank">https://go.gov.sg/ytssseconetransfer2026</a>
 </p>
 <p></p>
