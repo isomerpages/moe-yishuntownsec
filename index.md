@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/landingpagenew.gif
-      button: Principal's slides for e-open day on 21 may
-      url: https://www.yishuntownsec.moe.edu.sg/ytss-virtual-open-day-2025/
+      button: Information for 2026 Sec 1 Admission
+      url: https://www.yishuntownsec.moe.edu.sg/overview-of-sec-1-admission-2026-other-key-dates/
       variant: center
       key_highlights:
         - title: YTSS Open House 2025
