@@ -17,6 +17,9 @@ to ask that you take some time to read through the information on Secondary
 subpages for the relevant information.</p>
 <p>An infographic highlighting the key activities and dates is provided here
 for your easy reference.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026 Sec 1 Admission Timeline Infographic" src="/images/2026_YTSS_Sec_1_Admission_Timeline.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>School website: <a href="https://www.yishuntownsec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Yishun Town Secondary School</u></a>
