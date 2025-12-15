@@ -86,7 +86,7 @@ the options available by the supplier, Kong Chong Pte Ltd, are:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>At <a href="https://www.euniforms.com.sg" rel="noopener nofollow" target="_blank">https://www.euniforms.com.sg</a>,
+<p>At <a href="https://www.euniforms.com.sg/shop/product-category/secondary-schools/ytss/" rel="noopener nofollow" target="_blank">https://www.euniforms.com.sg</a>,
 with a delivery fee of $7.</p>
 </li>
 </ul>
