@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1><strong>Mother Tongue Languages</strong></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother_Tongue_Languages_Department_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mother Tongue Department 2025" src="/images/Mother_Tongue_Languages_Department.jpg">
 </div>
 <h3>Philosophy</h3>
 <p>Through the learning of Mother Tongue languages, students will gain insight
