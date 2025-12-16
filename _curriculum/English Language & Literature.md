@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1><strong>English Language &amp; Literature</strong></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_Language___Literature_Department_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="English Language and Literature Department 2025" src="/images/English_Language___Literature_Department.jpg">
 </div>
 <h3>Philosophy</h3>
 <p>The English Language &amp; Literature Department believes that language
