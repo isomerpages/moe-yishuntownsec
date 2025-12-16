@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h1><strong>Aesthetics and Technology Department</strong></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A_T_Department_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Aesthetics and Technology Department 2025" src="/images/Aesthetics___Technology_Department.jpg">
 </div>
 <h2>Mission and Vision</h2>
 <table style="minWidth: 50px">
@@ -85,7 +85,7 @@ in a dynamic environment in the years ahead.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFbEl7QMnWbByhYieVB8OAli_SgTijaZNRaz6voUhzqyU2ioFj1d8BEwmu8Pr2Ucdj1pJlURLx6CeW/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<h3>The philosophy of Nutrition and Food Science (NFS) Unit </h3>
+<h3>The philosophy of Nutrition and Food Science (NFS) Unit</h3>
 <p>The Nutrition and Food Science unit delivers the Food and Consumer Education
 curriculum to the lower secondary students. Our two-year curriculum equips
 students with nutrition knowledge and practical skills to lead a healthy
