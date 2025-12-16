@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1><strong>Science</strong></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Department_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Science Department 2025" src="/images/Science_Department.jpg">
 </div>
 <h3>Department Overview</h3>
 <p>In this increasingly technologically-driven world, YTzens need scientific
