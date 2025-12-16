@@ -14,6 +14,8 @@ is<strong> 25 Dec 2025, 11.59pm.</strong>
 </p>
 <hr>
 <h3>1. Purchase of Textbooks</h3>
+<p>Please refer to the Sec 1 booklist found here: <a href="/files/YTSS_Booklist_Sec_1__2026.pdf" rel="noopener nofollow" target="_blank">Sec 1 Booklist 2026</a>
+</p>
 <p>For the purchase of textbooks, the options available by the supplier,
 CASCO, are:</p>
 <p><strong><em><u>Option 1: via online platform</u></em> (by 25 Dec 2025, 11.59pm)</strong>
