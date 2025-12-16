@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1><strong>Mathematics</strong></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_Department_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mathematics Department 2025" src="/images/Mathematics_Department.jpg">
 </div>
 <h3>Mission &amp; Vision</h3>
 <table style="minWidth: 50px">
