@@ -64,14 +64,10 @@ community.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/beyond_school_pic_1.jpg">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/beyond_school_pic_2.jpg">
-</div>
+<p></p>
 </th>
 </tr>
 </tbody>
@@ -92,14 +88,10 @@ cultures.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/beyond_borders_pic_1.jpg">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/beyond_borders_pic_2.jpg">
-</div>
+<p></p>
 </th>
 </tr>
 </tbody>
@@ -121,9 +113,7 @@ inspire them to aspire and thrive.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/beyond_learning_pic_1.jpg">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
