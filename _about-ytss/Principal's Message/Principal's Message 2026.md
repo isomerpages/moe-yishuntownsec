@@ -32,13 +32,11 @@ valued and appreciated, and support our aim of “Leave No Child Behind.”</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/beyond_classroom_pic_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/beyond_classroom_pic_2.jpg">
 </div>
@@ -66,13 +64,11 @@ community.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/beyond_school_pic_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/beyond_school_pic_2.jpg">
 </div>
@@ -88,6 +84,26 @@ overseas Singaporean communities, and network with international businesses.
 Our teachers facilitate guided reflection on these overseas experiences,
 helping our students develop a deeper appreciation for and respect of diverse
 cultures.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/beyond_borders_pic_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/beyond_borders_pic_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h4><strong>Beyond Learning</strong></h4>
 <p>We empower our students to grow, explore, and find meaning and purpose
 in their lives. &nbsp;Our Education and Career Guidance programme is centred
@@ -97,6 +113,32 @@ College and Nanyang Junior College to educate our students on post-secondary
 education pathways, and the talks with industry practitioners broaden our
 students’ exposure and understanding of the World of Work. These experiences
 inspire them to aspire and thrive.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 58%;" height="auto" width="100%" alt="" src="/images/beyond_learning_pic_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our students exploring the cutting-edge facilities at Singapore Polytechnic.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learning from our national athlete, Shanti Pereira</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>&nbsp;“YT40 &amp; Beyond!”</strong></h4>
 <p>Our 2026 school theme, “YT40 &amp; Beyond!”, proudly celebrates our rich
 heritage while looking ahead to the limitless possibilities of our future.
