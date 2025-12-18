@@ -24,6 +24,28 @@ authentic learning experiences outside the classroom to build stronger
 relationships with friends and form teachers, and develop a stronger class
 and cohort identity. These learning experiences help every child to feel
 valued and appreciated, and support our aim of “Leave No Child Behind.”</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/beyond_classroom_pic_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/beyond_classroom_pic_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h4><strong>Beyond School</strong></h4>
 <p>We believe our school experiences must prepare our YTzens for the future.
 Our annual Dress for a Good Cause Day lets students experience what it
@@ -36,6 +58,28 @@ in the theme’s design. Beyond the school community, we work with North
 West CDC on community events and outreach to the elderly living in Yishun,
 providing our students with a chance to make a difference to the Yishun
 community.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/beyond_school_pic_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/beyond_school_pic_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h4><strong>Beyond Borders</strong></h4>
 <p>Through intentional planning, our Internationalisation Programme develops
 21<sup>st</sup> Century Competencies in our students. Our students have
