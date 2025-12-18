@@ -121,7 +121,9 @@ inspire them to aspire and thrive.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/beyond_learning_pic_1.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
