@@ -12,10 +12,13 @@ sections:
       url: https://www.yishuntownsec.moe.edu.sg/overview-of-sec-1-admission-2026-other-key-dates/
       variant: center
       key_highlights:
-        - title: YTSS Open House 2025
-          description: Click to find out more!
-          url: https://www.yishuntownsec.moe.edu.sg/oh2025
+        - title: Principal's Message 2026
+          description: Click to read
+          url: https://www.yishuntownsec.moe.edu.sg/principal-s-message-2026/
         - title: Sale of School Uniform & Textbooks for 2026 (Sec 2 to Sec 5)
           description: Click to find out more!
           url: https://www.yishuntownsec.moe.edu.sg/parents-links/sale-of-school-uniforms-n-textbooks-for-2026-sec-2-5/
+        - title: YTSS Open House 2025
+          description: Click to find out more!
+          url: https://www.yishuntownsec.moe.edu.sg/oh2025
 ---
