@@ -147,8 +147,7 @@ Master</p>
 <p>Mrs Lynette Lui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (English Language &amp; Literature), Head of Department (English
-Language &amp; Literature) (Covering)</p>
+<p>Head of Department (English Language &amp; Literature) (Covering)</p>
 </td>
 </tr>
 <tr>
