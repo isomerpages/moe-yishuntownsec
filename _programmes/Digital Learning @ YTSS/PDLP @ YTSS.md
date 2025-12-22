@@ -28,8 +28,4 @@ knowledge and skills to thrive in the digital environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Red%20Grid%20Minimalist%20Monotone%20Project%20Progress%20Timeline%20Infographic%203.png">
 </div>
-<p>For detailed information regarding how PDLP is enacted in our school,
-alongside information such as actions for damaged or lost PLD, cyber wellness
-and how to reach technical support, please refer to the Yishun Town Secondary
-School Personal Learning Device Handbook <a href="/files/YTSS_PLD_Handbook__v1_2_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p></p>
