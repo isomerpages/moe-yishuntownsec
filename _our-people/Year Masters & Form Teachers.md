@@ -4,7 +4,7 @@ permalink: /about-ytss/our-people/staff-directory-2024/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Staff Directory 2025</strong></h1>
+<h1><strong>Staff Directory 2026</strong></h1>
 <h3>Secondary 1</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -307,7 +307,7 @@ variant: tiptap
 <p>Year Master</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ruziana Bte Zakaria&nbsp;</p>
+<p>Mr Chua Weiqiang</p>
 </td>
 </tr>
 <tr>
@@ -315,15 +315,15 @@ variant: tiptap
 <p>Asst. Year Master</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lynette Lui</p>
+<p>Mr Nurul Hafiz Bin Shamsudin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2A</p>
+<p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Choo Sweet Yeng Sherry&nbsp;</p>
+<p>Mr Liu Changyu</p>
 </td>
 </tr>
 <tr>
@@ -331,15 +331,15 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Liu Changyu&nbsp;</p>
+<p>Ms Sarala Devi D/O Prakashen Pillay</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2B</p>
+<p>3B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sarala Devi d/o Prakashen Pillay&nbsp;</p>
+<p>Mdm Mageswari D/O Salverraj</p>
 </td>
 </tr>
 <tr>
@@ -347,31 +347,15 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Shi Hui</p>
+<p>Mr Yong Wei Hoong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2C</p>
+<p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nanda Meenachi s/o Sundram&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chan Yu Ting&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2D</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Hafiana B Kamisan&nbsp;</p>
+<p>Ms Lee Soo Cheng Candy (Mrs Candy Tong)</p>
 </td>
 </tr>
 <tr>
@@ -379,28 +363,20 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sandra Yam</p>
+<p>Mr Maung Soe Nyunt Zaw</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2E</p>
+<p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Toh Weixiang&nbsp;</p>
+<p>Ms Muthumeenakshi D/O K Gopalan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yam Sui Wei&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Choi Kar Kit Keith</p>
@@ -408,18 +384,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>3E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chong Wei Lian Deborah</p>
+<p>Mr Patrick Tong Yong Kiang</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2G</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Yi Fan</p>
+<p>Mdm Silver Kumari D/O Kandasamy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hafiana Binte Kamisan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Teo Lin Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alex Lim Tze Ming</p>
 </td>
 </tr>
 <tr>
@@ -427,7 +427,15 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Candy Tong&nbsp;</p>
+<p>Ms Goh Hui Lin (Mrs Teo Hui Lin)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3H</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yam Sui Wei</p>
 </td>
 </tr>
 </tbody>
