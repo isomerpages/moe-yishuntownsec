@@ -4,8 +4,145 @@ permalink: /about-ytss/our-people/staff-directory-2024/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Staff Directory 2025</strong></h1>
+<h1><strong>Staff Directory 2026</strong></h1>
 <h3>Secondary 1</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name of Teacher</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Master</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Siew Yan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asst. Year Master</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ryan Tan Zhi Wen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chiang Lee Ngang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Li Lan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Choo Sweet Yeng Sherry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Fairuz Binte Mohamad Ramdan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Yinmin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Toh Weixiang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chong Wei Lian Deborah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Teck Chye</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Aarthie Krishnamoorthy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chan Yu Ting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Esther Wong Ting Wei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Shi Hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rozianna Binte Mohammed Affendi</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Secondary 2</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -38,7 +175,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1A</p>
+<p>2A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Goh Lye Hock</p>
@@ -54,7 +191,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1B</p>
+<p>2B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Azimah Binte Mohamed Azhar</p>
@@ -70,7 +207,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1C</p>
+<p>2C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms See Weini Winnie</p>
@@ -86,7 +223,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1D</p>
+<p>2D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Low Kah Yee Chloe</p>
@@ -102,7 +239,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1E</p>
+<p>2E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chen Xiaowei</p>
@@ -113,12 +250,12 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nellie Tan</p>
+<p>Ms Noraidilah Mohamed Nasir</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1F</p>
+<p>2F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Norhikmah Bte Sohoi</p>
@@ -134,7 +271,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1G</p>
+<p>2G</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Seow Whei Zhng Eugene</p>
@@ -150,7 +287,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Secondary 2</h3>
+<h3>Secondary 3</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -170,7 +307,7 @@ variant: tiptap
 <p>Year Master</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ruziana Bte Zakaria&nbsp;</p>
+<p>Mr Chua Weiqiang</p>
 </td>
 </tr>
 <tr>
@@ -178,15 +315,15 @@ variant: tiptap
 <p>Asst. Year Master</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lynette Lui</p>
+<p>Mr Nurul Hafiz Bin Shamsudin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2A</p>
+<p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Choo Sweet Yeng Sherry&nbsp;</p>
+<p>Mr Liu Changyu</p>
 </td>
 </tr>
 <tr>
@@ -194,15 +331,15 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Liu Changyu&nbsp;</p>
+<p>Ms Sarala Devi D/O Prakashen Pillay</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2B</p>
+<p>3B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sarala Devi d/o Prakashen Pillay&nbsp;</p>
+<p>Mdm Mageswari D/O Salverraj</p>
 </td>
 </tr>
 <tr>
@@ -210,31 +347,15 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Shi Hui</p>
+<p>Mr Yong Wei Hoong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2C</p>
+<p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nanda Meenachi s/o Sundram&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chan Yu Ting&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2D</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Hafiana B Kamisan&nbsp;</p>
+<p>Ms Lee Soo Cheng Candy (Mrs Candy Tong)</p>
 </td>
 </tr>
 <tr>
@@ -242,28 +363,20 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sandra Yam</p>
+<p>Mr Maung Soe Nyunt Zaw</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2E</p>
+<p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Toh Weixiang&nbsp;</p>
+<p>Ms Muthumeenakshi D/O K Gopalan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yam Sui Wei&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Choi Kar Kit Keith</p>
@@ -271,18 +384,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>3E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chong Wei Lian Deborah</p>
+<p>Mr Patrick Tong Yong Kiang</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2G</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Yi Fan</p>
+<p>Mdm Silver Kumari D/O Kandasamy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hafiana Binte Kamisan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Teo Lin Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alex Lim Tze Ming</p>
 </td>
 </tr>
 <tr>
@@ -290,12 +427,20 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Candy Tong&nbsp;</p>
+<p>Ms Goh Hui Lin (Mrs Teo Hui Lin)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3H</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yam Sui Wei</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>Secondary 3</h3>
+<h3>Secondary 4</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -323,20 +468,12 @@ variant: tiptap
 <p>Asst. Year Master</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Weiqiang</p>
+<p>Mr Karthikesan S/O Kumar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Aisyah Binte Abdul Khalim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>4A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Hioa Chi Thong Joe</p>
@@ -344,7 +481,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3B</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kew Sook Chiun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Fong Xuanwan Steph</p>
@@ -360,7 +505,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3C</p>
+<p>4C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Leah Lee Tze Ling</p>
@@ -376,10 +521,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3D</p>
+<p>4D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Chuan Kuan</p>
+<p>Mr Bervyn Goh Yu Fen</p>
 </td>
 </tr>
 <tr>
@@ -392,7 +537,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3E</p>
+<p>4E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Chew Hong Theresa</p>
@@ -408,7 +553,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3F</p>
+<p>4F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Alan Chew Chioh-Sian</p>
@@ -424,15 +569,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3G</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Quek Po Ruh Winston</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>4G</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Puay Shan</p>
@@ -440,187 +577,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3H</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Karen Cheong</p>
+<p>Mr Quek Po Ruh Winston</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4H</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ibrahim Asharaf Ali</p>
 </td>
 </tr>
-</tbody>
-</table>
-<h3>Secondary 4</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name of Teacher</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Master</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Siew Yan&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Asst. Year Master</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Nurul Hafiz B Shamsudin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Asst. Year Master</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Patrick Tong Yong Kiang&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Mageswari d/o Salverraju&nbsp;</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Bervyn Goh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Teck Chye&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Silver Kumari</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Muthumeenakshi d/o K Gopalan&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Aarthie Krishnamoorthy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ryan Tan Zhi Wen&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4D</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chiang Lee Ngang&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Li Lan&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4E&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Teo Lin Ling</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Esther Wong Ting Wei&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Kew Sook Chiun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4F&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Noraidilah Mohamed Nasir&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Goh Hui Lin&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4G&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Alex Lim Tze Ming&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Zhang Jinjuan</p>
+<p>Mrs Karen Cheong</p>
 </td>
 </tr>
 </tbody>
