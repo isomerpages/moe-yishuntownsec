@@ -20,5 +20,5 @@ sections:
           url: https://www.yishuntownsec.moe.edu.sg/parents-links/sale-of-school-uniforms-n-textbooks-for-2026-sec-2-5/
         - title: Join Our Dedicated Canteen Team
           description: Click to find out more!
-          url: ""
+          url: https://www.yishuntownsec.moe.edu.sg/join-our-dedicated-canteen-team/
 ---
