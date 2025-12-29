@@ -4,8 +4,8 @@ permalink: /join-our-dedicated-canteen-team/
 variant: tiptap
 description: ""
 ---
-<p>Yishun Town Secondary School has vacancy for halal stall selling rice.</p>
-<h4>&nbsp;1. <strong>Criteria</strong></h4>
+<p>Yishun Town Secondary School has a vacancy for a halal stall selling rice.</p>
+<h3>&nbsp;1. <strong>Criteria</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>&nbsp;</strong>Both applicant and stall assistant(s) must be Singapore
@@ -42,13 +42,11 @@ appointed by WDA (Workforce Development Agency).</p>
 experience is preferred.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application Procedure<br></strong>
-</p>
+<h3>&nbsp;<strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application Procedure</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Application form is available at our General Office (6 Yishun Street 21
-Singapore 768610) or can be downloaded here.</p>
+Singapore 768610) or can be downloaded <a href="/files/Canteen_application_form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
 <p>Interested applicants must submit the following documents:</p>
@@ -70,8 +68,7 @@ Singapore 768610) or can be downloaded here.</p>
 <a rel="noopener noreferrer nofollow" target="_blank">ytss@moe.edu.sg</a>.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<h4><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interview and Food Sampling</strong></h4>
+<h3>&nbsp;<strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interview and Food Sampling</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>&nbsp;</strong>Only shortlisted applicants will be invited for
