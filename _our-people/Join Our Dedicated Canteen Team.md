@@ -14,7 +14,7 @@ Citizens or Singapore Permanent Residents aged 21 years old and above.</p>
 <li>
 <p>Adhere to Healthy Meals in School Programme (HMSP) where all food sold
 must meet the programme requirement. &nbsp;Please see details at&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>.</p>
+<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>.</p>
 </li>
 <li>
 <p>Maintain high standard of food and personal hygiene set out by NEA for
