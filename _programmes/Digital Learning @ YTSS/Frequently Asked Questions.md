@@ -125,7 +125,7 @@ charging of PLDs.</p>
 <br>&nbsp;Edusave funds can only be used for purchases facilitated by the
 school.</p>
 <p><strong>How do we support students under the MOE FAS and School-based FAS?</strong>
-<br>Please refer to the funding support guidelines&nbsp;here:&nbsp;<a href="/files/Financial_Assistance_for_PLD_2025.pdf" rel="noopener nofollow" target="_blank">2025 Financial Assistance for PLD</a>
+<br>Please refer to the funding support guidelines&nbsp;here:&nbsp;<a href="/files/2__Financial_Assistance_2026.pdf" rel="noopener nofollow" target="_blank">Financial Assistance_2026</a>
 </p>
 <p>&nbsp;<strong>Will funding be provided for Permanent Residents (PR) and international students (IS)?</strong>
 <br>&nbsp;Permanent residents and international students who require financial
