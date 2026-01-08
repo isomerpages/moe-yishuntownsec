@@ -88,12 +88,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ol start="8" data-tight="true" class="tight">
 <li>
-<p>AI &amp; Your Child</p>
+<p>AI &amp; Your Child Parent Guide</p>
 </li>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/8__AI___Your_Child__Parents_Guide_.pdf" rel="noopener nofollow" target="_blank">AI &amp; Your Child Parent Guide</a>
+</p>
 </td>
 </tr>
 </tbody>
