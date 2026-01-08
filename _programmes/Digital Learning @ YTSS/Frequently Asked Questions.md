@@ -7,9 +7,15 @@ variant: tiptap
 ---
 <h1><strong>Frequently Asked Questions</strong></h1>
 <h2>Device</h2>
-<p><strong>Will there be digital versions for all textbooks? Will students be asked to buy only digital versions of textbooks?</strong>
-<br>&nbsp;Print textbooks and workbooks will continue to be the primary method
-for the delivery of the curriculum in 2025.</p>
+<p><strong>What is included with the purchase of the device?</strong>
+</p>
+<p>The device will come with the enhanced device bundle with 3-year insurance
+and 3-year warranty, which allows for two repairs or one replacement.</p>
+<p>The insurance coverage is only applicable to situations of damages and
+loss where the student has taken precautions to safeguard the device.</p>
+<p><strong>Does the insurance cover the accessories (e.g. styluses, keyboard cases)?</strong>
+</p>
+<p>Insurance coverage is for the main device only and does not cover accessories.</p>
 <p><strong>Can students opt not to purchase the device?</strong>
 <br>Every student is required to have a device for teaching and learning purposes
 and is encouraged to purchase one through the school.</p>
@@ -32,6 +38,13 @@ student’s device needs to be installed with DMA in JC/MI, it can be reinstated
 in their classroom. The classroom will be locked at the end of each day.
 Students should bring the devices home at the end of the school day so
 that they can utilise them for learning at home.</p>
+<p><strong>What happens if students damage their devices accidentally?</strong>
+</p>
+<p>If the devices are damaged, the parents/students can report it to the
+school. The school will coordinate with the vendor on the assessment of
+damage and repairs. If there are additional costs, the vendor will contact
+the parents/students before proceeding with the repair. Edusave funds cannot
+be used to pay for the cost of repairs.</p>
 <p><strong>Do parents or students have to bring their device down to the service centre for repairs? Are there other options?</strong>
 <br>In the event that the student’s device is faulty, parents can choose to
 send the device directly to the vendor for repair or leave the device with
@@ -40,17 +53,6 @@ the school for the vendor to pick up via a fortnightly courier service.</p>
 <br>Yes, individual vendors will be sharing their support information on their
 websites. This information will be provided to parents closer to the issue
 of the PLD.</p>
-<p><strong>What happens if the device is stolen/lost? Does the contract include insurance? If so, what is covered under the insurance?</strong>
-<br>The device will come with the enhanced device bundle which is inclusive
-of 3-year insurance and 3- year warranty.</p>
-<p>The insurance coverage is only applicable to situations of damages and
-loss where the student has taken precautions to safeguard the device.</p>
-<p><strong>What happens if students damage their devices accidentally?</strong>
-<br>If the devices are damaged, the parents/students can report it to the
-school. The school will coordinate with the vendor on the assessment of
-damage and repairs. If there are additional costs, the vendor will contact
-the parents/students before proceeding with the repair. Edusave funds cannot
-be used to pay for the cost of repairs.</p>
 <p><strong>When a student’s device is not able to function or is lost, are they able to loan a school device from school for short-term use?</strong>
 <br>Students will be able to get a short-term loan of device (subjected to
 availability) due to loss or repairs.</p>
@@ -74,6 +76,9 @@ devices are delivered to the school, students will be collecting the devices
 on behalf of parents if parents have authorised their child to do so.</p>
 <p>Please contact the school via the PDLP support email for further advice
 or clarification if you would like to make this arrangement.</p>
+<p><strong>Will there be digital versions for all textbooks? Will students be asked to buy only digital versions of textbooks?</strong>
+<br>&nbsp;Print textbooks and workbooks will continue to be the primary method
+for the delivery of the curriculum.</p>
 <h2>DMA</h2>
 <p><strong>Is the DMA installation compulsory for all students?</strong>
 <br>All PLDs purchased through the school will be installed with DMA before
