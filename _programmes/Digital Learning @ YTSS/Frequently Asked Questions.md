@@ -120,7 +120,7 @@ during lessons.</p>
 <br>All students are strongly encouraged to bring their PLDs home to charge
 every night. However, there will be a charging cabinet provided for emergency
 charging of PLDs.</p>
-<p>Funding and Other Support</p>
+<h2>Funding and Other Support</h2>
 <p><strong>Can students use their Edusave funds to purchase devices from vendors not engaged by the school?</strong>
 <br>&nbsp;Edusave funds can only be used for purchases facilitated by the
 school.</p>
