@@ -33,7 +33,7 @@ variant: tiptap
 <p>Model Number</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Apple iPad 10<sup>th</sup> Gen</p>
+<p>Apple iPad 11th Gen</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@ variant: tiptap
 <p>Display</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.9” screen size</p>
+<p>11” screen size</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ variant: tiptap
 <p>Memory</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4GB</p>
+<p>6GB</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ variant: tiptap
 <p>Storage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64GB</p>
+<p>128GB</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ variant: tiptap
 <p>Processor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A14 Bionic Chip</p>
+<p>A16 Bionic Chip</p>
 </td>
 </tr>
 <tr>
@@ -121,7 +121,15 @@ required specifications for DMA installation:</p>
 <p>Device</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>iPad</p>
+<p>iPad 10 or higher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Display</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.0” or higher (diagonal)</p>
 </td>
 </tr>
 <tr>
@@ -129,7 +137,7 @@ required specifications for DMA installation:</p>
 <p>Processor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A14 Fusion or better</p>
+<p>A14 or better</p>
 </td>
 </tr>
 <tr>
@@ -137,8 +145,8 @@ required specifications for DMA installation:</p>
 <p>Operating System</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>iPadOS 18</p>
-<p>Note: As our school is using iPAD OS for Secondary One students in 2025,
+<p>iPadOS 26</p>
+<p>Note: As our school is using iPAD OS for Secondary One students in 2026,
 our DMA cannot be installed on Windows or ChromeOS.</p>
 </td>
 </tr>
