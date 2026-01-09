@@ -23,10 +23,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1. Slides from Sec 1 PDLP Briefing to Parents on 10 Jan 2025</p>
+<p>1. PLD Initiatives Slides for Sec 1 Parent Engagement 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1__PLD_Initiatives_Slides_for_Sec_1_Parent_Engagement_2025__for_parents_and_sch_website_.pdf" rel="noopener nofollow" target="_blank">2025 PLD Initiative Briefing Slides</a>
+<p><a href="/files/1__PLD_Initiatives_Slides_for_Sec_1_Parent_Engagement_2026.pdf" rel="noopener nofollow" target="_blank">PLD Initiatives_Slides for Sec 1 Parent Engagement 2026</a>
 </p>
 </td>
 </tr>
@@ -35,7 +35,7 @@ variant: tiptap
 <p>2. Information on financing your child's PLD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Financial_Assistance_for_PLD_2025.pdf" rel="noopener nofollow" target="_blank">Financial Assistance for PLD</a>
+<p><a href="/files/2__Financial_Assistance_2026.pdf" rel="noopener nofollow" target="_blank">Financial Assistance 2026</a>
 </p>
 </td>
 </tr>
@@ -44,7 +44,7 @@ variant: tiptap
 <p>3. Parents' Handbook I for Learning with a PLD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/3__IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook I on Learning with a PLD</a>
+<p><a href="/files/3__Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook I 2026</a>
 </p>
 </td>
 </tr>
@@ -53,7 +53,7 @@ variant: tiptap
 <p>4. Parents' Handbook II for Learning with a PLD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/4__IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook II on Learning with a PLD</a>
+<p><a href="/files/4__Parent_Handbook__II__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook II 2026</a>
 </p>
 </td>
 </tr>
@@ -71,7 +71,7 @@ variant: tiptap
 <p>6. PDLP Subsidy Form</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PDLP_Application_Form_for_Subsidy.pdf" rel="noopener noreferrer nofollow" target="_blank">PDLP Application Form for Subsidy</a>
+<p><a href="/files/6__PDLP_Application_Form_for_Subsidy.pdf" rel="noopener nofollow" target="_blank">PDLP Subsidy Application Form</a>
 </p>
 </td>
 </tr>
@@ -81,6 +81,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener nofollow" target="_blank">Cyber wellness | MOE</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>AI &amp; Your Child Parent Guide</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/8__AI___Your_Child__Parents_Guide_.pdf" rel="noopener nofollow" target="_blank">AI &amp; Your Child Parent Guide</a>
 </p>
 </td>
 </tr>
