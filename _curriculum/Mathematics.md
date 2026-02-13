@@ -55,81 +55,86 @@ the subject are also given the opportunity to challenge themselves and
 compete on various platforms, such as the Mathematical Olympiad, the Australian
 Mathematics Competition and the TI Graphing Calculator Competition.&nbsp;</p>
 <h3>Key Programs / Enrichment for students</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Year</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Activity</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Achievements</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2018<br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 1 Math Trail @ Gardens by the Bay</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2018<br></strong>
-</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 1 – 3 Mathematical Modelling Project</strong>
+<p><strong><u>Animating Dreams: A 2D Animation Workshop</u></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2017</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 2 NA and NT Science Centre Workshop</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation
-<br>
-</p>
+<p>Students were introduced to the fundamentals of 2D animation, including
+storyboarding, frame-by-frame animation, and basic visual sequencing. Through
+guided instruction and hands-on practice, students learned how to transform
+creative ideas into simple animated sequences. The workshop culminated
+in the creation of a short animated video, allowing students to showcase
+their creativity while developing digital literacy, visual communication
+skills, and an appreciation of the animation design process.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2017</strong>
-</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 1 &amp; 2 Singapore Mathematical Olympiad Training</strong>
+<p><strong><u>App Development at Singapore Institute of Technology</u></strong>
 </p>
+<p>In this applied learning experience conducted at the Singapore Institute
+of Technology, students were introduced to the fundamentals of app development
+and basic programming concepts. Under the guidance of instructors, students
+learned how to design, code, and test a simple mobile application. The
+programme provided students with exposure to real-world coding practices
+and the technology development process, while broadening their understanding
+of possible pathways in computing, digital innovation, and applied technology
+fields.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participation</p>
+<p><strong><u>Financial Literacy: Smart Monday &amp; Savvy Choices</u></strong>
+</p>
+<p>This enrichment programme aimed to build students’ financial awareness
+and responsible decision-making skilsls. Through interactive discussions,
+real-life scenarios, and guided activities, students explored key concepts
+such as budgeting, needs versus wants, saving, spending, and making informed
+financial choices. The programme empowered students to reflect on everyday
+financial decisions and develop prudent money management habits that are
+essential for independent living and future financial well-being.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Think, Code, Move: Exploring Mathematics Using Robotics</u></strong>
+</p>
+<p>This hands-on session demonstrated how mathematics and STEM concepts can
+be meaningfully integrated into the mathematics classroom through the use
+of programmable rovers. Students applied mathematical ideas such as angle
+properties, scaling, measurement, and sequencing to code a rover’s movements.
+Through progressively challenging tasks, students developed spatial reasoning
+and computational thinking skills, culminating in a modelled real-world
+navigation challenge that reinforced the relevance of mathematics in problem-solving
+and real-life applications.</p>
 </td>
 </tr>
 </tbody>
@@ -143,96 +148,101 @@ Mathematics Competition and the TI Graphing Calculator Competition.&nbsp;</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Year</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Activity</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Achievements</strong>
 </p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2018<br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Australian Mathematics Competition<br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>11 Distinction</strong>
-<br>33 Credit</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2018<br></strong>
-</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>International Competitions and Assessments for Schools</strong>
-</p>
+<p>Australian Mathematics Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>4 High Distinction</strong>
-<br>26 Distinction
-<br>71 Credit</p>
+<p>2 High Distinctions</p>
+<p>12 Distinctions</p>
+<p>22 Credit</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2018</strong>
-</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore Mathematical Olympiad</strong>
-</p>
+<p>Singapore Mathematical Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2 Silver</strong>
-<br>3 Bronze
-<br>7 Honorable Mention</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2018</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Texas Instruments Graphing Calculator Competition</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1st Position</strong>
-<br>1 Gold
-<br>1 Silver
-<br>7 Bronze</p>
+<p>1 Gold&nbsp;</p>
+<p>3 Silver</p>
+<p>4 Bronze</p>
+<p>17 Honorable Mentions</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2018<br></strong>
-</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>All Singapore Secondary Mathematics Competition for Normal Course Students<br></strong>
-</p>
+<p>Texas Instrument Graphing Calculator Design Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participation</p>
+<p>1 Gold</p>
+<p>3 Silver</p>
+<p>4 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Australian Mathematics Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 High Distinctions</p>
+<p>13 Distinctions&nbsp;</p>
+<p>19 Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Mathematical Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Silver, 7 Bronze</p>
+<p>12 Honorable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Texas Instrument Graphing Calculator Design Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold</p>
+<p>2 Silver</p>
+<p>5 Bronze</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>Picture Highlights</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRD-70m2JMqyk0yZVeWrpMWyM0ETy0mpgA3iPnFEEtF-Bnsr5l9PvczVSK8c0Xk1vPeoW2nOPk5GI2R/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRD-70m2JMqyk0yZVeWrpMWyM0ETy0mpgA3iPnFEEtF-Bnsr5l9PvczVSK8c0Xk1vPeoW2nOPk5GI2R/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
