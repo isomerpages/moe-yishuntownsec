@@ -231,8 +231,7 @@ etc.)</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br><strong>2026 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Secondary 2</strong>
 </p>
@@ -381,7 +380,6 @@ both offline and online</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Secondary 3</strong>
@@ -527,11 +525,12 @@ never justifiable and they can seek help in times of need.</p>
 of the day and the need to reflect on these issues, and weigh them against
 our own moral standpoints as we form our perspectives about them</p>
 </li>
+<li>
+<p>understand that we strengthen our character when we commit to sound values-based
+viewpoints (e.g. respect for life) and decisions, and speak and act in
+alignment with our beliefs</p>
+</li>
 </ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that
-we strengthen our character when we commit to sound values-based viewpoints
-(e.g. respect for life) and decisions, and speak and act in alignment with
-our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 9</p>
@@ -539,8 +538,7 @@ our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br><strong>2026 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Secondary 4</strong>
 </p>
