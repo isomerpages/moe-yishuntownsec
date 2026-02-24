@@ -11,6 +11,6 @@ the members’ expertise, diverse perspectives and experiences. The partnership
 will bring the school to greater heights.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_update.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_update_24022026.png">
 </div>
 <p></p>
