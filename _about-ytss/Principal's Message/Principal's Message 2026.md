@@ -6,9 +6,6 @@ description: ""
 third_nav_title: Principal's Message
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/YTSS_Principal_Mr_Koh.jpg">
 </div>
 <p>Welcome to Yishun Town Secondary School (YTSS)!</p>
