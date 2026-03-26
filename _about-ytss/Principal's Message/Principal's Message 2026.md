@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Principal's Message
 ---
 <h4><strong>Welcome to Yishun Town Secondary School (YTSS)!</strong></h4>
-<p><img align="right" src="/images/Mr_Koh_Sitting_Down_Face_Left.jpg" style="width:40%;"></p>
+<p><img align="right" src="/images/Mr_Koh_Standing_Face_Left.jpg" style="width:40%;"></p>
 
 <p style="width:55%; text-align: left;">2026 is a truly special year for our school as we celebrate our 40th anniversary. Our school theme “YT40 &amp; Beyond!”, celebrates our school journey into a school of distinction – one recognised for academic excellence, character development, and a commitment to service.</p>
 
