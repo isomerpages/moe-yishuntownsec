@@ -10,7 +10,7 @@ third_nav_title: Principal's Message
 
 <p style="width:65%; text-align: left;">2026 is a truly special year for our school as we celebrate our 40th anniversary. Our school theme “YT40 &amp; Beyond!”, celebrates our school journey into a school of distinction – one recognised for academic excellence, character development, and a commitment to service.</p>
 
-<p style="width:55%; text-align: left;">We have planned for a series of activities in 2026 such as Alumni Homecoming Carnival, YT Fiesta and YT Rejoice for us to mark this milestone and celebrate our heritage together with our students, staff, parents, alumni, and community.</p>
+<p style="width:65%; text-align: left;">We have planned for a series of activities in 2026 such as Alumni Homecoming Carnival, YT Fiesta and YT Rejoice for us to mark this milestone and celebrate our heritage together with our students, staff, parents, alumni, and community.</p>
 
 <h4><strong>Beyond Classroom</strong></h4>
 <p>At YTSS, we believe that education is not only about outcomes. Our teachers
