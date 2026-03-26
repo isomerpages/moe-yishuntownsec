@@ -5,34 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Principal's Message
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="2" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mr_Koh_Sitting_Down.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Koh_Sitting_Down.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<h3><strong>Welcome to Yishun Town Secondary School (YTSS)!</strong></h3>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<h4><strong>Welcome to Yishun Town Secondary School (YTSS)!</strong></h4>
 <p>2026 is a truly special year for our school as we celebrate our 40th anniversary.
 Our school theme “YT40 &amp; Beyond!”, celebrates our school journey into
 a school of distinction – one recognised for academic excellence, character
 development, and a commitment to service.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <p>We have planned for a series of activities in 2026 such as Alumni Homecoming
 Carnival, YT Fiesta and YT Rejoice for us to mark this milestone and celebrate
 our heritage together with our students, staff, parents, alumni, and community.&nbsp;</p>
