@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Principal's Message
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YTSS_Principal_Mr_Koh_landscape.jpg">
+</div>
 <p>Welcome to Yishun Town Secondary School (YTSS)!</p>
 <p>2026 is a truly special year for our school as we celebrate our 40th anniversary.&nbsp;
 Our school theme <strong>“YT40 &amp; Beyond!”</strong>, celebrates our school
