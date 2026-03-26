@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/landingpagenew.gif
-      button: Information for 2026 Sec 1 Admission
-      url: https://www.yishuntownsec.moe.edu.sg/overview-of-sec-1-admission-2026-other-key-dates/
+      button: Information on E-Open Day 2026
+      url: https://www.yishuntownsec.moe.edu.sg/ytss-virtual-open-day-2026/
       variant: center
       key_highlights:
         - title: Principal's Message 2026
