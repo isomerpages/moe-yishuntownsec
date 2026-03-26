@@ -15,7 +15,7 @@ third_nav_title: Principal's Message
 <th rowspan="2" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Koh_Sitting_Down.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mr_Koh_Sitting_Down.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -24,15 +24,15 @@ third_nav_title: Principal's Message
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2026 is a truly special year for our school as we celebrate our 40th anniversary.</p>
+<p>2026 is a truly special year for our school as we celebrate our 40th anniversary.
+Our school theme “YT40 &amp; Beyond!”, celebrates our school journey into
+a school of distinction – one recognised for academic excellence, character
+development, and a commitment to service.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>Our school theme “YT40 &amp; Beyond!”, celebrates our school journey into
-a school of distinction – one recognised for academic excellence, character
-development, and a commitment to service.</p>
 <p>We have planned for a series of activities in 2026 such as Alumni Homecoming
 Carnival, YT Fiesta and YT Rejoice for us to mark this milestone and celebrate
 our heritage together with our students, staff, parents, alumni, and community.&nbsp;</p>
