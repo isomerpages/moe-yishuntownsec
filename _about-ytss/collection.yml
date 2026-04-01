@@ -2,8 +2,6 @@ collections:
   about-ytss:
     output: true
     order:
-      - YT40 & Beyond Challenge/YT40 & Beyond.md
-      - YT40 & Beyond Challenge/.keep
       - Principal's Message/.keep
       - Principal's Message/Principal's Message 2026.md
       - Our YT2026 Plan.md
