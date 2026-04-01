@@ -9,6 +9,7 @@ third_nav_title: YT40 & Beyond
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__I_can_cheer_the_YT40_Cheer___5_points__2__I_create_a_video_on_why_I_m_proud_to_be_a_YTzen___5_points__3__I_complete_a_social_media_challenge__40_Things_I_Like_About_YTSS____5_points__4__I_write_words_of_appr.gif">
 </div>
+<p>Input Rationale -------</p>
 <p></p>
 <p>All YT40 Challenge submissions are to be compiled digitally using <strong>Canva</strong> and
 uploaded to your class <strong>Padlet</strong>.</p>
@@ -106,7 +107,8 @@ Tongue language, share how a person from YTSS has inspired you.</p>
 <p>I write words of appreciation to five non-teaching staff.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>I create a poster to encourage schoolmates to eat a balanced diet.</p>
+<p><strong>I create a poster to encourage schoolmates to eat a balanced diet. [To edit]</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
