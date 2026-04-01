@@ -2,6 +2,7 @@ collections:
   about-ytss:
     output: true
     order:
+      - YT40 & Beyond.md
       - YT40 & Beyond/.keep
       - Principal's Message/Principal's Message 2026.md
       - Principal's Message/.keep
