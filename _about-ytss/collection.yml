@@ -2,8 +2,6 @@ collections:
   about-ytss:
     output: true
     order:
-      - YT40 & Beyond/YT40 & Beyond main page.md
-      - YT40 & Beyond/.keep
       - Principal's Message/.keep
       - Principal's Message/Principal's Message 2026.md
       - Our YT2026 Plan.md
@@ -11,6 +9,8 @@ collections:
       - "Our Leadership Heritage: Principals Through the Years.md"
       - Our School Song.md
       - Our Autonomous School Status.md
+      - YT40 & Beyond/.keep
+      - YT40 & Beyond/YT40 & Beyond main page.md
       - Our Achievements/.keep
       - Our Achievements/School Achievements.md
       - 2024 Yearbook.md
