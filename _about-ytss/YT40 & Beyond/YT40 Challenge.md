@@ -49,32 +49,93 @@ contributions, and actions! 🎉</p>
 <p>&nbsp;</p>
 <p><strong>YT40 Challenges</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I can cheer the YT40 Cheer.
-(5 points)</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I create a video on why I’m
-proud to be a YTzen. (5 points)</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I complete a social media
-challenge “<em>40 Things I Like About YTSS</em>”. (5 points)</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I write words of appreciation
-to five non-teaching staff. (5 points)</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I complete a 30-minute physical
-activity such as running, a workout, or playing a sport with a friend or
-family member. (5 points)</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (a) On one A4-size page,
-use words, drawings, poems, or lyrics, share how a person from YTSS has
-inspired you. (5 points)</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (b) On one A4-size page, use
-words, drawings, poems, or lyrics in your Mother Tongue language, share
-how a person from YTSS has inspired you. (10 points)</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I create a YT40 artwork.
-(10 points)</p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I contribute to my class’s
-“<em>Book of 40 Stories of Kindness</em>”.<em> </em>(10 points)</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I create a poster to encourage
-schoolmates to eat a balanced diet. (10 points)</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp; I volunteer myself for a school event. (10
-points)</p>
-<p>11.&nbsp;&nbsp;&nbsp;&nbsp; I can lead the cohort/school in the YTSS school
-song or school rally independently. (10 points)</p>
-<p>12.&nbsp;&nbsp;&nbsp;&nbsp; I initiate and complete a school improvement
-project (e.g., Adopt-a-Toilet). (20 points)</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>5 points</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>10 points</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>20 points</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I can cheer the YT40 Cheer.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>On one A4-size page, use words, drawings, poems, or lyrics in your Mother
+Tongue language, share how a person from YTSS has inspired you.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I initiate and complete a school improvement project (e.g., Adopt-a-Toilet).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I create a video on why I’m proud to be a YTzen.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I create a YT40 artwork.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I complete a social media challenge “<em>40 Things I Like About YTSS</em>”.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I contribute to my class’s “<em>Book of 40 Stories of Kindness</em>”.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I write words of appreciation to five non-teaching staff.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I create a poster to encourage schoolmates to eat a balanced diet.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I complete a 30-minute physical activity such as running, a workout, or
+playing a sport with a friend or family member.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I volunteer myself for a school event.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>On one A4-size page, use words, drawings, poems, or lyrics, share how
+a person from YTSS has inspired you.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I can lead the cohort/school in the YTSS school song or school rally independently.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
