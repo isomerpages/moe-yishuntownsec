@@ -7,7 +7,7 @@ third_nav_title: YT40 & Beyond
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="YT40 logo" src="/images/2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="YT40 logo" src="/images/Untitled_design.jpg">
 </div>
 <p>The YT40 celebration marks not just 40 years of our past, but a renewed
 commitment to shaping the future—one YTzen at a time. It reflects our journey
