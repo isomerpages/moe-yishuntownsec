@@ -1,4 +1,5 @@
 collections:
   yt40:
     output: true
-    order: []
+    order:
+      - YT40 & Beyond.md
