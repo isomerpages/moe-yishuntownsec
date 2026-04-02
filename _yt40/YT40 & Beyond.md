@@ -8,14 +8,13 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="YT40 logo" src="/images/Untitled_design.jpg">
 </div>
-<p>The YT40 celebration marks not just 40 years of our past, but a renewed
-commitment to shaping the future—one YTzen at a time. It reflects our journey
-of growth, resilience, and transformation, as we continue to rise towards
-greater heights. This milestone reminds us of how far we have come, while
-challenging us to go even further together. More importantly, it celebrates
-40 years of impact—where every small step taken by each YTzen contributes
-to a brighter collective future.</p>
-<p></p>
+<p>Our 40<sup>th</sup> anniversary is more than a celebration of the past;
+it is a renewed commitment to shape the future—one YTzen at a time. It
+tells the story of our growth, resilience, and transformation, and of a
+community that continues to rise towards greater heights. This milestone
+reminds us of how far we have come, while inspiring us to go even further
+together. Most importantly, it celebrates 40 years of impact—where every
+small step taken by each Ytzen contributes to a brighter, shared future.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/download.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">YT 40 &amp; Beyond Challenge</div><div class="isomer-card-description">The YT40 Challenges encourage every YTzen to celebrate our 40th anniversary through meaningful actions—showing appreciation, creating, leading, and contributing to the school. Through these, students build pride, values, and a stronger sense of community.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
