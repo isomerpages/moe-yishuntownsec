@@ -1,0 +1,6 @@
+collections:
+  yt40:
+    output: true
+    order:
+      - YT40 & Beyond.md
+      - YT40 Challenge.md
