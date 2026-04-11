@@ -2,5 +2,6 @@ collections:
   yt40:
     output: true
     order:
+      - YTFIESTA.md
       - YT40 & Beyond.md
       - YT40 Challenge.md
