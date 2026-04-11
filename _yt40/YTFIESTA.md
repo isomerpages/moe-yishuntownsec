@@ -60,6 +60,7 @@ creating meaningful and memorable experiences for our community.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>Assembly point &amp; how to get there:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/02_100plus_promenade_running_track.jpg">
@@ -76,6 +77,6 @@ creating meaningful and memorable experiences for our community.</p>
 <p>Students are expected to be present regardless of the weather</p>
 </li>
 </ul>
-<p><a href="https://drive.google.com/drive/folders/1-CBMQFqCFXPdvgMXrxbQGsbydzTKipgX?usp=sharing" rel="noopener nofollow" target="_blank">Click here for more information</a>
+<p><a href="/files/YT_Fiesta_Slides_for_School_Website.pdf" rel="noopener nofollow" target="_blank">click here for more information</a>
 </p>
 <p></p>
