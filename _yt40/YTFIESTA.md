@@ -76,4 +76,6 @@ creating meaningful and memorable experiences for our community.</p>
 <p>Students are expected to be present regardless of the weather</p>
 </li>
 </ul>
+<p><a href="https://drive.google.com/drive/folders/1-CBMQFqCFXPdvgMXrxbQGsbydzTKipgX?usp=sharing" rel="noopener nofollow" target="_blank">Click here for more information</a>
+</p>
 <p></p>
