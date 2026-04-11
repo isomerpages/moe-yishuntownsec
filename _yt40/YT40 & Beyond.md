@@ -16,7 +16,7 @@ reminds us of how far we have come, while inspiring us to go even further
 together. Most importantly, it celebrates 40 years of impact—where every
 small step taken by each Ytzen contributes to a brighter, shared future.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging-lite.d2ror6n961pkir.amplifyapp.com/yt40-challenge/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/download.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">YT 40 &amp; Beyond Challenge</div><div class="isomer-card-description">The YT40 Challenges invite every YTzen to celebrate our 40th anniversary through appreciation, creativity, leadership, and contribution—building pride, values, and a stronger school community.</div><div class="isomer-card-link">Click for more information</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://staging-lite.d2ror6n961pkir.amplifyapp.com/40th-speech-day/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/YT40_Websiite_600_x_400.gif">
