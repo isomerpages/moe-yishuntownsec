@@ -5,20 +5,34 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__I_can_cheer_the_YT40_Cheer___5_points__2__I_create_a_video_on_why_I_m_proud_to_be_a_YTzen___5_points__3__I_complete_a_social_media_challenge__40_Things_I_Like_About_YTSS____5_points__4__I_write_words_of_appr.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/download.gif">
+</div>
+<h4><strong>YT40 Challenges</strong></h4>
+<p>All YTzens are invited to take part in the YT40 Challenges! Choose the
+activities that interest you and aim to accumulate at least 40 points.
+Challenges 5, 8, 10, and 12 may be completed in groups. Points earned will
+contribute to your class’s overall score for the Principal’s Challenge.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YT40_Websiite_600_x_400__1_.jpg">
 </div>
 <p></p>
-<h1><strong>YT40 Challenges</strong></h1>
-<p>Take on the challenges that interest you and strive to achieve at least
-40 points.
-<br>Challenges no. 5, 8, 10, and 12 can be completed in groups.
-<br>The points earned by all students in the class will be added to the class
-score for Principal’s Challenge.
-<br>
-</p>
-<table style="minWidth: 75px">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YT40_Websiite_600_x_400.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YT40_Websiite_600_x_400__2_.jpg">
+</div>
+<p>
+<br>All YT40 Challenge submissions are to be uploaded to your <strong>Class Padlet</strong> via
+the link below. Please log in using your <strong>student account</strong> to
+access your class Padlet.</p>
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -26,124 +40,148 @@ score for Principal’s Challenge.
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>5 points</p>
+<p>Sec 1</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>10 points</p>
+<p>Sec 2</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>20 points</p>
+<p>Sec 3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Sec 4</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1) I can cheer the YT40 Cheer.</p>
+<p>Class 1A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6b) On one A4-size page, use words, drawings, poems, or lyrics in your
-Mother Tongue language, share how a person from YTSS has inspired you.</p>
+<p>Class 2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12) I initiate and complete a school improvement project (e.g., Adopt-a-Toilet).</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2) I create a video on why I’m proud to be a YTzen.</p>
+<p>Class 3A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7) I create a YT40 artwork.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Class 4A</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3) I complete a social media challenge “40 Things I Like About YTSS”.</p>
+<p>Class 1B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8) I contribute to my class’s “Book of 40 Stories of Kindness”.</p>
+<p>Class 2B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4) I write words of appreciation to five non-teaching staff.</p>
+<p>Class 3B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9) I create a poster to encourage schoolmates to eat a balanced diet.
-The poster should include key elements such as the My Healthy Plate concept,
-examples of healthy food choices, and a short message encouraging healthy
-eating habits among students.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Class 4B</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5) I complete a 30-minute physical activity such as running, a workout,
-or playing a sport with a friend or family member.</p>
+<p>Class 1C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10) I volunteer myself for a school event.</p>
+<p>Class 2C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Class 3C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class 4C</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6a) On one A4-size page, use words, drawings, poems, or lyrics, share
-how a person from YTSS has inspired you.</p>
+<p>Class 1D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11) I can lead the cohort/school in the YTSS school song or school rally
-independently.</p>
+<p>Class 2D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class 3D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class 4D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Class 1E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class 2E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class 3E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class 4E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Class 1F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class 2F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class 3F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class 4F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Class 1G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class 2G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class 3G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class 4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class 3H</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class 4H</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>All YT40 Challenge submissions are to be compiled digitally using <strong>Canva</strong> and
-uploaded to your class <strong>Padlet</strong>.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Use <strong>Canva</strong> to create your submissions (e.g. videos, posters,
-reflections, artworks). You may combine multiple challenges into one Canva
-file or presentation.</p>
-</li>
-<li>
+<p>You may submit your work in appropriate formats (e.g. videos, posters,
+reflections, artworks). You may also combine multiple challenges into one
+submission.</p>
 <p>Ensure your work is clearly labelled with:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Your <strong>Name &amp; Class</strong>
-</p>
+<p>Your Name &amp; Class</p>
 </li>
 <li>
-<p><strong>Challenge number(s)</strong> completed</p>
+<p>Challenge number(s) completed</p>
 </li>
 </ul>
-</li>
-<li>
-<p>Upload your completed work (or Canva link) to your <strong>class Padlet</strong> under
-the assigned column.</p>
-</li>
-<li>
+<p>Upload your completed work (or link) to your column on the Class Padlet.</p>
 <p>For non-digital tasks (e.g. appreciation notes, volunteering, physical
-activity), provide <strong>photo/video evidence</strong> or a short reflection
-on Canva before uploading.</p>
-</li>
-<li>
+activity), include photo/video evidence or a short reflection.</p>
 <p>Ensure all submissions are neat, meaningful, and reflect your pride as
-a <strong>YTzen</strong>.</p>
-</li>
-</ol>
+a YTzen.</p>
 <p>Let’s take this opportunity to celebrate YT40 through your creativity,
 contributions, and actions! 🎉</p>
