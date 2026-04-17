@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="YT40 logo" src="/images/Untitled_design.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YT40_Websiite_600_x_400_AAA.gif">
 </div>
 <p>Our 40<sup>th</sup> anniversary is more than a celebration of the past;
 it is a renewed commitment to shape the future—one YTzen at a time. It
