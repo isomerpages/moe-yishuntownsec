@@ -1,6 +1,6 @@
 ---
-title: DSA Information for YTSS in 2025
-permalink: /dsa-information-for-ytss-in-2025/
+title: DSA Information for YTSS in 2026
+permalink: /dsa-information-for-ytss-in-2026/
 variant: tiptap
 description: ""
 ---
@@ -13,14 +13,14 @@ description: ""
 </p>
 <p><strong><em>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em></strong>
 </p>
-<p><em>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of- charge and will be open from 7 May 2025, 11am to 3rd Jun 2025, 3pm. For more details, please refer to the MOE website: <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></em>
+<p><em>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of- charge and will be open from 6 May 2026, 11am to 2<sup>nd</sup> Jun 2026, 4.30pm. For more details, please refer to MOE website- </em><strong><em><a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></em></strong>
 </p>
 <h4>Overview</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>YTSS welcomes prospective students who demonstrate talent, passion and
 ability in our various talent categories. Successful applicants will join
-YTSS in January 2026. Generally, students who are keen to apply should
+YTSS in January 2027. Generally, students who are keen to apply should
 possess strong level of motivation and commitment to the talent areas,
 and in other curricular and co-curricular activities offered by the school.
 While achievement level and mastery in their chosen area is key, we are
@@ -49,8 +49,8 @@ Hence, every DSA student will be able to excel in their endeavours in YTSS.</p>
 </ul>
 <h4>DSA Talent Areas, Selection Criteria &amp; Programmes</h4>
 <p>Please click on the following link to view our DSA talent areas, selection
-criteria and programmes for 2025:</p>
-<p><a href="/files/2025_YTSS_DSA_Criteria.pdf" rel="noopener nofollow" target="_blank">2025 YTSS DSA Talent Areas, Selection Criteria &amp; Programmes</a>
+criteria and programmes for 2026:</p>
+<p><a href="/files/2026_YTSS_DSA_Talent_Areas__Selection_Criteria___Programmes_.pdf" rel="noopener nofollow" target="_blank">2026 YTSS DSA Talent Areas, Selection Criteria &amp; Programmes</a>
 </p>
 <h4>Key Dates for DSA-Sec</h4>
 <table style="minWidth: 75px">
@@ -85,7 +85,7 @@ criteria and programmes for 2025:</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 May, 11am – 3 June, 3pm</p>
+<p>6 May, 11am – 2 June 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application Period</p>
@@ -109,7 +109,7 @@ will also be informed via email.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1<sup> </sup>July – 1 Sep</p>
+<p>29<sup> </sup>Jun – 28 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Conduct of DSA Selection Sessions and Interview (in person</p>
@@ -121,7 +121,7 @@ will also be informed via email.</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25 Aug - 4 Sep</p>
+<p>17 Aug - 28 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All shortlisted applicants will be informed of the results of</p>
@@ -133,7 +133,7 @@ will also be informed via email.</p>
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 - 31 Oct</p>
+<p>19 – 23 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Preference Submission by applicants</p>
@@ -144,7 +144,7 @@ will also be informed via email.</p>
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Late Nov</p>
+<p>End Nov</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>DSA Results Release</p>
@@ -188,8 +188,8 @@ will also be informed via email.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Direct to DSA-Sec Portal (Mainstream Students)</p>
-<p>*go live on 7 May 2025, 11am</p>
+<p>DSA-Sec Portal (Mainstream Students)</p>
+<p>*go live on 6 May 2026, 11am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/apply-dsa-sec" rel="noopener nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
@@ -198,8 +198,8 @@ will also be informed via email.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Direct to DSA-Sec Portal (Non-Mainstream Students)</p>
-<p>*go live on 7 May 2025, 11am</p>
+<p>DSA-Sec Portal (Non-Mainstream Students)
+<br>*go live on 6 May 2026, 11am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
