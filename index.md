@@ -15,7 +15,7 @@ sections:
         - title: Principal's Message 2026
           description: Click to read
           url: https://www.yishuntownsec.moe.edu.sg/principal-s-message-2026/
-        - title: Sale of School Uniform & Textbooks for 2026 (Sec 2 to Sec 5)
+        - title: 2026 DSA Information
           description: Click to find out more!
-          url: https://www.yishuntownsec.moe.edu.sg/parents-links/sale-of-school-uniforms-n-textbooks-for-2026-sec-2-5/
+          url: https://www.yishuntownsec.moe.edu.sg/dsa-information-for-ytss-in-2026/
 ---
