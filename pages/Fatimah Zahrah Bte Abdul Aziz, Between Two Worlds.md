@@ -16,13 +16,25 @@ the piece expresses uncertainty while embracing adaptation within an ever-changi
 fast-paced world.</p>
 <p><strong><u>See and Wonder:</u></strong>
 </p>
-<p>1) How does your parents' or grandparents' childhood differ from yours?</p>
-<p>2) Would you prefer living in the modern times or in the past?</p>
-<p>3) Do you have any fond memories from the past that you wished to revisit?
+<ul data-tight="true" class="tight">
+<li>
+<p>How does your parents' or grandparents' childhood differ from yours?</p>
+</li>
+<li>
+<p>Would you prefer living in the modern times or in the past?</p>
+</li>
+<li>
+<p>Do you have any fond memories from the past that you wished to revisit?
 Why?</p>
+</li>
+</ul>
 <p><strong><u>Activity:</u></strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Compare your environment from the past to the present. Draw and write
 a short description of your fondest memory from the past.</p>
+</li>
+</ul>
 <p></p>
 <p></p>
