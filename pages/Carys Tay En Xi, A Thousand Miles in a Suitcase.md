@@ -20,14 +20,28 @@ often taken for granted, and to reflect on what “home” truly means when
 it is no longer a place, but a condition shaped by circumstance, memory,
 and resilience.</p>
 <h4><strong><u>See and Wonder:</u></strong></h4>
-<p>1) Which object or scene in the artwork reminds you most of your own memories
+<ul data-tight="true" class="tight">
+<li>
+<p>Which object or scene in the artwork reminds you most of your own memories
 or experiences? Why?</p>
-<p>2) If you could step into one part of the artwork, what would you hear
-or feel?</p>
-<p>3) What kind of privileges do you think you have?</p>
+</li>
+<li>
+<p>If you could step into one part of the artwork, what would you hear or
+feel?</p>
+</li>
+<li>
+<p>What kind of privileges do you think you have?</p>
+</li>
+</ul>
 <h4><strong><u>Activity:</u></strong></h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Past-Present-Future Poem: Write a short poem inspired by the artwork about
 your past memories, present life, and future dreams.</p>
+</li>
+<li>
 <p>Sketch a suitcase that contains your treasured memories and objects.</p>
+</li>
+</ul>
 <h4></h4>
 <p></p>
