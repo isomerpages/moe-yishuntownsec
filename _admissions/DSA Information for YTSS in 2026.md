@@ -188,7 +188,7 @@ will also be informed via email.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Direct to DSA-Sec Portal (Mainstream Students)</p>
+<p>DSA-Sec Portal (Mainstream Students)</p>
 <p>*go live on 6 May 2026, 11am</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -198,7 +198,7 @@ will also be informed via email.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Direct to DSA-Sec Portal (Non-Mainstream Students)
+<p>DSA-Sec Portal (Non-Mainstream Students)
 <br>*go live on 6 May 2026, 11am</p>
 </td>
 <td rowspan="1" colspan="1">
