@@ -17,4 +17,6 @@ to shape every YTzen.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YT40_Programme_Booklet.png">
 </div>
-<p></p>
+<p>Please click on the URL below to access the programme booklet:</p>
+<p><a href="https://canva.link/slcez448ar1mr49" rel="noopener noreferrer nofollow" target="_blank">https://canva.link/slcez448ar1mr49</a>
+</p>
