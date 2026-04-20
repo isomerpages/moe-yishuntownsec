@@ -3,6 +3,7 @@ title: Soukthanit Khanthachak, Interwoven Cultures and My Identity
 permalink: /soukthanit-khanthachak-interwoven-cultures-and-my-identity/
 variant: tiptap
 description: ""
+third_nav_title: Level 2 Art Gallery
 ---
 <p></p>
 <div class="isomer-image-wrapper">

@@ -3,6 +3,7 @@ title: Chee Baoping, Family Time
 permalink: /chee-baoping-family-time/
 variant: tiptap
 description: ""
+third_nav_title: Level 2 Art Gallery
 ---
 <p></p>
 <div class="isomer-image-wrapper">

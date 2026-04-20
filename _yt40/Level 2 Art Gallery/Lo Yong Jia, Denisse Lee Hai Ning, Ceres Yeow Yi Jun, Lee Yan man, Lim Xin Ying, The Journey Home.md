@@ -4,6 +4,7 @@ title: Lo Yong Jia, Denisse Lee Hai Ning, Ceres Yeow Yi Jun, Lee Yan man, Lim
 permalink: /lo-yong-jia-denisse-lee-hai-ning-ceres-yeow-yi-jun-lee-yan-man-lim-xin-ying-the-journey-home/
 variant: tiptap
 description: ""
+third_nav_title: Level 2 Art Gallery
 ---
 <p></p>
 <div class="isomer-image-wrapper">

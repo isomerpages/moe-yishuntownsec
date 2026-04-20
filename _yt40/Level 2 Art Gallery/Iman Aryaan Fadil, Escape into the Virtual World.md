@@ -3,6 +3,7 @@ title: Iman Aryaan Fadil, Escape into the Virtual World
 permalink: /iman-aryaan-fadil-escape-into-the-virtual-world/
 variant: tiptap
 description: ""
+third_nav_title: Level 2 Art Gallery
 ---
 <p></p>
 <div class="isomer-image-wrapper">

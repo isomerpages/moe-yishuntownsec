@@ -3,6 +3,7 @@ title: Appreciating the Craft of Ceramics
 permalink: /appreciating-the-craft-of-ceramics/
 variant: tiptap
 description: ""
+third_nav_title: Level 2 Art Gallery
 ---
 <p></p>
 <div class="isomer-image-wrapper">
