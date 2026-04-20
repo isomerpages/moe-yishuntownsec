@@ -2,10 +2,10 @@ collections:
   yt40:
     output: true
     order:
-      - Homecoming.md
       - YT40 & Beyond.md
       - Launch of YT40.md
       - YT40 Challenge.md
       - 40th SPEECH DAY.md
       - "Level 2 Art Gallery: Navigating the Evolving Future.md"
       - YTFIESTA.md
+      - Homecoming.md
