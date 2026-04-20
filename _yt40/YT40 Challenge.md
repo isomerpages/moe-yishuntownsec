@@ -10,21 +10,31 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/download.gif">
 </div>
 <h4><strong>YT40 Challenges</strong></h4>
-<p>All YTzens are invited to take part in the YT40 Challenges! Choose the
-activities that interest you and aim to accumulate at least 40 points.
-Challenges 5, 8, 10, and 12 may be completed in groups. Points earned will
-contribute to your class’s overall score for the Principal’s Challenge.</p>
+<p>All YTzens are invited to take part in the YT40 Challenges!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Choose the activities that interest you and aim to accumulate at least
+40 points.</p>
+</li>
+<li>
+<p>Challenges 5, 8, 10, and 12 may be completed in groups.</p>
+</li>
+<li>
+<p>Points earned will contribute to your class’s overall score for the Principal’s
+Challenge.</p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YT40_Websiite_600_x_400__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YT40_Website_600_x_400_5_pts.gif">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YT40_Websiite_600_x_400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YT40_Website_600_x_400_10_pts.gif">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YT40_Websiite_600_x_400__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YT40_Website_600_x_400_20_pts.gif">
 </div>
 <p>
 <br>All YT40 Challenge submissions are to be uploaded to your <strong>Class Padlet</strong> via
@@ -216,4 +226,4 @@ activity), include photo/video evidence or a short reflection.</p>
 <p>Ensure all submissions are neat, meaningful, and reflect your pride as
 a YTzen.</p>
 <p>Let’s take this opportunity to celebrate YT40 through your creativity,
-contributions, and actions! 🎉</p>
+contributions, and actions!</p>
