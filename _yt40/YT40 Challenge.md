@@ -54,10 +54,12 @@ access your class Padlet.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class 1A</p>
+<p><a href="https://padlet.com/ytss/1a-yt40-challenge-lmh0ncey5vcf933l" rel="noopener nofollow" target="_blank">Class 1A</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class 2A</p>
+<p><a href="https://padlet.com/ytss/2a-yt40-challenge-9nd86fa2colw77z7" rel="noopener nofollow" target="_blank">Class 2A</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://padlet.com/ytss/3a-yt40-challenge-2na0txmmaviu1dhw" rel="noopener nofollow" target="_blank">Class 3A</a>
@@ -70,10 +72,12 @@ access your class Padlet.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class 1B</p>
+<p><a href="https://padlet.com/ytss/1b-yt40-challenge-vkubc6g2e12si784" rel="noopener nofollow" target="_blank">Class 1B</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class 2B</p>
+<p><a href="https://padlet.com/ytss/2b-yt40-challenge-skrp6o1iwh8p3i6e" rel="noopener nofollow" target="_blank">Class 2B</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://padlet.com/ytss/3b-yt40-challenge-fxkhw7hqh24wr1n8" rel="noopener nofollow" target="_blank">Class 3B</a>
@@ -86,10 +90,12 @@ access your class Padlet.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class 1C</p>
+<p><a href="https://padlet.com/ytss/1c-yt40-challenge-3fg1uomyypch232i" rel="noopener nofollow" target="_blank">Class 1C</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class 2C</p>
+<p><a href="https://padlet.com/ytss/2c-yt40-challenge-i49bui5l7yvtu08q" rel="noopener nofollow" target="_blank">Class 2C</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://padlet.com/ytss/3c-yt40-challenge-gqdbagkr9vodriej" rel="noopener nofollow" target="_blank">Class 3C</a>
@@ -102,10 +108,12 @@ access your class Padlet.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class 1D</p>
+<p><a href="https://padlet.com/ytss/1d-yt40-challenge-uqvnjcznrxsuvfyk" rel="noopener nofollow" target="_blank">Class 1D</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class 2D</p>
+<p><a href="https://padlet.com/ytss/2d-yt40-challenge-18rkshgdlccvm4ju" rel="noopener nofollow" target="_blank">Class 2D</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://padlet.com/ytss/3d-yt40-challenge-tznkvuqe4qetk0cm" rel="noopener nofollow" target="_blank">Class 3D</a>
@@ -118,10 +126,12 @@ access your class Padlet.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class 1E</p>
+<p><a href="https://padlet.com/ytss/1e-yt40-challenge-j9xamean9e8l2nhv" rel="noopener nofollow" target="_blank">Class 1E</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class 2E</p>
+<p><a href="https://padlet.com/ytss/2e-yt40-challenge-14iq9h04ye3kr34" rel="noopener nofollow" target="_blank">Class 2E</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://padlet.com/ytss/3e-yt40-challenge-ogshhfuccaosbzgz" rel="noopener nofollow" target="_blank">Class 3E</a>
@@ -134,10 +144,12 @@ access your class Padlet.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class 1F</p>
+<p><a href="https://padlet.com/ytss/1f-yt40-challenge-xy8eip3lyjpv4hw5" rel="noopener nofollow" target="_blank">Class 1F</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class 2F</p>
+<p><a href="https://padlet.com/ytss/2f-yt40-challenge-g6m5ahzrzloq80zk" rel="noopener nofollow" target="_blank">Class 2F</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://padlet.com/ytss/3f-yt40-challenge-m8g6ttc6n0um542o" rel="noopener nofollow" target="_blank">Class 3F</a>
@@ -150,10 +162,12 @@ access your class Padlet.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class 1G</p>
+<p><a href="https://padlet.com/ytss/1g-yt40-challenge-vutwxx0sqy979qdx" rel="noopener nofollow" target="_blank">Class 1G</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class 2G</p>
+<p><a href="https://padlet.com/ytss/2g-yt40-challenge-jyrzzpjdsekgj0gt" rel="noopener nofollow" target="_blank">Class 2G</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://padlet.com/ytss/3g-yt40-challenge-qt7tdrw6s0hjbzh4" rel="noopener nofollow" target="_blank">Class 3G</a>
@@ -188,10 +202,12 @@ submission.</p>
 <p>Ensure your work is clearly labelled with:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Your Name &amp; Class</p>
+<p><strong>Your Name &amp; Class</strong>
+</p>
 </li>
 <li>
-<p>Challenge number(s) completed</p>
+<p><strong>Challenge number(s) completed</strong>
+</p>
 </li>
 </ul>
 <p>Upload your completed work (or link) to your column on the Class Padlet.</p>
