@@ -15,6 +15,9 @@ sections:
         - title: Principal's Message 2026
           description: Click to read
           url: https://www.yishuntownsec.moe.edu.sg/principal-s-message-2026/
+        - title: YT40 Celebrations
+          description: Click to find out more!
+          url: https://www.yishuntownsec.moe.edu.sg/yt40-beyond-main-page/
         - title: 2026 DSA Information
           description: Click to find out more!
           url: https://www.yishuntownsec.moe.edu.sg/dsa-information-for-ytss-in-2026/
