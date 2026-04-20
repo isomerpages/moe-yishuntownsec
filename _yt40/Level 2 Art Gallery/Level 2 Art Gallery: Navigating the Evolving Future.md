@@ -16,8 +16,8 @@ and challenges. The showcase encourages students to consider how they can
 mature, adapt, and transform meaningfully as they navigate an ever-evolving
 future with resilience and purpose.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/10.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Carys Tay En Xi</div><div class="isomer-card-description">A Thousand Miles in a Suitcase</div><div class="isomer-card-link">Click for more information</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging-lite.d2ror6n961pkir.amplifyapp.com/carys-tay-en-xi-a-thousand-miles-in-a-suitcase/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/10.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Carys Tay En Xi</div><div class="isomer-card-description">A Thousand Miles in a Suitcase</div><div class="isomer-card-link">Click for more information</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://staging-lite.d2ror6n961pkir.amplifyapp.com/fatimah-zahrah-bte-abdul-aziz-between-two-worlds/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/11.jpg">
@@ -28,8 +28,8 @@ future with resilience and purpose.</p>
 <div class="isomer-card-description">Between Two Worlds</div>
 <div class="isomer-card-link">Click for more information</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/12.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Soukthanit Khanthachak</div><div class="isomer-card-description">Interwoven Cultures and My Identity</div><div class="isomer-card-link">Click for more information</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://staging-lite.d2ror6n961pkir.amplifyapp.com/soukthanit-khanthachak-interwoven-cultures-and-my-identity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/12.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Soukthanit Khanthachak</div><div class="isomer-card-description">Interwoven Cultures and My Identity</div><div class="isomer-card-link">Click for more information</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://staging-lite.d2ror6n961pkir.amplifyapp.com/lo-yong-jia-denisse-lee-hai-ning-ceres-yeow-yi-jun-lee-yan-man-lim-xin-ying-the-journey-home/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/13.jpg">
@@ -41,8 +41,8 @@ Xin Ying,</div>
 <div class="isomer-card-description">The Journey Home</div>
 <div class="isomer-card-link">Click for more information</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/14.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Teo Soon Hang</div><div class="isomer-card-description">I Define My Success</div><div class="isomer-card-link">Click for more information</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://staging-lite.d2ror6n961pkir.amplifyapp.com/teo-soon-hang-i-define-my-success/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/14.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Teo Soon Hang</div><div class="isomer-card-description">I Define My Success</div><div class="isomer-card-link">Click for more information</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://staging-lite.d2ror6n961pkir.amplifyapp.com/iman-aryaan-fadil-escape-into-the-virtual-world/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/15.jpg">
@@ -53,8 +53,8 @@ Xin Ying,</div>
 <div class="isomer-card-description">Escape into the Virtual World</div>
 <div class="isomer-card-link">Click for more information</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/16.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chee Baoping</div><div class="isomer-card-description">Family Time</div><div class="isomer-card-link">Click for more information</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://staging-lite.d2ror6n961pkir.amplifyapp.com/chee-baoping-family-time/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/16.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chee Baoping</div><div class="isomer-card-description">Family Time</div><div class="isomer-card-link">Click for more information</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://staging-lite.d2ror6n961pkir.amplifyapp.com/appreciating-the-craft-of-ceramics/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/17.jpg">
