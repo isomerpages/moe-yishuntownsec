@@ -2,6 +2,7 @@ collections:
   yt40:
     output: true
     order:
+      - Level 2 Art Gallery/.keep
       - YT40 & Beyond.md
       - Launch of YT40.md
       - YT40 Challenge.md
