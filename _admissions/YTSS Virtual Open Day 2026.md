@@ -25,5 +25,7 @@ home to our students.</p>
 <br>Time: 4 p.m. - 5.30 p.m.
 <br>Webinar Link: <a href="https://go.gov.sg/ytssopenday2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ytssopenday2026</a>
 </p>
-<p></p>
+<p>If you have any questions prior to the webinar session, you may submit
+them via this link: <a href="https://go.gov.sg/ytssopendayqna2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ytssopendayqna2026</a>
+</p>
 <p></p>
