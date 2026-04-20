@@ -45,7 +45,7 @@ and purpose.</div>
 <div class="isomer-card-link">Click for more information</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://staging-lite.d2ror6n961pkir.amplifyapp.com/ytfiesta/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/YT40_Websiite_600_x_400__1_.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">YTFIESTA</div><div class="isomer-card-description">To bring all YTzens together to bond and build school spirit, promote a healthy physical and mental lifestyle, and inculcate sportsmanship while striving for competitive excellence.</div><div class="isomer-card-link">Click for more information</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://staging-lite.d2ror6n961pkir.amplifyapp.com/homecoming/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/YT40_Websiite_600_x_400_BBB.gif">
