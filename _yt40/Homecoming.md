@@ -26,5 +26,8 @@ school events.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_04_20_at_23_15_19.jpg">
 </div>
+<p>Please click on the URL below to join our telegram channel for YTSS alumni:
+<br><a href="https://t.me/+wBZsi9XrKJgxZTM1" rel="noopener noreferrer nofollow" target="_blank">https://t.me/+wBZsi9XrKJgxZTM1</a>
+</p>
 <p></p>
 <p></p>
