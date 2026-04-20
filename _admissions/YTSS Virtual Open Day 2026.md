@@ -16,11 +16,14 @@ achieve a well-rounded quality education which stretches each YTzen to
 his or her fullest potential.</p>
 <p>Join our E-Open Day (virtual session) and discover why YTSS feels like
 home to our students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YTSS_MOTD_EOpen_Day_2026.jpg">
+</div>
 <p>Here is the information on our E-Open Day 2026:
 <br>Date: 12 May 2026 (Tuesday)
 <br>Time: 4 p.m. - 5.30 p.m.
-<br>
-<br>The website will be updated with more details closer to the date of the
-E-Open Day.</p>
+<br>Webinar Link: <a href="https://go.gov.sg/ytssopenday2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ytssopenday2026</a>
+</p>
 <p></p>
 <p></p>
