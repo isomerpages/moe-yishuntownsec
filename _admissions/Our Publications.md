@@ -4,8 +4,9 @@ permalink: /about-us/permalink/
 variant: tiptap
 description: ""
 ---
-<p>Our 2025 Yearbook is now ready for viewing!</p>
-<p>Click on the image below to relive some of our key memories of 2025!</p>
+<h4>Our 2025 Yearbook is now ready for viewing!</h4>
+<p>Click on the image below to relive some of our key moments and memories
+of 2025!</p>
 <p></p><a class="isomer-image-wrapper" href="https://online.fliphtml5.com/aejkc/Yishun-Town-Sec-Yearbook-2025--Flipbook/#p=1"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025_YTSS_Yearbook_Coverpage.jpg"></a>
 <p></p>
 <p>To give you a better understanding of our people, programme and processes,
