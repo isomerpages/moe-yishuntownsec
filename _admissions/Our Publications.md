@@ -4,11 +4,15 @@ permalink: /about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>Our 2025 Yearbook is now ready for viewing!</h4>
+<p>Click on the image below to relive some of our key moments and memories
+of 2025!</p>
+<p></p><a class="isomer-image-wrapper" href="https://online.fliphtml5.com/aejkc/Yishun-Town-Sec-Yearbook-2025--Flipbook/#p=1"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025_YTSS_Yearbook_Coverpage.jpg"></a>
+<p></p>
 <p>To give you a better understanding of our people, programme and processes,
 you may wish to download our various publicity materials.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -22,10 +26,6 @@ you may wish to download our various publicity materials.</p>
 <p><a href="https://drive.google.com/drive/folders/1tqMcCv0SbiQpHUGUK8CcD2Xj_8pWUs1Z" rel="noopener noreferrer nofollow" target="_blank">CCA Prospectus</a>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1tqMcCv0SbiQpHUGUK8CcD2Xj_8pWUs1Z" rel="noopener noreferrer nofollow" target="_blank">Yearbook</a>
-</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -36,11 +36,6 @@ you may wish to download our various publicity materials.</p>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_04_27_at_3_40_20_PM.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yearbook_2024_Cover.jpg">
 </div>
 </td>
 </tr>
