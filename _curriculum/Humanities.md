@@ -5,9 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Humanities</strong></h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Humanities Department 2025" src="/images/Humanities_Department.jpg">
-</div>
 <h3>Department Overview</h3>
 <p>Anchoring on the department’s core belief that Humanities is the window
 to the soul of humanity, we aim to develop a community of passionate learners
