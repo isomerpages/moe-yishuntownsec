@@ -5,9 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Mother Tongue Languages</strong></h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mother Tongue Department 2025" src="/images/Mother_Tongue_Languages_Department.jpg">
-</div>
 <h3>Philosophy</h3>
 <p>Through the learning of Mother Tongue languages, students will gain insight
 into the history and culture of their ethnicity which will shape their
@@ -347,11 +344,11 @@ created a real-life context for learning through which students’ confidence,
 autonomy, and sense of responsibility were enhanced.</p>
 <h3>Picture Highlights - Mother Tongue Fortnight 2019</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT-3mwKC2d6e3HD3b28sktBrpcXUL6g2_Iwel3h59yb84UaEPILr0z8StPEQE1LmYGs7Tzj1vdUv1G-/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT-3mwKC2d6e3HD3b28sktBrpcXUL6g2_Iwel3h59yb84UaEPILr0z8StPEQE1LmYGs7Tzj1vdUv1G-/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p>uploaded 5/13</p>
 <h3>Picture Highlights - Book Review Exhibition 2019</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcTBNmS5R7o1i0irF-rRIPW1LqiO5JZR42kxtg1dzixn1PL0JWoHHeptwX__fS_Yn76oXVVRTG0bn0/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcTBNmS5R7o1i0irF-rRIPW1LqiO5JZR42kxtg1dzixn1PL0JWoHHeptwX__fS_Yn76oXVVRTG0bn0/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p>uploaded 5/12 images</p>
