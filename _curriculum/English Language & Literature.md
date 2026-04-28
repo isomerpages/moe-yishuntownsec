@@ -5,9 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>English Language &amp; Literature</strong></h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="English Language and Literature Department 2025" src="/images/English_Language___Literature_Department.jpg">
-</div>
 <h3>Philosophy</h3>
 <p>The English Language &amp; Literature Department believes that language
 is the basis of all communication and the primary instrument of thought
@@ -26,7 +23,7 @@ Department believes that language is the basis of all communication and
 the primary instrument of thought in all situations, both formal and informal.</p>
 <h3>Picture Highlights</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWVFhwFY38gAcBZk2YBehfjCOul7df_ovs-kngyTXWP1V7LnYACtda1hGfUGpAmQBhbMu2hpeINa62/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWVFhwFY38gAcBZk2YBehfjCOul7df_ovs-kngyTXWP1V7LnYACtda1hGfUGpAmQBhbMu2hpeINa62/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p>uploaded 5/12 images</p>
 <h3>Department Overview</h3>
