@@ -5,9 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Physical Education</strong></h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Physical Education Department 2025" src="/images/Physical_Education_Department.jpg">
-</div>
 <h3>Department Overview</h3>
 <p>The Physical Education Department believes in nurturing physically educated
 YTzens who are passionate to pursue lifelong physical activities. Through
@@ -387,6 +384,6 @@ with the relevant skills and knowledge to lead an active and healthy lifestyle</
 </table>
 <h3>Picture Highlight</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQKAtQydTA6tsXpK_wV_KBPowzsE7CQ3aQt6BAXNIbv2pasNedePYcvuUogV-lZrVwT9ziXRvkQwayI/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQKAtQydTA6tsXpK_wV_KBPowzsE7CQ3aQt6BAXNIbv2pasNedePYcvuUogV-lZrVwT9ziXRvkQwayI/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p>uploaded 5/9 images</p>
