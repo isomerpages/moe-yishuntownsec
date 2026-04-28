@@ -6,9 +6,6 @@ third_nav_title: Aesthetics & Technology
 variant: tiptap
 ---
 <h1><strong>Aesthetics and Technology Department</strong></h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Aesthetics and Technology Department 2025" src="/images/Aesthetics___Technology_Department.jpg">
-</div>
 <h2>Mission and Vision</h2>
 <table style="minWidth: 50px">
 <colgroup>
@@ -69,7 +66,7 @@ aesthetic, ergonomic and economic judgments, suitability for purpose and
 ease of manufacture) but also in relation to the rightness or wrongness
 of a particular solution in ethical terms.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTHbiRYbFF-C3miDAG-caVRt7nxj3VuGYg0pJHcFi1-c4IygetkKtxltF8-AI4dAavLeCipYV858qbd/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTHbiRYbFF-C3miDAG-caVRt7nxj3VuGYg0pJHcFi1-c4IygetkKtxltF8-AI4dAavLeCipYV858qbd/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <h3>The philosophy of Art Unit</h3>
 <p>In a fast-changing and an increasing globalized world, we need to prepare
@@ -83,7 +80,7 @@ self-expression and develop traits of mental behaviour that are valuable
 such as mental flexibility and spontaneity which will help them flourish
 in a dynamic environment in the years ahead.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFbEl7QMnWbByhYieVB8OAli_SgTijaZNRaz6voUhzqyU2ioFj1d8BEwmu8Pr2Ucdj1pJlURLx6CeW/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFbEl7QMnWbByhYieVB8OAli_SgTijaZNRaz6voUhzqyU2ioFj1d8BEwmu8Pr2Ucdj1pJlURLx6CeW/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <h3>The philosophy of Nutrition and Food Science (NFS) Unit</h3>
 <p>The Nutrition and Food Science unit delivers the Food and Consumer Education
@@ -136,7 +133,7 @@ sustainable food consumption.</p>
 <br>To empower students with knowledge and skills to make informed decisions
 concerning food and nutrition.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSWqoGw6u58hAFwm7m5MY7T5BLwyNmnQ0NhAr-L0bMMQhDGlgUGjv1r1MAksUJqxRT0dji3JcUC7n-F/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSWqoGw6u58hAFwm7m5MY7T5BLwyNmnQ0NhAr-L0bMMQhDGlgUGjv1r1MAksUJqxRT0dji3JcUC7n-F/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <h3>The philosophy of Music Unit</h3>
 <p>Music lessons are musical, in which the instructional experience revolves
@@ -148,7 +145,7 @@ of hearing and gain awareness of the use of music in our everyday lives.
 They will then learn to listen with purpose and take more interest in the
 culture and society in which we live in.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSke5jTpa76Momr1abZyCqPSbI6bTFrkjI_ZOPpU3VGehNkH1YNJJMl_0pOjUSqPt_I9tQAZlCzuZV1/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSke5jTpa76Momr1abZyCqPSbI6bTFrkjI_ZOPpU3VGehNkH1YNJJMl_0pOjUSqPt_I9tQAZlCzuZV1/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <h3>Key Programs / Enrichment for students</h3>
 <table style="minWidth: 75px">

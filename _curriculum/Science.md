@@ -5,9 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Science</strong></h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Science Department 2025" src="/images/Science_Department.jpg">
-</div>
 <h3>Department Overview</h3>
 <p>In this increasingly technologically-driven world, YTzens need scientific
 literacy for effective functioning and meaningful participation in society.
@@ -156,13 +153,13 @@ Watch their videos here:
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rH-TVo1uShY?start=1"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rH-TVo1uShY?start=1"></iframe>
 </div>
 <p>
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bDObujU9Yfs?start=8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bDObujU9Yfs?start=8"></iframe>
 </div>
 </td>
 </tr>
