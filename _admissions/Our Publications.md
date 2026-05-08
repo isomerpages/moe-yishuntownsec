@@ -19,23 +19,23 @@ you may wish to download our various publicity materials.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1tqMcCv0SbiQpHUGUK8CcD2Xj_8pWUs1Z" rel="noopener noreferrer nofollow" target="_blank">Academic Prospectus</a>
+<p><a href="https://drive.google.com/drive/folders/1-Tv1_8zCYwANRXgXxG7Ye4JEskVzPWv1?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Academic Prospectus</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1tqMcCv0SbiQpHUGUK8CcD2Xj_8pWUs1Z" rel="noopener noreferrer nofollow" target="_blank">CCA Prospectus</a>
+<p><a href="https://drive.google.com/drive/folders/1-Tv1_8zCYwANRXgXxG7Ye4JEskVzPWv1?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">CCA Prospectus</a>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_04_27_at_3_42_11_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YTSS_Academic_Prospectus_Cover_Page_2026.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_04_27_at_3_40_20_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YTSS_CCA_Prospectus_Cover_Page_2026_edited.png">
 </div>
 </td>
 </tr>
