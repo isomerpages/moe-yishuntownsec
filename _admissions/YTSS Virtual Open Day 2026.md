@@ -10,6 +10,8 @@ description: ""
 </p>
 <p>Thank you for joining us for our E-Open Day webinar on 12 May 2026.</p>
 <p>Please find below, the slides that were shared during the webinar.</p>
+<p><a href="https://drive.google.com/file/d/1UPgqbd00Sr0FlXAwVdzG75WbgReRKLF0/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1UPgqbd00Sr0FlXAwVdzG75WbgReRKLF0/view?usp=sharing</a>
+</p>
 <p>Should you have any questions, please feel free to reach out to us via
 the following email: <a href="mailto:ytss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ytss@moe.edu.sg</a>
 </p>
