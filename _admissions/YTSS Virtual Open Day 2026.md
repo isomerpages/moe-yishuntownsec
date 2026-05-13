@@ -15,7 +15,7 @@ the following email: <a href="mailto:ytss@moe.edu.sg" rel="noopener noreferrer n
 </p>
 <p>You may also wish to follow our instagram account (<a href="https://www.instagram.com/yishuntownsec/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/yishuntownsec/</a>)
 to find out more about our student programmes and school events.</p>
-<p>We look forward to welcoming you to our YTSS family next year!</p>
+<p>We look forward to welcoming you into our YTSS family next year!</p>
 <hr>
 <p><strong>Dear Parents &amp; Prospective Students,</strong>
 </p>
