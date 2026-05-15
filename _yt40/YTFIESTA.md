@@ -55,7 +55,7 @@ creating meaningful and memorable experiences for our community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/02_100plus_promenade_running_track.jpg">
 </div>
-<p><strong>Location: Gate 5, The Promenade, National Stadium<br>Details: 5 min walk from Stadium MRT Exit A</strong>
+<p><strong>Location: Gate 5, Great Eastern Promenade, National Stadium<br>Details: 5 min walk from Stadium MRT Exit A</strong>
 </p>
 <p><strong>Note:</strong>
 </p>
@@ -67,6 +67,6 @@ creating meaningful and memorable experiences for our community.</p>
 <p>Students are expected to be present regardless of the weather</p>
 </li>
 </ul>
-<p><a href="https://canva.link/ytfiesta2026" rel="noopener nofollow" target="_blank">Click here for more details</a>
+<p><a href="https://canva.link/ytfiesta2026" rel="noopener nofollow" target="_blank">Click here for more information</a>
 </p>
 <p></p>
