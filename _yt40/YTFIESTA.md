@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YT40_Websiite_600_x_400__1_.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FOR_WEBSITE_yt_fiesta.gif">
 </div>
 <p>YTFIESTA is a vibrant school-wide celebration where YTzens come together
 to bond, showcase talents, and enjoy a variety of games, performances and
