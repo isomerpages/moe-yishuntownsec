@@ -34,7 +34,7 @@ creating meaningful and memorable experiences for our community.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>7.45am - 11.30am</strong>
+<p><strong>7.40am - 11.30am</strong>
 </p>
 </td>
 </tr>
@@ -44,17 +44,7 @@ creating meaningful and memorable experiences for our community.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>The Promenade, National Stadium</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Reporting Time</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>7.30am</strong>
+<p><strong>Great Eastern Promenade, National Stadium</strong>
 </p>
 </td>
 </tr>
@@ -77,6 +67,6 @@ creating meaningful and memorable experiences for our community.</p>
 <p>Students are expected to be present regardless of the weather</p>
 </li>
 </ul>
-<p><a href="/files/YT_Fiesta_Slides_for_School_Website.pdf" rel="noopener nofollow" target="_blank">click here for more information</a>
+<p><a href="https://canva.link/ytfiesta2026" rel="noopener nofollow" target="_blank">Click here for more details</a>
 </p>
 <p></p>
