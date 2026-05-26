@@ -11,7 +11,7 @@ description: ""
 vibrant school community, explore our campus, meet our dedicated staff
 and learn about the opportunities and unique programmes that we have to
 offer.</p>
-<p>Date: <strong>Saturday, November 14, 2025⁠⁠​</strong>
+<p>Date: <strong>Saturday, November 14, 2026⁠⁠​</strong>
 </p>
 <p>Time: <strong>8:30 AM - 12:30 PM⁠⁠​</strong>
 </p>
